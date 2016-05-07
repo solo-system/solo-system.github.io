@@ -1,6 +1,17 @@
 /**
  * Site header
  */
+
+/** added jdmc2 - I want a draft section at top of each page */
+.draft {
+    border-top: 5px solid green;
+    border-bottom: 1px solid green;
+    min-height: 56px;
+
+    // Positioning context for the mobile navigation icon
+    position: relative;
+}
+
 .site-header {
     border-top: 5px solid $grey-color-dark;
     border-bottom: 1px solid $grey-color-light;
