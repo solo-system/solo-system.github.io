@@ -4,22 +4,18 @@ title: FAQ
 permalink: /faq/
 ---
 
-This is the FAQ
-
 Introduction
-============
-This is the FAQ for the [Solo](http://jdmc2.com/solo/wp).  
+------------
+This is the FAQ for the [Solo](http://jdmc2.com/solo/wp).  Questions, answers and some ranting.
 
-Questions, answers and ranting
-==============================
+Eh - where am I?
+================
+Bewildered? - This is the FAQ for the Solo field recorder.  See here: [Solo](http://jdmc2.com/solo/wp) 
 
-Eh?
---------------
-Bewildered? - go here: [Solo](http://jdmc2.com/solo/wp) 
 
 
 What types of battery can it take?
-----------------------------------
+==================================
 
 The raspberry pi computer, at the heart of the Solo, runs from "USB
 power", which is 5 Volts supplied over a micro-USB cable.  Current
