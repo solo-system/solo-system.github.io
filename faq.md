@@ -6,12 +6,12 @@ permalink: /faq/
 
 Introduction
 ------------
+
 This is the FAQ for the [Solo](http://jdmc2.com/solo/wp).  Questions, answers and some ranting.
 
 Eh - where am I?
 ================
 Bewildered? - This is the FAQ for the Solo field recorder.  See here: [Solo](http://jdmc2.com/solo/wp) 
-
 
 
 What types of battery can it take?
