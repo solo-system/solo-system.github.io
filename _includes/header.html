@@ -13,7 +13,7 @@
         </svg>
       </a>
       
-{% assign sorted_pages = site.pages | sort:"name" %}
+{% assign sorted_pages = site.pages | sort:"weight" %}
 
       <div class="trigger">
         {% for my_page in sorted_pages %}
