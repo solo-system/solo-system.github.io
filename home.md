@@ -2,6 +2,7 @@
 layout: page
 title: Home
 permalink: /home/
+weight: 1
 ---
 
 # What is it for

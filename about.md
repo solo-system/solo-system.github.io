@@ -2,6 +2,7 @@
 layout: page
 title: about
 permalink: /about/
+weight: 5
 ---
 
 Solo records sound, permanently, indoors or out.  The software is open

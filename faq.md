@@ -2,6 +2,7 @@
 layout: page
 title: FAQ
 permalink: /faq/
+weight: 4
 ---
 
 Introduction

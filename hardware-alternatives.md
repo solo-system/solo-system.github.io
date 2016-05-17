@@ -2,6 +2,7 @@
 layout: page
 title: hardware-alternatives
 permalink: /hardware-alternatives/
+weight: 3
 ---
 
 All Solos are based on the same core minicomputer (Raspberry Pi). All
