@@ -1,7 +1,8 @@
 ---
 layout: page
-title: FAQ
+title: software
 permalink: /faq/
+weight: 4
 ---
 
 Introduction
