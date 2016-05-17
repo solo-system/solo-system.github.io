@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1-Home
+title: Homeboys
 permalink: /home/
 ---
 
