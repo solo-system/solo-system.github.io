@@ -9,12 +9,13 @@
 title: Solo - cheap audio recorder
 email: solo@solo-system.com
 
-description: Solo is an audio recorder.  Outdoor, continuous, battery-powered, based on raspberry-pi, open source, build-your-own, high-fidelity, configurable, user-servicable, cheap, modifiable, extensible, modular,
+description: Solo records audio.  Outdoor, continuous, battery-powered, based on raspberry-pi, open source, build-your-own, high-fidelity, configurable, user-servicable, cheap, modifiable, extensible, modular.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: whatever
-github_username:  solos-ystem
+#twitter_username: whatever
+github_username:  solos-system
+
 
 # Build settings
 markdown: kramdown
