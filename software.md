@@ -2,7 +2,7 @@
 layout: page
 title: software
 permalink: /faq/
-weight: 2
+weight: 3
 ---
 
 Introduction
