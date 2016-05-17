@@ -6,9 +6,9 @@ permalink: /about/
 
 Solo is an open source field recorder.  The code is developed on github.  The hardware assembly is easy.  They are not for sale from here.
 <hr>
-Solo is under active development.  Feel free to contact me at solo@solosystem.org
+Solo is under active development.  Feel free to contact me at info@solo-system.org
 
 
 You can find the source code for the core solo setup at: {% include icon-github.html username="solo-system" %} /
-[solo-system](https://github.com/solosystem/)
+[solo-system](https://github.com/solo-system/)
 

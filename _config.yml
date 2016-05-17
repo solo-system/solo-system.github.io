@@ -14,7 +14,7 @@ description: Solo is an audio recorder.  Outdoor, continuous, battery-powered, b
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: whatever
-github_username:  solosystem
+github_username:  solos-ystem
 
 # Build settings
 markdown: kramdown
