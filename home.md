@@ -1,16 +1,16 @@
 ---
 layout: page
-title: home
+title: 1-Home
 permalink: /home/
 ---
 
-# What is it for.
+# What is it for
 
 The SOLO is an autonomous outdoor audio recorder for unattended,
 long-term, and continuous environmental monitoring.
 
 
-# What it comprises.
+# What it comprises
 
 The SOLO comprises of a microphone, mini-computer and battery, with
 data being stored on a SD card. It is protected by a weatherproof
