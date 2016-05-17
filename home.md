@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homeboys
+title: Home
 permalink: /home/
 ---
 
@@ -9,8 +9,13 @@ permalink: /home/
 The SOLO is an autonomous outdoor audio recorder for unattended,
 long-term, and continuous environmental monitoring.
 
+# What it comprises  (basic system) & fact it can be modified 
 
-# What it comprises
+# Software
+
+# Advantages of basic system (easy/cost)
+
+# Associated places (facebook, youtube, paper)
 
 The SOLO comprises of a microphone, mini-computer and battery, with
 data being stored on a SD card. It is protected by a weatherproof
