@@ -14,7 +14,7 @@ description: Solo records audio.  Outdoor, continuous, battery-powered, based on
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: whatever
-github_username:  solos-system
+github_username:  solo-system
 
 
 # Build settings
