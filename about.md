@@ -5,6 +5,8 @@ permalink: /about/
 weight: 5
 ---
 
+###### proposed layout: home device faq download docs blog about
+
 About us (needs work)
 
 Start with motivation: open to everyone, inexpensive - design philosophy (no returns in Cameroon!)
