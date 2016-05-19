@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Technical Documentation
-permalink: /tech/
+title: documentation
+permalink: /doc/
 weight: 5
 ---
 
