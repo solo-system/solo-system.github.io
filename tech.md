@@ -1,6 +1,6 @@
 ---
 layout: page
-title: about
+title: Technical Documentation
 permalink: /tech/
 weight: 5
 ---
