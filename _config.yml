@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Solo - audio recorder.
-email: solo@solo-system.com
+title: Solo
+email: info@solo-system.com
 
-description: Solo records audio.  Outdoor, continuous, battery-powered, based on raspberry-pi, open source, build-your-own, high-fidelity, configurable, user-servicable, cheap, modifiable, extensible, modular.
+description: Solo - a field recorder for bioacoustic research.  Outdoor, continuous, battery-powered, based on Raspberry-Pi, self-built, high-fidelity, configurable, user-servicable, cheap, modifiable, extensible, modular, open source.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.solo-system.org" # the base hostname & protocol for your site
 #twitter_username: whatever
 github_username:  solo-system
 
