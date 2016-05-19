@@ -5,6 +5,15 @@ permalink: /faq/
 weight: 4
 ---
 
+Do not wok on FAQs
+Copy from webpage and check
+
+<hr>
+end of B's bit
+<hr>
+<hr>
+
+
 Introduction
 ------------
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: downloads
-permalink: /faq/
+permalink: /downloads/
 weight: 4
 ---
 
