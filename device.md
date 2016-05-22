@@ -12,7 +12,7 @@ stored on a memory card. It is protected by a weatherproof enclosure.
 TODO: photo of Solo in the field.
 
 There is a lot of flexibility with the individual components of the
-Solo, so it can be tailored for your particular needs.  But here we
+Solo, so it can be tailored to your particular needs.  But here we
 will describe a typical configuration: the "Solo Basic".
 
 The Solo Basic records continuously for 5.5 days.  It comprises a
