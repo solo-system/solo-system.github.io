@@ -19,7 +19,7 @@ The Solo Basic records continuously for 5.5 days.  It comprises:
 
 * Mini-computer: Raspberry Pi (model A+) 
 * Audio ADC: Cirrus Logic audio card.
-* Clock module: piface shim RTC clock module
+* Clock module: PiFace shim RTC clock module
 * Battery: EC powerbank 22.3mAh USB battery bank
 * 64Gb SDmicro memory card
 * Primo EM172 microphone
