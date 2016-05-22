@@ -12,7 +12,7 @@ enclosure.
 
 TODO: photo of solo in the field.
 
-
+There is a lot of flexibility with the individual components of the solo, so it can be tailored for your particular needs.  But here we will describe a typical configuration: the "Solo Basic"
 
 
 
