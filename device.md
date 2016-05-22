@@ -28,9 +28,10 @@ The Solo Basic records continuously for 5.5 days.  It comprises:
 
 
 
-All these components are protected in a waterproof enclosure.
 
-
+<hr>
+Below is to be decomkmissioned
+<hr>
 
 HARDWARE: SOLO Basic
 
