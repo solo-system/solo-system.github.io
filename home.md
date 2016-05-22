@@ -30,12 +30,6 @@ compared to comparable commercial systems. A basic Solo costs around
 120 pounds, but there's a lot of flexibility with components like
 microphones, memory cards, batteries etc...
 
-This webpage is intended to demonstrate how to construct and run a
-SOLO. In addition, instructional videos are available on a YouTube
-channel here, and comments are welcomed on our Facebook page here.
-
-
-
 
 <hr>
 end of b's bit.
