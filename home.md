@@ -25,11 +25,10 @@ run the solo, and just as easy to harvest the audio data onto your
 desktop/laptop using a card reader.  All software is free to download
 and licensed openly.
 
-
-The basic SOLO system is straightforward to construct, and inexpensive
-compared to comparable commercial systems. The SOLO basic costs around
-80 UKP; 120 UKP with waterproofing and some luxuries. Upgrading
-microphones and batteries is all possible if desired.
+The basic SOLO system is straightforward to assemble, and inexpensive
+compared to comparable commercial systems. A basic Solo costs around
+120 pounds, but there's a lot of flexibility with components like
+microphones, memory cards, batteries etc...
 
 This webpage is intended to demonstrate how to construct and run a
 SOLO. In addition, instructional videos are available on a YouTube
