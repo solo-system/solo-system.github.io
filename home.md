@@ -5,10 +5,10 @@ layout: page
 weight: 1
 ---
 
-The SOLO is an audio recorder for unattended, long-term, and
+The Solo is an audio recorder for unattended, long-term, and
 continuous environmental monitoring.
 
-The SOLO comprises of a mini-computer, a microphone and battery, with
+The Solo comprises of a mini-computer, a microphone and battery, with
 data being stored on a memory card.  It is protected by a weatherproof
 enclosure.
 
@@ -25,7 +25,7 @@ run the solo, and just as easy to harvest the audio data onto your
 desktop/laptop using a card reader.  All software is free to download
 and licensed openly.
 
-The basic SOLO system is straightforward to assemble, and inexpensive
+The basic Solo system is straightforward to assemble, and inexpensive
 compared to comparable commercial systems. A basic Solo costs around
 120 pounds, but there's a lot of flexibility with components like
 microphones, memory cards, batteries etc...
