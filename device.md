@@ -1,7 +1,7 @@
 ---
 layout: page
-title: hardware
-permalink: /hardware/
+title: device
+permalink: /device.html
 weight: 2
 ---
 

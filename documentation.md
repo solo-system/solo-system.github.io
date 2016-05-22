@@ -1,14 +1,13 @@
 ---
 layout: page
 title: documentation
-permalink: /doc/
+permalink: /documentation/index.html
 weight: 5
 ---
 
-Documentation section.
-
 Contents:
-* powering
+
+* [power](power/)
 * storage / memory cards
 * microphones
 * enclosures

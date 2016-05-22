@@ -1,7 +1,7 @@
 ---
 layout: page
-title: hardware-alternatives
-permalink: /hardware-alternatives/
+title: hardware modifications
+permalink: /documentation/hardwaremods.html
 weight: 2
 ---
 

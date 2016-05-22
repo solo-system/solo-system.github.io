@@ -5,7 +5,7 @@ permalink: /about/
 weight: 5
 ---
 
-###### proposed layout: home device faq download docs blog about
+### proposed layout: <br>home device download documentation blog about
 
 About us (needs work)
 
