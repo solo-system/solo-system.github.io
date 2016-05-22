@@ -9,7 +9,6 @@ The SOLO is an audio recorder for unattended, long-term, and
 continuous environmental monitoring.
 
 
-
 The SOLO comprises of a mini-computer, a microphone and battery, with
 data being stored on a memory card.  It is protected by a weatherproof
 enclosure.
@@ -18,15 +17,15 @@ A typical deployment would be powered by a standard USB battery bank
 which would run the system for five days of permanent recording.
 
 
+Recording is split into manageable 10-minute-long files which are
+stored on the SD memory card - grouped into an intuitive
+folder-per-day layout.
 
-Solar,
-deep-cycle battery, mains or vehicle powering are all possible,
-although not currently supported. Recording is split into manageable
-10-minute sections, further split into folder-per-day layout. Larger
-SD-cards allow longer recording times, with 32Gb cards able to hold
-around 13 days (64Gb hold 27 days). Audio is stored uncompressed in
-standard “.wav” format. Audio sample rate is user-configurable – 16kHz
-and 44.1kHz are common choices.
+Larger SD-cards allow longer recording
+times, with 32Gb cards able to hold around 13 days (64Gb hold 27
+days). Audio is stored uncompressed in standard “.wav” format. Audio
+sample rate is user-configurable – 16kHz and 44.1kHz are common
+choices.
 
 Preparing (flashing) the SD card with the software to run the SOLO and
 any user-configuration, and later harvesting the audio data from the
