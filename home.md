@@ -21,6 +21,8 @@ Recording is split into manageable 10-minute-long files which are
 stored on the SD memory card - grouped into an intuitive
 folder-per-day layout.
 
+
+
 Larger SD-cards allow longer recording
 times, with 32Gb cards able to hold around 13 days (64Gb hold 27
 days). Audio is stored uncompressed in standard “.wav” format. Audio
