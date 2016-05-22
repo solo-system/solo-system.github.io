@@ -26,6 +26,10 @@ The Solo Basic records continuously for 5.5 days.  It comprises:
 
 TODO: add costs?
 
+The Solo basic is easy to assemble. The written instructions are here,
+and there is a video guide too.
+
+
 
 <hr>
 Below is to be decomkmissioned
