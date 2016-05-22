@@ -25,7 +25,7 @@ The Solo Basic records continuously for 5.5 days.  It comprises:
 * Microphone: Primo EM172 microphone
 * Enclosure: DriBox 300 waterproof enclosure
 
-
+TODO: add costs?
 
 
 <hr>
