@@ -31,6 +31,7 @@ compared to comparable commercial systems. A basic Solo costs around
 microphones, memory cards, batteries etc...
 
 
+
 <hr>
 end of b's bit.
 <hr>
