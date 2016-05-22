@@ -26,9 +26,7 @@ desktop/laptop using a card reader.  All software is free to download
 and licensed openly.
 
 
-Preparing (flashing) the memory card with the software to run the SOLO
-and any user-configuration, and later harvesting the audio data from
-the SD-card onto a PC, is simple. Consideration should be given to
+Consideration should be given to
 data storage back in the office, and a plan for analysis of bulk data
 is recommended. The Solo produces a lot of audio data.
 
