@@ -5,7 +5,6 @@ permalink: /device.html
 weight: 2
 ---
 
-
 The Solo comprises of a mini-computer, microphone, with data being
 stored on a memory card. It is protected by a weatherproof enclosure.
 
