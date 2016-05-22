@@ -18,16 +18,16 @@ which would run the system for five days of permanent recording.
 
 
 Recording is split into manageable 10-minute-long files which are
-stored on the memory card - grouped into an intuitive
-folder-per-day layout.
+stored on the memory card - grouped into an intuitive folder-per-day
+layout.  The recordings are in the .wav format which is understood
+widely by all audio software.
 
 
 
-Larger SD-cards allow longer recording
-times, with 32Gb cards able to hold around 13 days (64Gb hold 27
-days). Audio is stored uncompressed in standard “.wav” format. Audio
-sample rate is user-configurable – 16kHz and 44.1kHz are common
-choices.
+Larger memory cards SD-cards allow longer recording times, with 32Gb
+cards able to hold around 13 days (64Gb hold 27 days). Audio is stored
+uncompressed in standard “.wav” format. Audio sample rate is
+user-configurable – 16kHz and 44.1kHz are common choices.
 
 Preparing (flashing) the SD card with the software to run the SOLO and
 any user-configuration, and later harvesting the audio data from the
