@@ -25,7 +25,7 @@ The Solo Basic records continuously for 5.5 days.  It comprises a
 * memory card
 * microphone
 
-
+All these components are protected in a waterproof enclosure.
 
 
 
