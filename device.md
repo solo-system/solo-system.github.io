@@ -18,12 +18,12 @@ will describe a typical configuration: the 'Solo Basic'.
 The Solo Basic records continuously for 5.5 days.  It comprises:
 
 * Raspberry Pi (model A+) 
-* Cirrus Logic audio card.
-* Clock module: piface shim RTC clock module.
-* Battery: EC powerbank 22.3mAh USB battery bank.
+* Cirrus Logic audio card
+* Clock module: piface shim RTC clock module
+* Battery: EC powerbank 22.3mAh USB battery bank
 * 64Gb SDmicro memory card
-* Primo EM172 microphone.
-* DriBox 300 enclosure.
+* Primo EM172 microphone
+* DriBox 300 enclosure
 
 
 
