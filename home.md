@@ -23,12 +23,6 @@ layout.  The recordings are in the .wav format which is understood
 widely by all audio software.
 
 
-
-Larger memory cards SD-cards allow longer recording times, with 32Gb
-cards able to hold around 13 days (64Gb hold 27 days). Audio is stored
-uncompressed in standard “.wav” format. Audio sample rate is
-user-configurable – 16kHz and 44.1kHz are common choices.
-
 Preparing (flashing) the SD card with the software to run the SOLO and
 any user-configuration, and later harvesting the audio data from the
 SD-card onto a PC, is simple. Consideration should be given to data
