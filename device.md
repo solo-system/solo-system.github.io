@@ -5,6 +5,19 @@ permalink: /device.html
 weight: 2
 ---
 
+
+The SOLO comprises of a microphone, mini-computer and battery, with
+data being stored on a SD card. It is protected by a weatherproof
+enclosure.
+
+TODO: photo of solo in the field.
+
+
+
+
+
+
+
 HARDWARE: SOLO Basic
 
 1. What is thE SOLO basic
