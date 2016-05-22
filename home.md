@@ -20,7 +20,9 @@ stored on the memory card - grouped into an intuitive folder-per-day
 layout.  The recordings are in the .wav format which is compatible
 with almost all audio software.
 
-Preparing (flashing) the SD card with the software to run the SOLO and
+
+
+Preparing (flashing) the memory  card with the software to run the SOLO and
 any user-configuration, and later harvesting the audio data from the
 SD-card onto a PC, is simple. Consideration should be given to data
 storage back in the office, and a plan for analysis of bulk data is
