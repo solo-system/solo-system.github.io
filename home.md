@@ -26,10 +26,6 @@ desktop/laptop using a card reader.  All software is free to download
 and licensed openly.
 
 
-Consideration should be given to
-data storage back in the office, and a plan for analysis of bulk data
-is recommended. The Solo produces a lot of audio data.
-
 The basic SOLO system is straightforward to construct, and inexpensive
 compared to comparable commercial systems. The SOLO basic costs around
 80 UKP; 120 UKP with waterproofing and some luxuries. Upgrading
