@@ -16,7 +16,14 @@ There is a lot of flexibility with the individual components of the
 solo, so it can be tailored for your particular needs.  But here we
 will describe a typical configuration: the "Solo Basic".
 
+The Solo Basic records continuously for 5.5 days.  It comprises a
 
+* Raspberry Pi (model A+) 
+* Cirrus Logic Audio Card
+* Clock module
+* Battery
+* memory card
+* microphone
 
 
 
