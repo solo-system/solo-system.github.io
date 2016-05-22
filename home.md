@@ -22,7 +22,8 @@ with almost all audio software.
 
 It is simple to prepare (flash) the memory card with the software to
 run the solo, and just as easy to harvest the audio data onto your
-desktop/laptop using a card-reader.
+desktop/laptop using a card-reader.  All software is free to download
+and licensed openly.
 
 
 Preparing (flashing) the memory card with the software to run the SOLO
