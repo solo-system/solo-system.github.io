@@ -1,5 +1,5 @@
 ---
-permalink: /home/
+permalink: home.html
 title: home
 layout: page
 weight: 1
