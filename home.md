@@ -18,7 +18,7 @@ which would run the system for five days of permanent recording.
 
 
 Recording is split into manageable 10-minute-long files which are
-stored on the SD memory card - grouped into an intuitive
+stored on the memory card - grouped into an intuitive
 folder-per-day layout.
 
 
