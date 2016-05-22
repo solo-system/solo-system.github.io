@@ -22,8 +22,8 @@ The Solo Basic records continuously for 5.5 days.  It comprises:
 * Clock module: PiFace shim RTC clock module
 * Battery: EC powerbank 22.3mAh USB battery bank
 * Memory card: 64Gb SDmicro memory card
-* Primo EM172 microphone
-* DriBox 300 enclosure
+* Microphone: Primo EM172 microphone
+* Enclosure: DriBox 300 enclosure
 
 
 
