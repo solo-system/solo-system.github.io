@@ -6,14 +6,13 @@ weight: 2
 ---
 
 
-The SOLO comprises of a microphone, mini-computer and battery, with
-data being stored on a SD card. It is protected by a weatherproof
-enclosure.
+The Solo comprises of a mini-computer, microphone, with data being
+stored on a memory card. It is protected by a weatherproof enclosure.
 
-TODO: photo of solo in the field.
+TODO: photo of Solo in the field.
 
 There is a lot of flexibility with the individual components of the
-solo, so it can be tailored for your particular needs.  But here we
+Solo, so it can be tailored for your particular needs.  But here we
 will describe a typical configuration: the "Solo Basic".
 
 The Solo Basic records continuously for 5.5 days.  It comprises a
