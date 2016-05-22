@@ -21,7 +21,7 @@ The Solo Basic records continuously for 5.5 days.  It comprises:
 * Audio ADC: Cirrus Logic audio card.
 * Clock module: PiFace shim RTC clock module
 * Battery: EC powerbank 22.3mAh USB battery bank
-* Memory card: 64Gb SDmicro memory card
+* Memory card: 64Gb micro SD memory card
 * Microphone: Primo EM172 microphone
 * Enclosure: DriBox 300 waterproof enclosure
 
