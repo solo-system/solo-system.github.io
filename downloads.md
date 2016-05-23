@@ -1,7 +1,7 @@
 ---
 layout: page
 title: downloads
-permalink: /downloads/
+permalink: /downloads.html
 weight: 4
 ---
 
