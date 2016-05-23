@@ -5,8 +5,6 @@ permalink: /about/
 weight: 6
 ---
 
-# About us (needs work)
-
 Start with motivation: open to everyone, inexpensive - design philosophy (no returns in Cameroon!)
 Decide what info you are happy to put up about J&R - bio in 2 sentences for each of you.
 Exclude email addresses
