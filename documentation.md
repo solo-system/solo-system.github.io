@@ -1,7 +1,7 @@
 ---
 layout: page
 title: documentation
-permalink: /documentation/index.html
+permalink: /documentation.html
 weight: 5
 ---
 
