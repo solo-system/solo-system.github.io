@@ -27,7 +27,9 @@ adopted early for field use by Robin Whytock.
 
 The solo is under active development.  If you can code - look at the
 github site.  If you have ideas or a request for new functionality,
-please leave a comment on our facebook page.
+please leave a comment on our facebook page.  If you have a success
+story, let us know.
+
 
 
 software was open source, so I could add to itand change it.
