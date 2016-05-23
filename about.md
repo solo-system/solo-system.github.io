@@ -8,7 +8,24 @@ weight: 6
 
 The Solo was developed to solve a need within our own project to have
 a servicable field recorder that was cheap and easy in remote overseas
-locations.
+locations.  In africa
+
+It was important that the device was:
+
+* Inexpensive - broken eaten by monkey
+* Servicable in-situ:
+* 
+
+
+
+
+
+
+# software was open source, so I could add to itand change it.
+
+
+
+
 
 
 
