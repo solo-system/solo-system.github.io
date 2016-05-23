@@ -20,6 +20,8 @@ It was important that the device was:
 * affordable to projects and organisations in poor countries.
 * modular - so you can cannibalise broken components together to get them working again.
 
+And once it was useful to me, it was useful to others, so I opened it up - it's now open source.
+
 
 
 
