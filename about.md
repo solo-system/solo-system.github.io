@@ -14,7 +14,7 @@ It was important that the device was:
 
 * Inexpensive - broken eaten by monkey
 * Servicable in-situ.
-* no returns from rainforest
+* no returns from rainforest / customer service.
 * no configuration at field site (installation point).
 * versatile (any microphone, any battery etc...)
 
