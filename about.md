@@ -16,7 +16,8 @@ It was important that the device was:
 * Servicable in-situ.
 * no returns from rainforest
 * no configuration at field site (installation point).
-* 
+* versatile (any microphone, any battery etc...)
+
 
 
 
