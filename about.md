@@ -17,9 +17,11 @@ It was important that the device was:
 * no returns from rainforest / customer service.
 * no configuration at field site (installation point).
 * versatile (any microphone, any battery etc...)
+* affordable to projects and organisations in poor countries.
 
 
-# software was open source, so I could add to itand change it.
+
+software was open source, so I could add to itand change it.
 
 
 Start with motivation: open to everyone, inexpensive - design philosophy (no returns in Cameroon!)
