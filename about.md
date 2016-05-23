@@ -32,12 +32,7 @@ Solo was developed by James Christie (info@solo-system.org) and
 adopted early for field use by Robin Whytock.
 
 
-Exclude email addresses
-Link to facebook/youtube for suggestions/comments
 
-<hr>
-end of B's bit
-<hr><hr>
 
 Solo records sound, permanently, indoors or out.  The software is open
 source.  The hardware is built by the user..  The hardware assembly is
