@@ -19,17 +19,7 @@ It was important that the device was:
 * versatile (any microphone, any battery etc...)
 
 
-
-
-
-
-
 # software was open source, so I could add to itand change it.
-
-
-
-
-
 
 
 Start with motivation: open to everyone, inexpensive - design philosophy (no returns in Cameroon!)
