@@ -25,6 +25,10 @@ And once it was useful to me, it was useful to others, so I opened it up - it's 
 Solo was developed by James Christie (info@solo-system.org) and
 adopted early for field use by Robin Whytock.
 
+The solo is under active development.  If you can code - look at the
+github site.  If you have ideas or a request for new functionality,
+please leave a comment on our facebook page.
+
 
 software was open source, so I could add to itand change it.
 
