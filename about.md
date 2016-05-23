@@ -18,6 +18,8 @@ It was important that the device was:
 * no configuration at field site (installation point).
 * versatile (any microphone, any battery etc...)
 * affordable to projects and organisations in poor countries.
+* modular - so you can cannibalise broken components together to get them working again.
+
 
 
 
