@@ -7,17 +7,20 @@ weight: 6
 
 The Solo was developed to solve a need within our own project to have
 a servicable field recorder that was cheap and easy in remote overseas
-locations.  In africa
+locations.  In West African rainforest, where importing hardware is
+difficult and costly, and returning broken hardware for servicing is
+prohibitvely bureaucratic.
 
 It was important that the device was:
 
-* Inexpensive - broken eaten by monkey
+* Inexpensive - don't care if it's dropped, grabbed by ape, or stolen by hunter.
 * Servicable in-situ.
-* no returns from rainforest / customer service.
-* no configuration at field site (installation point).
+* availability: built from consumer components (as far as possible)
+* no returns from rainforest / customer service
+* no configuration at field site (installation point)
 * versatile (any microphone, any battery etc...)
-* affordable to projects and organisations in poor countries.
-* modular - so you can cannibalise broken components together to get them working again.
+* affordable to projects and organisations in all countries
+* modular: broken units can be repaired and maintained
 
 And once it was useful to me, it was useful to others, so I opened it
 up - it's now open source.

@@ -5,11 +5,11 @@ permalink: /documentation.html
 weight: 5
 ---
 
-Contents:
+### Quick Start
+   - get the parts, assemble, deploy, harvest, listen.
 
-* [power](power/)
-* storage / memory cards
-* microphones
-* enclosures
-* raspberry pi choices
-* clock
+### Example deployment
+
+### Assembly video
+
+### [Detailed documentation pages](/documentation/)
