@@ -13,7 +13,9 @@ locations.  In africa
 It was important that the device was:
 
 * Inexpensive - broken eaten by monkey
-* Servicable in-situ:
+* Servicable in-situ.
+* no returns from rainforest
+* no configuration at field site (installation point).
 * 
 
 
