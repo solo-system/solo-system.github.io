@@ -3,6 +3,7 @@ layout: page
 title: downloads
 permalink: /downloads.html
 weight: 4
+tag: front
 ---
 
 # Software
