@@ -23,13 +23,13 @@ It was important that the device was:
 And once it was useful to me, it was useful to others, so I opened it
 up - it's now open source.
 
-Solo was developed by James Christie (info@solo-system.org) and
-adopted early for field use by Robin Whytock.
-
 The solo is under active development.  If you can code - look at the
 github site.  If you have ideas or a request for new functionality,
 please leave a comment on our facebook page.  If you have a success
 story, let us know.
+
+Solo was developed by James Christie (info@solo-system.org) and
+adopted early for field use by Robin Whytock.
 
 
 Exclude email addresses
