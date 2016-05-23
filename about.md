@@ -22,7 +22,8 @@ It was important that the device was:
 
 And once it was useful to me, it was useful to others, so I opened it up - it's now open source.
 
-
+Solo was developed by James Christie (info@solo-system.org) and
+adopted early for field use by Robin Whytock.
 
 
 software was open source, so I could add to itand change it.
