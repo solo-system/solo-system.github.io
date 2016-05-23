@@ -32,8 +32,6 @@ please leave a comment on our facebook page.  If you have a success
 story, let us know.
 
 
-
-Decide what info you are happy to put up about J&R - bio in 2 sentences for each of you.
 Exclude email addresses
 Link to facebook/youtube for suggestions/comments
 
