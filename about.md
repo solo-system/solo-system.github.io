@@ -33,9 +33,6 @@ story, let us know.
 
 
 
-software was open source, so I could add to itand change it.
-
-
 Start with motivation: open to everyone, inexpensive - design philosophy (no returns in Cameroon!)
 Decide what info you are happy to put up about J&R - bio in 2 sentences for each of you.
 Exclude email addresses
