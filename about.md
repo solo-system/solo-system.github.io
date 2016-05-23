@@ -2,12 +2,10 @@
 layout: page
 title: about
 permalink: /about/
-weight: 5
+weight: 6
 ---
 
-### proposed layout: <br>home device download documentation blog about
-
-About us (needs work)
+# About us (needs work)
 
 Start with motivation: open to everyone, inexpensive - design philosophy (no returns in Cameroon!)
 Decide what info you are happy to put up about J&R - bio in 2 sentences for each of you.
