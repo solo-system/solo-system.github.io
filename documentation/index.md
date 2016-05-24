@@ -9,7 +9,7 @@ title:  "documentation-index"
 
 * [power](power/)
 * [microphones](microphones/)
-* [memory cards](memory_cards.html)
+* [memory cards](memory_cards/)
 * enclosures
 * flashing
 * hasvesting

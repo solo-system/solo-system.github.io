@@ -1,5 +1,4 @@
 ---
-layout: documentation
 permalink: "/documentation/power/index.html"
 layout: page
 title:  "power matters"
