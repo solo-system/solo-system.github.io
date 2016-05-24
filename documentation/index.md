@@ -8,7 +8,7 @@ title:  "documentation-index"
 # Documentation index:
 
 * [power](power/)
-* [microphones](microphones/)
+* microphones
 * [memory cards](memory_cards/)
 * enclosures
 * flashing
