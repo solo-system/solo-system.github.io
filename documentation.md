@@ -15,11 +15,12 @@ A guide to the whole process:
 - assembly
 - preparing memory card
 - deploy and turn on.
-- wait (sing, shout, hammer, nothing scatalogical).
-- recover data
+- allow it to record audio.
+- turn off.
+- recover data from memory card.
 - listen
 - analyse
-      
+
 
 or: 
 

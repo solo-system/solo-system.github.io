@@ -4,8 +4,10 @@ title: Getting Started with Solo Basic
 permalink: documentation/getting-started.html
 ---
 
-Solo-basic - Bill of Materials
-Solo-Basic
+## Solo-basic - getting started
+
+### Purchasing components:
+
 These are the components needed to build the Solo-basic:
 
 * [Raspberry Pi model A+](https://www.raspberrypi.org/products/model-a-plus/)
@@ -47,3 +49,17 @@ Note: If you have no money or lack commitment, the [Solo-cheapskate]
 version might be for you. (forget the microphone, forget the clock,
 forget the battery). Cheapskate. It’ll hook you - then you’ll be back.
 
+
+### preparing memory card
+
+### deploy and turn on.
+
+### allow it to record audio.
+
+### turn off.
+
+### recover data from memory card.
+
+### listen
+
+### analyse
