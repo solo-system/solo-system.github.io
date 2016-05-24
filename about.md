@@ -3,6 +3,7 @@ layout: page
 title: about
 permalink: /about/
 weight: 6
+isfront: true
 ---
 
 The Solo was developed to solve a need within our own project to have

@@ -1,7 +1,7 @@
 <header class="site-header">
 
   <div class="wrapper">
-	  <a class="site-title" href="{{ site.baseurl }}/"><img src="../solo-logo.png" height="70px"></img></a>
+	  <a class="site-title" href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/img/solo-logo.png" height="70px"></img></a>
 	  <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
     <nav class="site-nav">
@@ -13,12 +13,14 @@
         </svg>
       </a>
       
-      {% assign sorted_pages = site.pages | sort:"weight" %}
-
+      {% assign frontpages = (site.pages | where: "isfront" , "true" | sort:"weight") %}
+      
       <div class="trigger">
-        {% for my_page in sorted_pages %}
+        {% for my_page in  frontpages %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+	  {% else %}
+	  unknown page {{ my_page }}
           {% endif %}
         {% endfor %}
       </div>

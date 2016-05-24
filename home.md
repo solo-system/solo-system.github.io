@@ -3,6 +3,7 @@ permalink: home.html
 title: home
 layout: page
 weight: 1
+isfront: true
 ---
 
 The Solo is an audio recorder for unattended, long-term, and

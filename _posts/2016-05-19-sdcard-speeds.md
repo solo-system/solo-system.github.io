@@ -2,7 +2,7 @@
 layout: post
 title:  Memory card speed comparison.
 date:   2016-05-19
-categories: documentation memcards
+categories: news
 ---
 
 #### Memory card write speeds.

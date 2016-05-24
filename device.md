@@ -3,6 +3,7 @@ layout: page
 title: device
 permalink: /device.html
 weight: 2
+isfront: true
 ---
 
 The Solo comprises of a mini-computer, microphone, with data being

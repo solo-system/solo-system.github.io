@@ -19,3 +19,9 @@ github_username:  solo-system
 
 # Build settings
 markdown: kramdown
+
+# added jdmc2. -it didnt work.  Copied over, but didn't render.
+#collections:
+#  rpi:
+#    output: true
+#    permalink: /rpi/:path/

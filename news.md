@@ -3,6 +3,7 @@ permalink: /news/
 title: news
 layout: page
 weight: 9
+isfront: true
 ---
 
 <div class="home">

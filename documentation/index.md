@@ -2,14 +2,14 @@
 layout: documentation
 permalink: "/documentation/index.html"
 layout: page
-title:  "documentation"
+title:  "documentation-index"
 ---
 
-# Documentation
+# Documentation index:
 
 * [power](power/)
 * [microphones](microphones/)
-* memory cards
+* [memory cards](memory_cards.html)
 * enclosures
 * flashing
 * hasvesting
