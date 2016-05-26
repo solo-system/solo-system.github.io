@@ -13,7 +13,8 @@ title:  "documentation-index"
 * microphones
 * [memory cards](memory_cards/)
 * enclosures
-* flashing
-* hasvesting
+* [flashing](flashing.html)
+* [hasvesting](harvesting.html)
+* [setting the clock](clock.html)
 
 end.
