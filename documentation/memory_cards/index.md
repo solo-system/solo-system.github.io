@@ -16,6 +16,8 @@ mucy every card you'll ever see).
 
 micro-SD cards come in sizes up to (currently 256Gb).
 
+[table](table4.html)
+
 ## Recording duration 
 
 You need to balance: how long you want to record for, and what your
