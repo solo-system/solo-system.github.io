@@ -8,16 +8,9 @@ isfront: true
 
 # Documentation
 
-## [Getting Started](/documentation/getting-started.html).
+The first thing to read is : [Getting Started](/documentation/getting-started.html).
 
-This guide is the first thing to read.  It's a good quick start guide
-to Solo, and the Solo:Basic.
-
-
-## Documentation Tree:
-
-Although this section may have cross-links, the whole thing is tree
-structured, so you can read it all (and know you have done so).
+#### Documentation Tree:
 
 * [configuration](configuration.html) - configuring Solo for different situations (sample rate, stereo/mono, timezone, etc...)
 * [power](power/) - information about batteries and power consumption
@@ -28,17 +21,9 @@ structured, so you can read it all (and know you have done so).
 * [harvesting](harvesting.html) - how to copy audio data from memory card to your PC
 * [clock](clock.html) - how to set the clock
 
-Some are technical.
-
-# Guides:
-
-Some guides, including best practices, and experience from a few years
-use.  All guides are still in early drafts:
+#### Guides (all in draft):
 
 * [troubleshooting](troubleshooting.html) - problems solved.
 * [field-guide](field-guide.html) - guide to deploying outdoors
 * [desk-guide](desk-guide.html)  - protocol for handling data and flashing.
-
-# FAQ
-
-There's also an [FAQ](faq.html), but it's a total mess.
+* [FAQ](faq.html) - frequently asked questions, but it's a total mess.

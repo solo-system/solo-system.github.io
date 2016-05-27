@@ -5,14 +5,12 @@ layout: page
 title:  "Enclosures"
 ---
 
+# Enclosures
+
 * TOC
 {:toc}
 
-## Enclosures
-
-This document covers Enclosures and waterproofind for the Solo.
-
-The Solo:basic uses 2 enclosures:
+This document covers Enclosures and waterproofind for the Solo.  The Solo:basic uses 2 enclosures:
 
 * Main external enclosure [dribox 200](https://www.google.co.uk/search?q=dribox+200)
 * Smaller internal box to protect electronics.
