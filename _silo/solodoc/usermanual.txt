@@ -1,0 +1,293 @@
+﻿SOLO - Outdoor Audio Recorder
+=============================
+
+*** DRAFT ***
+
+##### User Manual
+
+##### last modified: 8 May 2015
+
+
+The SOLO is an autonomous outdoor recorder for unattended
+environmental monitoring. Battery operated and enclosed in a
+weatherproof enclosure, it comprises a microphone, mini-computer and
+battery, and is tailored for long-term, continuous recording, with
+data being stored on a SD card.
+
+The SOLO is designed to be modular, simple to use and inexpensive. All
+components are readily available to purchase commercially, and the
+system can be assembled by anyone with a bit of hardware
+knowledge. All software is open and free.
+
+The SOLO has been developed by James Christie, who can be contacted at
+jamie@jamiechristie.com
+
+________________
+
+
+Introduction
+------------
+
+The SOLO is an autonomous outdoor audio recorder for unattended
+environmental monitoring.  Battery operated and enclosed in a
+weatherproof enclosure, it comprises a microphone, mini-computer and
+battery, and is tailored for long-term, continuous recording, with
+data being stored on a SD card.
+
+Initially flashed with the software to run the SOLO, the SDcard is
+also used to store audio files.  Recording is continuous, and split
+into manageable 10-minute sections, further split into folder-per-day
+layout.  Larger SD cards allow longer recording times, with 32Gb cards
+able to hold around 13 days (64Gb hold 27 days).
+
+The SOLO is powered from a standard USB supply (5V) through a
+micro-USB connector commonly used to charge mobile phones and tablets.
+Typical deployment would be from a standard USB power bank which would
+run the system for 5 days of permanent recording.  Solar, deep-cycle
+battery, mains or vehicle powering are all possible, although not
+supported currently.
+
+Preparing (flashing) the SD card, and later harvesting the audio data
+from it, is simple, although consideration should be given to data
+storage back in the office, and a plan for analysis of bulk data is
+recommended.
+
+All components live in a waterproof (IP55) outdoor box, except the
+microphone, which is weather proof when mounted horizontally.
+
+
+Anatomy of the SOLO
+-------------------
+
+The heart of the SOLO is a minicomputer (raspberry pi) which records
+audio from the USB microphone, and stores it on the attached SD card.
+The system is powered by a USB battery. The SOLO is operated from
+software stored on an SD card, which also stores the recordings. The
+minicomputer has a shutdown switch, which signals the system to shut
+down cleanly. The microphone is encased in silicone sealant and
+protected in a rorbust pipe. A waterproof enclosure is used to enclose
+everything except the microphone, which exits the enclosure through a
+waterproof opening).
+
+----------------------------------------------------------------------
+
+
+FIELD GUIDE
+===========
+
+Field deployment:
+-----------------
+
+You will need: 
+
+  * SOLO unit
+  * Charged battery
+  * Flashed SD card  (see appendix 1)
+
+	
+Steps:
+------
+1. Ensure that microphone is plugged into minicomputer via the USB
+   cable
+
+2. Connect the power cable to the minicomputer (do not connect the
+   battery yet)
+
+3. Insert the (flashed) SD card into the minicomputer (take care with orientation)
+
+4. Place the minicomputer into the waterproof enclosure.
+
+5. Attach the battery. 
+
+6. Do it once, with confidence, and do not unplug again once it has
+   started. This automatically turns on the minicomputer - you should
+   notice a solid red light on the minicomputer, and a flashing green
+   light. The green light will eventually (1 minute) settle to a
+   ‘heart-beat’ double flash pattern, and which point the device is
+   actively recording
+
+7. Place the battery into the box next to the minicomputer and pack
+   securely.
+
+8. Close the waterproof enclosure - taking care not to pinch the
+   microphone cable.
+
+9. Mount the microphone and waterproof box as desired (mount
+   microphone horizontally to avoid water ingress).
+
+
+Field recovery
+--------------
+
+1. (This step is only necessary if the SOLO is still running).  Power
+   off the SOLO by depressing the red button on the minicomputer for 2
+   seconds.  Notice the green heart-beat change, and finally stop with
+   10 deliberate flashes.  The SOLO is now off
+
+2. Unplug the battery from the power cable
+
+3. Remove SD card and store safely (and label it)
+
+4. Replace SD card and/or battery if you are leaving the equipment in
+   the field to continue recording, following the steps in ‘Field
+   deployment’
+
+----------------------------------------------------------------------
+
+DESK GUIDE
+==========
+
+Flashing the SD card
+--------------------
+
+1. Ensure the desktop/laptop is correctly configured (see Appendix ??)
+
+2. Plug the card reader into the desktop/laptop
+
+3. Plug the SD card into the card reader (take care with orientation)
+
+4. Start the Win32DiskImager application
+
+5. Select the ‘SOLO Software Image File’ in the box labeled ‘Image File’ in the Win32DiskImager window
+
+6. Ensure the correct drive letter is selected for the SD card (drive letter “I” for me!)
+
+7. Click on ‘Write’ to start writing the image onto the SD card - the process will take about 5 minutes
+
+8. Once the flashing is complete, click on ‘OK’ to complete the process
+
+9. Eject the card from the system in the usual way
+
+10. The card is now ready for use in the SOLO
+
+11. Repeat with other cards as necessary for other recorders.
+
+
+Harvesting audio data from a full SD card
+-----------------------------------------
+
+1. Ensure the desktop/laptop is correctly configured to read the data (see Appendix C)
+
+2. Plug the card reader into the desktop/laptop
+
+3. Plug the SD card into the card reader (take care with orientation)
+
+4. Use DiskInternals to look at the files on the card (‘amondata’ directory)
+
+5. Copy the files from the SD card onto the desktop/laptop
+
+6. Remember to make notes about the data, such as where the data was recorded
+
+7. Finished - safely eject the card and label it for re-flashing
+
+
+
+Troubleshooting
+===============
+
+General points / best practices
+-------------------------------
+
+* You will find it increasingly important to keep a careful note of
+  the field position, date and times of establishing recording,
+  particularly if you are using multiple SOLOs
+
+* Remember that the SOLO software has to be flashed onto each SD card
+  before each time that it is inserted into the SOLO (not true, but
+  safest).
+
+* Try not to unplug the power cable to the minicomputer unless
+  necessary since it is a fragile connection. Instead, unplug the
+  power cable at the battery end, which is a larger and stronger
+  connection. Ensure that the orientation of the connections is
+  correct
+
+* Once the battery is connected to the minicomputer do not unplug it -
+  wait until the system has fully booted before you turn it off
+
+* ensure the microphone is mounted horizontally to prevent water
+  ingress.
+
+* best policy to detach the battery when inserting/removing the
+  SD-card.
+
+* write protect slider on sd-cards should be covered in tape to hold
+  in place.
+
+* The flashing software and the harvesting software should be
+  installed directly on your Windows PC - installations on network
+  drives don’t appear to work.  [ I can’t confirm this, and don’t
+  understand why].
+
+-----------------------------------------------------------------------
+
+Appendix 1
+==========
+
+Preparing your PC for working with the Solo
+-------------------------------------------
+
+Before an SD card is used in the Solo, it needs to be ‘flashed’ with the Solo Software 
+Image (SSI), which controls the Solo and runs the recordings.  The SSI is available for free to download.
+
+Secondly, - the “flashing” procedure requires a special tool (it can’t just be copied) - this tool is called win32DiskImager, and is available to download.
+
+Finally, to copy audio recordings from a full SD card onto your PC, the tool Linux_Reader is required.
+
+These 3 things need to be done only once, and then you are all set up for good.   Step-by-step guides for each are given below. 
+
+
+Obtaining the Solo Software Image (SSI)
+---------------------------------------
+
+
+The solo software is packed into a single large file (which is later
+flashed) called the SSI.  It is available for download from
+www.jdmc2.com/solo/ Right click on the most recent SSI, and dowload to
+a preplanned on your PC.  It is about 1GB, so be patient.
+
+
+The SSI is zipped (compressed) for faster download. To unzip it, right
+click on the downloaded file and select “Extract All” from the menu.
+The following window prompts you for a destination for the unzipped
+file - the suggested location will be fine (in the same folder as the
+original).  The unzip process will take a few minutes.  The result
+should be a file called “solo-2015-01-01.img” or similar, and should
+be around 3Gb in size.
+
+
+The Solo Software is free and written by James Christie specially for
+the Solo.
+
+
+Obtaining and installing the “flashing” tool (win32diskimager)
+--------------------------------------------------------------
+
+This tool is used to prepare an SD card for deployment in the Solo, by
+“flashing” the Solo Software Image onto the SDcard using your PC. It
+is available for free download from
+http://sourceforge.net/projects/win32diskimager
+
+
+Once downloaded, it should be installed on your PC.  Consider making a
+shortcut to this application, which you will use every time you flash
+an SD card.  For further information on this tool, you can have a look
+at its website.  
+
+
+
+Obtaining and installing the “harvesting” tool (Linux_reader)
+-------------------------------------------------------------
+
+
+Having deployed a Solo and returned with an SD card full of audio
+recordings, they need to be copied to your PC’s hard drive.  This tool
+does that copying.  It is available for free download from
+http://www.diskinternals.com/linux-reader
+
+
+Once downloaded, it should be installed on your PC.  Consider making a
+shortcut to it, as it will be used every time you wish to copy audio
+from the SD card onto your PC.  Further details of this tool are
+available from its website, if you are interested, or need more help.
+

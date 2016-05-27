@@ -1,0 +1,26 @@
+To assemble a Solo:CLAC you will need:
+
+power supply (any usb-micro power supply will do).  I'm using a power
+bank.  A raspberry pi A+ (or B+).  the Clac.  The piface shim RTC, with battery.
+
+gphoto
+
+
+1) install the clock onto the Raspberry Pi
+
+Insert the battery (CR33300033).
+Locate the correct orientation, push down
+
+2) Install the CLAC on the raspberry pi (over the clock).  get
+orientations right as in the photo.  Notice the 2 plastic columns and
+4 little plastic screws.  Install as shown.  Plastic screws are easily
+over-tightened.
+
+3) That's the hard bit done - put all your tools away.
+
+4) plug in the microphone (pink socket)
+5) plug in the SD card (preflashed)
+6) attach power.
+
+Notice it booting, and heartbeat.
+

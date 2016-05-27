@@ -1,0 +1,115 @@
+*** Some thoughts on synchronising recorders. [to do source localisation]
+
+Initial results suggest 2 clac recorders differ by 200ms after 8 hours
+- about 1 second per day.  Therefore the electronic clocks used on
+the recorders are NOT reliable enough to independently keep sync with
+each other.  No surprises.  Except 1 second per day is bigger drift
+than I'd expected
+
+Note: I read that oscillators typically are manufactured with an
+accuracy of "1 part in ten thousand". (what's my source for this?)
+
+In a day we have 86400 seconds, so would expect to be off by up to 8
+seconds.  So we are in the right ball-park.  Infact our hardware is
+doing rather well.
+
+** How good do we need clocks to be?
+
+We want to do TDOA (time difference of arrival - for localisation),
+which requires milli-second accuracy (at least).  So we need 1
+millisecond accuracy in a 7 day deployment (at least).  So we need (in
+seconds) accuracy of 0.001 in 7 * 24 * 60 * 60, which is "1 in
+604,800,000".  Or 1-in-a-billion - which is clearly impossible in
+cheap hardware.
+
+* Conclusion: we can't rely on the solos to independently keep
+  accurate track of the passage of time, and stay in sync.
+
+*** Options:
+
+* network them (bad)
+
+This could be a wifi network, bluetooth, where they
+could form a mesh network and run ntpd (time sync program) between
+them.  Yuk - needs lots of power, wifi signal to penetrate, all must
+be connected.  Furthermore this information is _difficult_ to
+integrate with the recording of audio, since the audio recording
+proceeds according to the internal oscillator, with no regard for the
+system's wall-clock time.
+
+* use what is in the audio to post process in the lab.
+
+If we heard a periodic time signal _in_the_audio_ this can be used to
+align the audio signals in the lab.  This has lots of benefits, including
+
+*** This is how we 'calibrate' the distances between the recorders anyway.
+
+*** the information is held in the audio stream, so no _extra_ data needs to be gathered/integrated into what is taken off the solo device.
+
+
+How do we do it:
+
+
+4 recorders in a field, producing roughly time-aligned audio files.  Gunshot going off every now and again (in known location).  Perhaps once per hour, perhaps once per day.
+
+In the lab, we can align the audio files using the gunshot (accounting
+for the tdoa, of course).  This produces a "delta" for each stream at
+every gunshot time, which gives us the offset to correct by for that
+stream (against one MASTER stream).  localization analysis accounts
+for these deltas before applying the TDOA analysis.  (Or we pad the
+audio streams so they are always aligned).
+
+We will probably find that the clock drift is predictable and linear
+for each device, and that the gunshot deltas are therefore
+predictable, once we've learned which devices have "slower" clocks and
+some "faster" clocks.  This will be interesting.
+
+However - There is a riskier, but much more pleasing way:
+
+"syncronicity based on background noise
+
+THIS IS A RESEARCH PROJECT
+
+There is a chance that there is enough information held in the
+background noises in the audio streams, to do the syncronising.  In
+most environments, noise is happending all the time, emerging randomly
+from many locations.  Some will be recorded by all recorders - and
+these events are useful.  Perhaps they are animal noises,
+tree-branch-falls, car horns, gas-guns, lightning.  These will provide
+a constant set of calibration opportunities - albeit we don't know
+_where_ they were made.  But if there is enough of them, coming from enough different locations, then it doesn't matter, we just average.
+
+imagine again 4 recorders, and initially they are roughly sync'd (by
+the deployers voices at initialisation).  Imagine then a pop going off
+randomly every minute from some unknown location roughly (but
+randomly) once a minute.
+
+The software (in the lab) initially has a good alignment.  The aim is
+to run through the 4 audio streams and KEEP them aligned.  So we take
+the first second of recording from each recorder, and it so happens
+that in that second, there was an acoustic event audible to all of
+them.  This event is clearly seen in each audio stream.  So we can get
+the exact offsets of it using cross-correlation (pairwise) between the
+streams.  If the cross correlations produce good peaks, then we have
+our first "keep-in-sync" event.  note the set of deltas and keep
+them. Then do the same for the next second's worth of audio, and so
+on.  Some seconds will not have an event (most of them, probably), so
+we throw them away, but the ones that _do_, we keep.  Over time, this
+produces a huge scatter diagram of delta-tuples which we can analyse
+and possibly keep things in sync.  Ideally, noises would come from all
+angles evenly, but this is unlikely, so we'd have to cater for that somehow.
+
+As time goes on, noises from far north, south east and west, provide
+the extremes of calibration edges and we dynamically update our
+deltas, throwing away events of hours ago, and honouring the more
+recent events.
+
+There is a circularity to all this, in that we are using the
+environment to calibrate itself, only then to use it to measure
+locations.  However, because we're only interested in doing
+localization on a subset of the events (bird song), the other events
+can be used, en-masse, to keep us in sync.
+
+Principle:  There _is_ enough information in the audio streams to do this, because a human could do it.  Right?
+
+To test this we'd need:

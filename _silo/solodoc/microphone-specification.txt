@@ -1,0 +1,4 @@
+
+International standards have established 1 pascal (Pa) as 94 dBSPL (sound pressure level).
+This reference point is now accepted for specifying the sensitivity of microphones.
+

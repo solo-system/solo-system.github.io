@@ -6,6 +6,21 @@ weight: 6
 isfront: true
 ---
 
+# About
+
+∮∮∮∮∮∮∮∮∮∮∮∮∮
+
+# ∮∮∮∮∮∮∮∮∮∮∮∮∮
+
+## ∮∮∮∮∮∮∮∮∮∮∮∮∮
+
+### ∮∮∮∮∮∮∮∮∮∮∮∮∮
+
+#### ∮∮∮∮∮∮∮∮∮∮∮∮∮
+
+##### ∮∮∮∮∮∮∮∮∮∮∮∮∮
+
+
 The Solo was developed to solve a need within our own project to have
 a servicable field recorder that was cheap and easy in remote overseas
 locations.  In West African rainforest, where importing hardware is

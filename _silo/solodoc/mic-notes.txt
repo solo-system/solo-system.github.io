@@ -1,0 +1,82 @@
+looking at primo capsules.
+
+http://micbooster.com
+[used to be FEL - "front end lift" - they do inline 20db gain PIP amps]
+
+very common is:
+
+-------------------
+
+EM172 omni directional electred capsule.  Requires PIP to work.
+Cost: £12.00 (short B+R wires)
+Ultra low noise | High Sensitivity
+Wide Dynamic range | Omni Directional
+
+Primo EM172-Z1 Microphone Capsule
+
+    Omni directional (non-directional)
+    Signal to Noise ratio 80dB (Self Noise 14dBA) (jdmc2:very low noise!)
+    Also available with short wires pre-soldered
+    Sensitivity -28 dB (+/- 3dB at 1kHz, 0dB=1V/Pa)
+    -28dB/Pa = 39mV/Pa (added jdmc2)
+    Operating Voltage 3 V (2-10 V)
+    Maximum input Sound Pressure Level 119 dB
+    Diameter 10 mm, depth 4.5 mm, Weight 0.9 grammes.
+
+
+Superb quality electret condenser mic capsule, its extraordinarily low
+noise and high sensitivity makes this ideal for recording nature
+sounds, backgrounds and ambiences.
+
+wired to 3.5mm plug: mono/stereo (balanced)  21.50 / 41.00 
+screened 1.5m cable.  Plug by "Rean". 
+
+
+---------
+
+Primo EM173 Electret Condenser Microphone
+£13.50
+
+    High sensitivity Electret Condenser Microphone.
+    Ultra low noise, Wide dynamic range (108db), High quality.
+    10 mm diameter. 
+    3 wire connection
+
+
+The EM172-Z1 and EM173 are physically identical, they share the same
+housing and diaphragm.
+
+The EM172 has a 2 wire connection and is the easiest to use, it can be
+wired directly directly to most domestic recorders which have 3.5 mm
+microphone sockets and supply plug in power.
+
+The EM173 has a 3 wire connection, its the 3 wire version of the
+EM172. It has no internal resistor from the source to ground, if you
+add a 100 ohm resistor between source and ground on the EM173 its
+identical to the EM172, of course you can select a higher value for
+less sensitivity.
+
+------------------
+
+EM184 - cardioid electret condenser microphone (capsule).  2 terminal.  10mm diameter. Cloth front.
+31 pounds (no cabling)
+Sensitivity: -39 dB ± 3 dB at 1 kHz (0 dB = 1 V/Pa ) Vcc = 3 V, R L = 2 kΩ
+added jdmc2 - 039db = 11.2mV 
+Impedance:   1.4 kΩ ± 30 % at 1 kHz ( R L = 2 kΩ )
+S/N Ratio:   72 dB typ. at 1 kHz ( 1 Pa, A weighted network )
+
+---------------------
+EM23 omni-directional electret microphone capsule
+34 pounds
+Sensitivity:	      -42.0 (0dB=1V/PA)
+S/N RAtio:             70 dB at 1KHz
+This capsule requires a FET and circuitry.
+
+-----------------------------------------------
+This is a mini, so not for us:
+EM258N - omni, hq, miniature, (good replacement for panasonic's WM-61A).
+£4.95
+Sensitivity -32 dB (+/- 3dB at 1kHz, 0dB=1V/Pa)
+Signal to Noise ratio 74dB (Self Noise 20dBA)
+Operating Voltage 3 V (1.5-10 V)
+Diameter 5.8 mm, depth 2 mm, Weight 0.13 grams.

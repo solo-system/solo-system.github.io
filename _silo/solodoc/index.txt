@@ -1,0 +1,23 @@
+Solo Documentation
+==================
+
+This is a collection of documentation for the Solo field recorder.
+
+There is a [FAQ](faq.html), a good starting point.
+
+There is an [assembly guide](assembly-guide-usbmic.html) for the
+USB-mic Solo, using the Blue Snowflake microphone - a well tested setup.
+
+There _should_ be an [assembly guide](assembly-guide-Cirrus.html) for
+the Cirrus version of the Solo (which uses the Cirrus Logic Audio
+Card, which supports any microphone with a standard 3.5mm jack).
+
+A discussion of [hardware clocks](hardware-clock.html), so that your
+Solo knows the time, and can label the audio files sensibly.
+
+And there is a [User Manual](usermanual.html), to guide an operator
+through deployment, recovery of the Solo, including preparing the
+SD-card, and subsequently harvesting data from it.
+
+And they are all beautifully presented, aren't they.
+

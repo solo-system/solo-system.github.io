@@ -1,0 +1,78 @@
+Hardware Clocks
+===============
+
+A Hardware Clock (or Real Time Clock / RTC) is a tiny component with a
+separate battery that keeps track of time, even when the power is off
+to the main device which it serves.  It has a small coin-cell (watch)
+battery which typically lasts years.
+
+Note that both types of clock mentioned here are supported in the
+Solo, and both work well.  Please do _not_ try to go through any of
+the software configuration or installation mentioned on the products'
+websites, as this is all done for you already in the Solo.
+
+[HOLE] Once physically installed, it needs to be set for the first
+time.  It subsequently is interrogated every time the Raspberry Pi
+boots so that the system time can be set within the software of the
+Raspberry Pi / Solo.
+
+These clocks do drift from actual time in the world (they aren't
+perfect), and should be syncronised periodically (every 6 months?)
+depending on the amount of drift.  If exact timing matters to you,
+check clock periodically by speaking the time into the microphone, and
+then checking the asudio file to see how far out it is.  
+
+Syncing (the same procedure as setting) is inconvenient.  [HOLE -
+could use ethernet dongle, and a web interface?  Or better - if it
+detects a time-server, it should set the system clock - add to code
+that brings up the network device (ifup?) or perhaps ntpd has a hook
+to run "hwclock -s" after doing a sync to timeserver.  It is likely
+all this code already exists, as PCs must do this all the time.).
+
+Options for hardware clocks
+===========================
+
+Two options have been tested and work well:
+
+PiFace Real Time Clock
+----------------------
+
+This is well supported and costs around 9 UK pounds.  Needs a separate
+coin battery. [Manufacturer's website](http://www.piface.org.uk/products/piface_clock)
+
+It physically installs on pins of the Raspberry Pi quite easily - just
+push it into place.  Then set it and forget it.
+
+Note that the PiFace real time clock is a "shim" - it fits snugly
+against the circuit board of the Raspberry Pi, and occupies none of
+the header pins.  This means it doesn't have any effect on the
+enclosure you choose.  It also works well in conjunction with the
+Cirrus Logic Audio Card.
+
+These are not intended to be moved once installed against the
+Raspberry Pi.  A few remove-install cycles might be fine, but best to
+leave alone once in place.
+
+L-shaped Clock
+--------------
+
+Can't find a good name or manufacturer name for this component: search
+for [DS3231 For Pi](https://www.google.co.uk/search?q=DS3231+for+Pi)
+Manufacturer unknown, but they work, and are cheap - particularly
+multi-packs of 10 from China and are prepared to wait.  Resellers
+closer to you will make a markup, but will be quicker to deliver.
+
+They come with a battery already installed (unlike the PiFace above),
+and simply slide onto the connectors on the Raspberry Pi.  They are
+supported well in software, and Solo supports them seamlessly.  
+
+I have no evidence of how long the batteries will last.  They are so
+cheap, I don't think I'd even try to change the battery, which looks
+like it's held in place by a yellow plastic heat-shrink.  
+
+Note that these are NOT compatible with the Cirrus Logic Audio Card,
+as they physically conflict with the connectors.  (HOLE - there's a
+chance they can be installed instead on the header pins of the CLAC
+board, which does pass-through of some raspi GPIOs.  Haven't looked at
+this).
+

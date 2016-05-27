@@ -1,8 +1,12 @@
 ---
-layout: documentation
 layout: page
-title:  "documentation-index"
+title: documentation
+permalink: documentation/index.html
+weight: 5
+isfront: true
 ---
+
+# Documentation
 
 ## [Getting Started](/documentation/getting-started.html).
 
@@ -10,7 +14,7 @@ This guide is the first thing to read.  It's a good quick start guide
 to Solo, and the Solo:Basic.
 
 
-# Documentation Tree:
+## Documentation Tree:
 
 Although this section may have cross-links, the whole thing is tree
 structured, so you can read it all (and know you have done so).
@@ -24,4 +28,4 @@ structured, so you can read it all (and know you have done so).
 * [harvesting](harvesting.html) - how to copy audio data from memory card to your PC
 * [clock](clock.html) - how to set the clock
 
-The articles vary in technicalness.  
+Some are technical.

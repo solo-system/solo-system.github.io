@@ -1,0 +1,48 @@
+All Solos are based on the same core minicomputer (Raspberry Pi). All use the same SSI (solo software image). Any USB power source will work. But the microphone choice is very dependent on the particular deployment, and therefore we try to support as many microphone types as possible.
+
+USB microphones are uncomplicated – they plug directly into the USB socket on the minicomputer, and are easy to configure and set input levels. In USB microphones, both the microphone receiver and the ADC (analog-to-digital converter) is combined into a single unit. Good success has been achieved with the Blue Snowflake microphone.  Here’s information on the Solo with Snowflake.
+
+
+
+Also well supported is the Cirrus Logic Audio Card – which, once physically attached to the Raspberry Pi, allows any standard 3.5mm microphone to be used.
+
+Separate audio-USB dongles are available like: Icicle (XLR to USB).  None are supported out-of-the-box, but are usually easy to add.  Consideration should be given to their power consumption.
+
+
+Home
+The SOLO is an autonomous outdoor audio recorder for unattended environmental monitoring. It is battery powered and protected by a weatherproof enclosure. It comprises a microphone, mini-computer and battery, and is tailored for long-term, continuous recording, with data being stored on a SD card.
+
+Recording is continuous, and split into manageable 10-minute sections, further split into folder-per-day layout. Larger SD-cards allow longer recording times, with 32Gb cards able to hold around 13 days (64Gb hold 27 days). Audio is stored uncompressed in standard “.wav” format. Audio sample rate is user-configurable – 16kHz and 44.1kHz are common choices.
+
+The SOLO is powered from a standard USB supply (5V) through a micro-USB connector commonly used to charge mobile phones and tablets. Typical deployment would be from a standard USB power bank which would run the system for 5 days of permanent recording. Solar, deep-cycle battery, mains or vehicle powering are all possible, although not supported currently.
+
+Preparing (flashing) the SD card with the software to run the SOLO and any user-configuration, and later harvesting the audio data from the SD-card onto a PC, is simple. Consideration should be given to data storage back in the office, and a plan for analysis of bulk data is recommended. The Solo produces a lot of audio data.
+
+All components live in a waterproof (IP55) outdoor box, except the microphone, which is weatherproof when mounted horizontally.
+
+Solo is an outdoor sound recorder for long term unattended recordings.  It’s intended for field recordings of wildlife.  Electronics in a plastic box with battery and a microphone popping out.
+
+Placed in the field (outdoors somewhere), it will record permanently for many days/weeks on battery power, recording audio onto an SD card, that you can later plug into your PC and download.
+
+The basic system will record continually for about 5 days on a single battery at 44.1kHz.  Then change the battery and SD card.   For longer deployments, get more batteries.  Possibly get a bigger SD card to store all the recordings.
+
+The parts for the bare bones system is “here”.  [HOLE].  It costs about 80 pounds for a barebones system.  120 with waterproofing and some luxuries.  Upgrading microphones and batteries is all possible if desired.
+
+The hardware is based on the Raspberry Pi  (single board computer), with only 3 other things needed: a microphone, a battery, and a SD card.  The software (which you flash onto the SD card), is available for free to download from this site.
+
+
+
+Hardware TypesP
+
+Hardware types
+All Solos are based on the same core minicomputer (Raspberry Pi). All use the same SSI (solo software image). Any USB power source will work. But the microphone choice is very dependent on the particular deployment, and therefore we try to support as many microphone types as possible.
+
+USB microphones are uncomplicated – they plug directly into the USB socket on the minicomputer, and are easy to configure and set input levels. In USB microphones, both the microphone receiver and the ADC (analog-to-digital converter) is combined into a single unit. Good success has been achieved with the Blue Snowflake microphone.  Here’s information on the Solo with Snowflake.
+
+
+
+Also well supported is the Cirrus Logic Audio Card – which, once physically attached to the Raspberry Pi, allows any standard 3.5mm microphone to be used.
+
+Separate audio-USB dongles are available like: Icicle (XLR to USB).  None are supported out-of-the-box, but are usually easy to add.  Consideration should be given to their power consumption.
+
+

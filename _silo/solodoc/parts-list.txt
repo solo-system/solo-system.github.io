@@ -1,0 +1,23 @@
+1 solo
+1 CLAC
+1 Shim RTC
+1 memory card
+1 cable (power)
+
+1 battery
+1 microphone
+
+1 enclosure
+
+
+
+£17.00	Raspberry Pi model A+
+£29.00	Cirrus Logic Audio Card
+£8.40	Piface shim RTC
+£2.00	power cable
+£2.00	SBC enclosure
+£20.31	64Gb class 10 SDXC
+£32.00	EC technology 22.4Ah
+£2.00	Neewer lapel microphone
+£15.00	dribox 200mm enclosure
+£127.71	Total

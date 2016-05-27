@@ -1,0 +1,68 @@
+body {
+    margin: auto;
+    padding-right: 1em;
+    padding-left: 1em;
+    max-width: 90%;
+    border: 2px solid black;
+    color: black;
+    font-family: Idaho, sans-serif;
+//    font-size: 100%;
+    line-height: 140%;
+    color: #222; 
+}
+
+h1 a, h2 a, h3 a, h4 a, h5 a { 
+    text-decoration: none;
+    color: #7a5ada; 
+    color: #000000;
+}
+
+h1, h2, h3, h4, h5 { 
+    font-family: Arial;
+    font-weight: bold;
+    border-top: 2px solid black;
+    padding-top: 8px ;
+    color: #7a5ada;
+//    background-color: red;
+}
+
+h1.title {
+    font-size: 200%;
+    font-weight: bold;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    text-align: left;
+    border: none;
+}
+
+table, td, tr, th {
+    border: 2px solid green;
+    cell-border: 2px solid green;
+    text-align: center;
+}
+
+dt code {
+    font-weight: bold;
+}
+
+dd p {
+    margin-top: 0;
+}
+
+#footer {
+    padding-top: 1em;
+    font-size: 70%;
+    color: gray;
+    text-align: center;
+}
+
+pre {
+    border: 1px dotted gray;
+    background-color: #ececec;
+    color: #1111111;
+    padding: 0.5em;
+}
+
+code {
+    font-family: monospace;
+}
