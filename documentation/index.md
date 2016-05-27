@@ -39,3 +39,6 @@ use.  All guides are still in early drafts:
 * [field-guide](field-guide.html) - guide to deploying outdoors
 * [desk-guide](desk-guide.html)  - protocol for handling data and flashing.
 
+# FAQ
+
+There's also an [FAQ](faq.html), but it's a total mess.
