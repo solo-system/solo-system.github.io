@@ -29,3 +29,13 @@ structured, so you can read it all (and know you have done so).
 * [clock](clock.html) - how to set the clock
 
 Some are technical.
+
+# Guides:
+
+Some guides, including best practices, and experience from a few years
+use.  All guides are still in early drafts:
+
+* [troubleshooting](troubleshooting.html) - problems solved.
+* [field-guide](field-guide.html) - guide to deploying outdoors
+* [desk-guide](desk-guide.html)  - protocol for handling data and flashing.
+

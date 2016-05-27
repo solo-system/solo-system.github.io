@@ -137,30 +137,6 @@ Field recovery
 DESK GUIDE
 ==========
 
-Flashing the SD card
---------------------
-
-1. Ensure the desktop/laptop is correctly configured (see Appendix ??)
-
-2. Plug the card reader into the desktop/laptop
-
-3. Plug the SD card into the card reader (take care with orientation)
-
-4. Start the Win32DiskImager application
-
-5. Select the ‘SOLO Software Image File’ in the box labeled ‘Image File’ in the Win32DiskImager window
-
-6. Ensure the correct drive letter is selected for the SD card (drive letter “I” for me!)
-
-7. Click on ‘Write’ to start writing the image onto the SD card - the process will take about 5 minutes
-
-8. Once the flashing is complete, click on ‘OK’ to complete the process
-
-9. Eject the card from the system in the usual way
-
-10. The card is now ready for use in the SOLO
-
-11. Repeat with other cards as necessary for other recorders.
 
 
 Harvesting audio data from a full SD card

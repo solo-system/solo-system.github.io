@@ -33,3 +33,16 @@ The basic Solo system is straightforward to assemble, and inexpensive
 compared to comparable commercial systems. A basic Solo costs around
 120 pounds, but there's a lot of flexibility with components like
 microphones, memory cards, batteries etc...
+
+# alternative introduction from old usermanual:
+
+The SOLO is an autonomous outdoor recorder for unattended
+environmental monitoring. Battery operated and enclosed in a
+weatherproof enclosure, it comprises a microphone, mini-computer and
+battery, and is tailored for long-term, continuous recording, with
+data being stored on a SD card.
+
+The SOLO is designed to be modular, simple to use and inexpensive. All
+components are readily available to purchase commercially, and the
+system can be assembled by anyone with a bit of hardware
+knowledge. All software is open and free.
