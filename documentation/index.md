@@ -1,19 +1,19 @@
 ---
 layout: documentation
-permalink: "/documentation/index.html"
 layout: page
 title:  "documentation-index"
 ---
 
-# The rules.
+## [Getting Started](/documentation/getting-started.html).
 
-Please ensure you have read the "getting started" guide before diving
-in here.  All this stuff assumes you've read that.  Also, look out
-luddites, there are parts that are technical. Trigger
-warning over.
+This guide is the first thing to read.  It's a good quick start guide
+to Solo, and the Solo:Basic.
 
-# Documentation index:
 
+# Documentation Tree:
+
+Although this section may have cross-links, the whole thing is tree
+structured, so you can read it all (and know you have done so).
 
 * [configuration](configuration.html) - configuring Solo for different situations (sample rate, stereo/mono, timezone, etc...)
 * [power](power/) - information about batteries and power consumption
@@ -23,3 +23,5 @@ warning over.
 * [flashing](flashing.html) - how to prepare a memory card for use in a Solo
 * [harvesting](harvesting.html) - how to copy audio data from memory card to your PC
 * [clock](clock.html) - how to set the clock
+
+The articles vary in technicalness.  

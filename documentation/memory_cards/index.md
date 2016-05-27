@@ -16,6 +16,8 @@ mucy every card you'll ever see).
 
 micro-SD cards come in sizes up to (currently 256Gb).
 
+{{ mc_table }}
+
 [table](table4.html)
 
 ## Recording duration 
