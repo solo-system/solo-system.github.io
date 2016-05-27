@@ -6,15 +6,18 @@ weight: 1
 isfront: true
 ---
 
-The Solo is an audio recorder for unattended, long-term, and
-continuous environmental monitoring.
+# Home
+
+The Solo is an audio recorder for unattended, long-term, continuous
+environmental monitoring.
 
 The Solo comprises of a mini-computer, a microphone and battery, with
 data being stored on a memory card.  It is protected by a weatherproof
 enclosure.
 
 A typical deployment would be powered by a standard USB battery bank
-which would run the system for five days of permanent recording.
+which would run the system for five days of permanent recording.  A
+12Kg car battery recently powered a Solo for over 40 days.
 
 Recording is split into manageable 10-minute-long files which are
 stored on the memory card - grouped into an intuitive folder-per-day

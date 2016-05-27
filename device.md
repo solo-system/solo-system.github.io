@@ -6,6 +6,8 @@ weight: 2
 isfront: true
 ---
 
+# Device
+
 The Solo comprises of a mini-computer, microphone, with data being
 stored on a memory card. It is protected by a weatherproof enclosure.
 
@@ -25,8 +27,7 @@ The Solo Basic records continuously for 5.5 days.  It comprises:
 * Microphone: Primo EM172 microphone
 * Enclosure: DriBox 300 waterproof enclosure
 
-TODO: add costs?
+TODO: add costs? / add retailers? (nah - things change too fast).
 
 The Solo basic is easy to assemble. The written instructions are here,
 and there is a video guide too.
-
