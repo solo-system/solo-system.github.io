@@ -18,6 +18,8 @@ These are the components needed to build the Solo-basic:
 
 * [Watch Battery (CR1220)](https://www.google.co.uk/search?q=CR1220) Generic part, widely available.
 
+* Memory Card - any micro-SD format card.  More [here](/documentation/memory_cards/)
+
 * [Primo microphone](http://www.primomic.com/products/pdf/EM172.pdf) (I know - how man go do?) You can buy them in the UK [here](http://micbooster.com/primo-microphone-capsules/65-clippy-em172-microphone.html#/matched_capsules-mono)
 
 * [USB battery bank](https://www.amazon.co.uk/s/?keywords=ec+technology+powerbank)

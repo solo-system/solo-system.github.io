@@ -10,6 +10,17 @@ permalink: documentation/memory_cards/index.html
 
 All memory cards used in the Solo must be micro-SD sized, so that they fit into the slot on the Raspberry Pi.
 
+## Speed ratings
+
+![](/img/class-10.png "class 10" ){:.some-css-class ; style="margin: 4px; width: 10%; float: right;"}
+![](/img/uhs-class-1.gif "uhs 1" ){:.some-css-class ; style="margin: 4px; width: 10%; float: right;"}
+
+Memory cards have speed ratings.  It is recommended that a minimum of
+"Class 10".  This id denoted by a "10" encircled by a letter "C logo.
+
+Alternatively the UHS-I rating of 1 also good enough.  These ratings
+are indicated by the symbols shown.
+
 ## Capacities
 
 micro-SD cards come in sizes up to (currently 256Gb). This table shows
@@ -119,15 +130,15 @@ for lots of different recording parameters.  The default setup is
 	</tr>
 </table>
 
+## 
 
-## The sums behind it:
+## Arithmetic details:
 
-The equation is :
+The equation behind the table above is:
 
-`10e9 * (CARDCAP - 1.5) / (2 * channels * sample_rate * 60 * 60)`
+hours of recording = `10e9 * (CARDCAP - 1.5) / (2 * channels * sample_rate * 60 * 60)`
 
-= hours of recording, where:
-
+Where:
 - `CARDCAP` is card capacity in GB
 - `1.5` is the space (in GB) lost to the Solo Operating System
 - The `2` is bits per sample   (16bit sample is 2 bytes)
@@ -138,3 +149,5 @@ The equation is :
 Note: that the above numbers are unaware of how long your power supply
 will last - make sure you choose a power supply to match the intended
 record duration.
+
+
