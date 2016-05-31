@@ -10,14 +10,15 @@ different underlying Raspberry Pi hardware.
 
 Three systems were tested, the A+, the B+ and the Pi-Zero.  The measured power usage was:
 
-
+| Hardware | current draw| power usage|
+|  | milli-amps | watts | 
 | A+   | 71mA  |  0.355 Watts  |
 | B+   | 200mA |  1.000 Watts  |
 | Zero | 82mA  |   0.410 Watts |
+{:.mytable }
 
 
-
-Each of the systems is shown below.
+Each of the systems is shown below, the photos look identical, but they are not.
 
 It could be that there are ways of shutting down all the extra hardware on the B+ that we don't use (USB and Ethernet), but I didn't try. (don't know how).
 
