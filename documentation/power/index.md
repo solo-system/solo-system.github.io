@@ -70,21 +70,15 @@ Cirrus Logic Audio Card, but I haven't investigated further.
 
 ### Power calculations:
 
-We will work in watt-hours throughout.  The EC technology battery contains:
-22,300mAh @ 3.3v = (through `power = voltage * current`) = 73.6 Wh
-(Watt-hours) of energy.
+We will work in Watts and Watt-hours throughout.  The EC technology battery
+contains: 22,300mAh @ 3.7v = (through `power = voltage * current`) =
+82.5 Wh (Watt-hours) of energy.
 
 {{ TODO - get photo of ectechnology battery and zoom in on it's info-panel }}
 
 The Solo consumes this a a rate of 0.35 Watts.  So this battery should
-theoretically last (73.6 Wh / 0.35W ) = 113 hours (8.8 days).  However
-in practice we get 5.5 days from these battery banks.
+theoretically last (82.5 Wh / 0.35W ) = 235 hours (9.8 days).  However
+in practice we get 5.5 days from these battery banks.  I expect this
+is due to conversion losses as we move between voltages.
 
-Although it is true that many shoddy battery banks are sold online
-which quote much higher capacities than they actually contain in
-practice, this is emphatically NOT the explanation in this case.  The
-EC tech powerbank is a good one with an honest rating. Rather it is
-the need to convert the voltages back and forth that cause these
-losses.  The extra power is `lost in transit`.  Minimising these
-losses ought to be a priority if you are trying to maximise run-times
-(get in touch).
+The conclusion is that the EC tech battery lasts between 5 and 6 days.
