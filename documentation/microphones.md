@@ -22,6 +22,16 @@ The Solo accepts most standard microphones:
   board - these aren't much use for outoor use, however.
 
 
+### The Solo:Basic microphone
+
+The recommended microphone in the Solo:Basic is the Primo EM172
+[(datasheet)](/lib/EM172.pdf) [Primo
+website](http://www.primomic.com/).  Primo make a "capsule" which has
+no connectors and needs soldered, but people like
+(this)[http://micbooster.com/] sell them (in the UK) with cables, and
+nicely packaged ('Clippy') with windshelds, and will sell you a
+matched pair if you want to do stereo recordings.
+
 ### Connecting the microphone
 
 The microphone is connected to the pink "line-in" socket on the audio
