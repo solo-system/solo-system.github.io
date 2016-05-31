@@ -2,7 +2,7 @@
 
 for name in * ; do
 
-    echo "<a href=\"$name\">$name</a>"
+    echo "<a href=\"$name\">$name</a><br>"
 
 done > index.html
 
