@@ -17,32 +17,34 @@ of the Solo, so it can be tailored to your particular needs.
 
 
 ## Solo:Basic
+[![what is this](/img/solo-boxed.jpg "inside a solo" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; margin-left: 10px; float: right"}](/img/solo-boxed.jpg)
 
-Throughout much of this site, we will refer to the `Solo:Basic` - a
-clearly defined set of hardware components that give you a good solid
-working solo, that fulfills most needs.  
+The `Solo:Basic` is a standardised system that gives you a good solid
+working Solo that will fulfill most needs.
 
-[![what is this](/img/naked-solo-on-table.jpg "inside a solo" ){:.some-css-class style="width: 60%; border: 1px solid #e0e0e0; margin-left: 10px; float: right"}](/img/naked-solo-on-table.jpg)
+## Capabilities
 
-### Capabilities of Solo:Basic
+It will record continuously for 5.5 days using the USB powerbank which
+fits inside the enclosure, and produce mono, 16kz, 16 bit audio files,
+each 10 minutes long, each one labelled with the time it was recorded.
 
-The Solo Basic records continuously for 5.5 days using the USB
-powerbank which fits inside the enclosure.  It uses the Primo EM172.Z2
-microphone, and a 64Gb memory card.  A more detailed bill-of-materials
+## Components
+
+A more detailed bill-of-materials
 is in the [getting started](/documentation/getting-started.html)
 guide, but here's a quick list:
 
-* Mini-computer: Raspberry Pi (model A+) 
-* Audio board: Cirrus Logic audio card
-* Clock module: PiFace shim RTC clock module
-* Battery: EC powerbank 22.3mAh USB battery bank
-* Memory card: 64Gb micro SD memory card
-* Microphone: Primo EM172 microphone
-* Enclosure: DriBox 300 waterproof enclosure
+[![what is this](/img/solo-naked-powerbank-8x6.jpg "inside a solo" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; margin-right: 20px; float: right"}](/img/solo-naked-powerbank-8x6.jpg)
+
+* Raspberry Pi (model A+) 
+* Cirrus Logic Audio Card
+* Clock module
+* USB battery bank
+* 64GB micro SD memory card
+* microphone (Primo EM172)
+* Waterproof enclosure.
 
 The Solo basic is easy to assemble - head to the [getting
-started](/documentation/getting-started.html) guide.  Or jump straight
-to the assembly video.
-
-
+started](/documentation/getting-started.html) guide.  Or have a look
+at the assembly video.
 
