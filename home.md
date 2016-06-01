@@ -14,7 +14,9 @@ weatherproof enclosure, it comprises a microphone, mini-computer and
 battery.  It is tailored for long-term, continuous recording, with
 data being stored on a removable memory card.
 
-[![what is this](/img/naked-solo-on-table.jpg "inside a solo" ){:.some-css-class style="width: 60%; border: 1px solid #e0e0e0; margin-left: 10px; float: right"}](/img/naked-solo-on-table.jpg)
+[![what is this](/img/20160529_135006.jpg "boxed solo" ){:.some-css-class style="height: 250px; width:45% border: 1px solid #d0d0d0; margin: automatic; display: inline;"}](/img/20160529_135006.jpg)
+[![what is this](/img/20160529_135939.jpg "inside a solo" ){:.some-css-class style="height:250px; width:45%; border: 1px solid #e0e0e0; margin: automatic; display: inline"}](/img/20160529_135939.jpg)
+
 
 The Solo is designed to be modular, simple to use and inexpensive. The
 components are easy to buy, and it's easy to assemble. All software is
@@ -42,5 +44,3 @@ are picky.
 
 Have a quick look through the tabs on this website, then jump in to
 the [Getting Started](documentation/getting-started.html) guide.
-
-
