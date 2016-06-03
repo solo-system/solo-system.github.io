@@ -8,13 +8,12 @@ isfront: true
 
 # About
 
-The Solo was developed to solve a need within our own project to have
-a servicable field recorder that was cheap and easy in remote
-locations (West African rainforest), where importing hardware is
-difficult and costly, and returning broken hardware for servicing is
-prohibitvely bureaucratic.
+The Solo was developed to solve a need within our research project to
+have a serviceable field recorder for use in a remote tropical
+rainforest, where importing equipment and returning broken hardware for
+servicing is difficult and costly.
 
-It was important that the device was:
+Additionally, it was important that the device was:
 
 * inexpensive - so we don't care if it's dropped, stolen or trampled.
 * servicable in-situ - assume no access to customer service / returns.

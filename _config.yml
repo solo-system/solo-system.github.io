@@ -9,7 +9,9 @@
 title: Solo
 email: info@solo-system.com
 
-description: Solo - a field recorder for bioacoustic research.  Outdoor, continuous, battery-powered, based on Raspberry-Pi, self-built, high-fidelity, configurable, user-servicable, cheap, modifiable, extensible, modular, open source.
+#description: Solo - a field recorder for bioacoustic research.  Outdoor, continuous, battery-powered, based on Raspberry-Pi, self-built, high-fidelity, configurable, user-servicable, cheap, modifiable, extensible, modular, open source.
+description: Solo field recorder.
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.solo-system.org" # the base hostname & protocol for your site
