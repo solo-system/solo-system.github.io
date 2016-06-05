@@ -39,10 +39,37 @@ and manages the audio recordings.
 
 ### Config options in amon.conf
 
-* CHANNELS controls stereo or mono.  Set it to 1 or 2
-* SAMPLERATE controls the sample rate of the audio.  Set it to 16000 44100 or anything up to 192000.
-* CLAC_VOL is a volume control
-* CLAC_DIGITAL_VOL is a digital volume control
+* <b>CLAC_CHANNELS</b> controls stereo or mono.  Set it to 1 or 2
+
+* <b>CLAC_SAMPLERATE</b> controls the sample rate of the audio in Hz.  Set it to 8000, 16000, 44100 or anything up to 192000
+
+* <b>CLAC_VOL</b> is a volume control. range is [0,31] representing
+  [0dB->32db] in 1dB steps.  Max out this volume before raising the
+  CLAC_DIGITAL_VOL. The default is the maximum of 31.
+
+* <b>CLAC_DIGITAL_VOL</b> is a digital volume. Range is[0,191]
+  representing [-64dB->+32dB] in 0.5dB steps (so 128 is 0dB) The
+  default is `CLAC_VOL=152` representing +24dB. TODO - make a table?
+
+* <b>CLAC_AUDIO_SOURCE</b> Selects the jack to record from.  "linein"
+  selects the pink "line-in" socket which I recommend. This socket
+  provides PIP (plug in power) to drive your mic with a few volts if
+  it needs it. "dmic" selects the onboard stereo Digital MEMS
+  microphones.  `mic` selects the black "headphone" socket which is
+  intended for headphone/microphone headsets. I haven't used this, but
+  I think it requires a connector with 4 sections (Left headphone,
+  Right headphone, Microphone and Ground).  I think.  The default is
+  "linein"
+
+* <B>DURATION</b> controls the duration of the recorded audio files
+  (how often they are split) in minutes.  Anything up to 60 mins is
+  supported at the moment.  `DURATION=10` is the default 10 minutes.
+  Actually the behaviour is : every minute we consider splitting the
+  audio.  If (minute-hand-of-current-time-of-day / DURATION) leaves a
+  zero remainder, then we DO split. It's written this way so that the
+  Solo immediately synchronises the splits with wall-clock time.  But
+  it isn't perfect.  Get in touch if you want something different (eg
+  24 hour durations).
 
 ### Config options in solo.conf
 
@@ -51,6 +78,9 @@ and manages the audio recordings.
 The timezone of the Solo is set through the /boot/solo.conf file.
 
 The entry is SOLO_TZ, and it defaults to Europe/London.
+
+`SOLO_TZ=America/Panama` would be a valid example.  As would `UTC`
+for Universal coordinated time (Zulu). See below for a list.
 
 If you cnoose a timezone which uses daylight saving, then be aware
 that there will be one hour of the year (in spring), when a hours'
