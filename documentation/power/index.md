@@ -79,8 +79,7 @@ is telling.
 That said, a calendar mode would not be hard to add to the software,
 and it's probably near the top of the list for new functionality.  Ask
 if you want it.  And tell me what your schedule would be, so I can get
-an idea of what people want.  Alternatively, do it yourself - it's all
-open-source!
+an idea of what people want.
 
 ###  What about things like the Witty-Pi
 
