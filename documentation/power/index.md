@@ -31,7 +31,11 @@ large battery terminals reliably.
 
 ### Solo power consumption.
 
-The Solo-basic is rated at 0.35 Watts.  (71mA @ 5v)
+The Solo:Basic consumes 0.35 Watts (71mA @ 5v) in normal operation.
+This is the number to assume when you try to calculate how long your
+battery will last.  However, at some points in it's operation
+(notably, at startup), it needs much more, so when choosing a power
+supply, you should ensure it can supply about 700mA (about 3.5 Watts).
 
 
 ### Batteries
@@ -45,6 +49,11 @@ More recently 12Kg vehicle batteries have been deployed.  Results are
 arriving now (May 2016), and so far they have lasted 43 days, and 34
 days.  We don't understand this discrepancy yet - most systems are
 stil running (as of 24 May 2016).
+
+Please note that doing power calculations to work out how long a
+certain battery will last is frought with difficulties, as there are
+losses at every stage.  Please be careful.  Empirical evidence is the
+best thing (try it!).
 
 
 ### What affects the consumption of the Solo
@@ -60,6 +69,18 @@ underlying Raspberry Pi miniPC doesn't use any less power if it stops
 recording audio.  Disappointingly, it lacks good low-power state to
 hibernate into.
 
+A calendar mode would save space on the memory card, however, allowing
+you to get away with smaller microSD cards.  In deployments thus far,
+people have been more interested in collecting 24/7 data
+opportunistically and deleting what they didn't want.  Memory cards
+are quite cheap.  Nobody has deleted their "unwanted" data yet, which
+is telling.
+
+That said, a calendar mode would not be hard to add to the software,
+and it's probably near the top of the list for new functionality.  Ask
+if you want it.  And tell me what your schedule would be, so I can get
+an idea of what people want.  Alternatively, do it yourself - it's all
+open-source!
 
 ###  What about things like the Witty-Pi
 
