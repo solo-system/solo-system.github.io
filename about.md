@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-permalink: /about/
+permalink: /about.html
 weight: 6
 isfront: true
 ---
