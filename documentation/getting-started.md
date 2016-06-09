@@ -10,28 +10,31 @@ permalink: documentation/getting-started.html
 
 These are the components needed to build the Solo-basic:
 
-* [Raspberry Pi model A+](https://www.raspberrypi.org/products/model-a-plus/)
+* [Raspberry Pi model A+](https://www.raspberrypi.org/products/model-a-plus/) (about 15.00)
 
-* [Cirrus Logic Audio Card](http://nowhere/)
+* [Cirrus Logic Audio Card](https://uk.farnell.com/wolfson-microelectronics/cirrus-logic-audio-card/cirrus-logic-audio-card-for-raspberry/dp/2448312) (25.44p)
 
-* [PiFace Clock](http://www.piface.org.uk/products/piface_clock/) buy: [farnell/UK](http://uk.farnell.com/piface/shim-rtc/real-time-clock-shim-for-raspberry/dp/2434226)
+* [PiFace Clock](http://www.piface.org.uk/products/piface_clock/) buy: [farnell/UK](http://uk.farnell.com/piface/shim-rtc/real-time-clock-shim-for-raspberry/dp/2434226) (8.95p)
 
-* [Watch Battery (CR1220)](https://www.google.co.uk/search?q=CR1220) Generic part, widely available.
+* [Watch Battery (CR1220)](https://www.google.co.uk/search?q=CR1220) Generic part, widely available. buy: [farnell/UK](http://uk.farnell.com/multicomp/cr1220/coin-cell-lithium-3v-38mah-cr1220/dp/2065165) (0.70p)
 
-* Memory Card - any micro-SD format card.  More [here](/documentation/memory_cards/)
+* Memory Card - any micro-SD format card.  More [here](/documentation/memory_cards/) (20.00p (for 64GB)
 
-* [Primo microphone](http://www.primomic.com/products/pdf/EM172.pdf) (I know - how man go do?) You can buy them in the UK [here](http://micbooster.com/primo-microphone-capsules/65-clippy-em172-microphone.html#/matched_capsules-mono)
+* [Primo microphone](http://www.primomic.com/products/pdf/EM172.pdf) You can buy them in the UK [here](http://micbooster.com/primo-microphone-capsules/65-clippy-em172-microphone.html#/matched_capsules-mono) (24.00)
 
-* [USB battery bank](https://www.amazon.co.uk/s/?keywords=ec+technology+powerbank)
+* [USB battery bank](https://www.amazon.co.uk/s/?keywords=ec+technology+powerbank) (19.00)
 
-* [Waterproof Enclosure](http://dri-box.com) I suggest version [200](http://dri-box.com/size-option/size-200)
+* [Waterproof Enclosure](http://dri-box.com) I suggest version [200](http://dri-box.com/size-option/size-200) (8.99)
 
-* [Little Box](https://www.westonboxes.com/collections/business-card-boxes-1/products/deep-business-card-box)
+* [Little Box](https://www.westonboxes.com/collections/business-card-boxes-1/products/deep-business-card-box) (89p)
 
 
 ### Apology:
 
-I haven’t written these instructions properly yet - sorry. There is a really heartless go at it below, but writing documentation is soul-destroying when you don’t know if anyone will read it. Then it’s a joy (and I get a proof-reader for free).So if you want it, do ask.
+I haven’t written these instructions properly yet - sorry. There is a
+really heartless go at it below, but writing documentation is
+soul-destroying when you don’t know if anyone will read it. Then it’s
+a joy (and I get a proof-reader for free).So if you want it, do ask.
 
 ### Video
 

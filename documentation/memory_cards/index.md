@@ -141,7 +141,7 @@ hours of recording = `10e9 * (CARDCAP - 1.5) / (2 * channels * sample_rate * 60 
 Where:
 - `CARDCAP` is card capacity in GB
 - `1.5` is the space (in GB) lost to the Solo Operating System
-- The `2` is bits per sample   (16bit sample is 2 bytes)
+- The `2` is bytes per sample   (a 16-bit sample is 2 bytes)
 - the `sample_rate` is in Hz (16000 for example)
 - the `60`s are seconds per minute, and minutes per hour.
 - The result is a reading of *hours* on the card.  Add a 24 to the bottom line of the equation to get the answer in days.
