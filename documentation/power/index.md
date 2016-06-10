@@ -121,6 +121,30 @@ battery is 12x41 = 492 Watt-hours.  So, it will last (492.0 / 0.355) =
 remainder was lost in things like voltge-conversion, resistance in
 cables, battery leaking charge over time etc...
 
+### Options for Solar charging.
+
+Although I've never done it, you could increase the run-time of your
+system by trickle charging your lead-acid battery in-situ using a
+solar panel.  Many auto/car shops sell "battery maintainers", which
+seem to produce a few watts, which might make a small difference.  Here are some thoughts
+
+- Ensure the solar charging unit has a diode so it doesn't drain power
+  away from the battery at night.
+
+- Bigger solar panels will obviously refill the battery more quickly.
+  At some point you'll be filling faster than the Solo is consuming.
+  Be sure to not over charge the battery (use a charge controller) for
+  larger solar panels.
+
+- ensure the 12-5v DC-DC converter can handle the over-voltage that
+  the solar charger applies to the battery (all in-car/auto converters
+  should handle this).
+
+- I don't know what I'm talking about.  So be careful, and consult an
+  expert (not me).
+
+A good place to look for such things might be boat/yacht/RV/caravan
+shops.
 
 
 ### What affects the consumption of the Solo
