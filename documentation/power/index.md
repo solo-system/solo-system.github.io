@@ -126,7 +126,7 @@ cables, battery leaking charge over time etc...
 Although I've never done it, you could increase the run-time of your
 system by trickle charging your lead-acid battery in-situ using a
 solar panel.  Many auto/car shops sell "battery maintainers", which
-seem to produce a few watts, which might make a small difference.  Here are some thoughts
+seem to produce a few watts, which might make a small difference.  Here are some thoughts:
 
 - Ensure the solar charging unit has a diode so it doesn't drain power
   away from the battery at night.
@@ -142,6 +142,9 @@ seem to produce a few watts, which might make a small difference.  Here are some
 
 - I don't know what I'm talking about.  So be careful, and consult an
   expert (not me).
+
+- [Here's](https://www.youtube.com/watch?v=47CcB3EKpjw) a video about
+  how (not) to do it.  
 
 A good place to look for such things might be boat/yacht/RV/caravan
 shops.
