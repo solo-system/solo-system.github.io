@@ -40,20 +40,81 @@ supply, you should ensure it can supply about 700mA (about 3.5 Watts).
 
 ### Batteries
 
-The only battery that is well tested is the EC technology USB power
-bank, which has a capacity of 22300mAh.  It's on the components list
-of the [getting started](/documentation/getting-started.html) guide.
-The solo-basic runs for 5.5 days on this battery bank.
+The USB battery bank recommended for the Solo:Basic costs £20 and
+lasts 5 days. However we've also this year (2016) used bog-standard
+car batteries which last about 40 days.  As long as you ensure the
+voltage is correct (5V) and take care with connectors, then there is a wide choice of how to power the Solo.
 
-More recently 12Kg vehicle batteries have been deployed.  Results are
-arriving now (May 2016), and so far they have lasted 43 days, and 34
-days.  We don't understand this discrepancy yet - most systems are
-stil running (as of 24 May 2016).
 
-Please note that doing power calculations to work out how long a
-certain battery will last is frought with difficulties, as there are
-losses at every stage.  Please be careful.  Empirical evidence is the
-best thing (try it!).
+#### USB battery banks
+
+If you don't know what you are doing - do THIS.  They are easy to
+connect, easy to charge, light to carry, safe and cheap.  We have used
+the EC technology 22400mAh powerbank very widely (in 2015) with great
+success.  It's on the components list of the [getting
+started](/documentation/getting-started.html) guide.  The Solo:Basic
+runs for 5.5 days on this battery bank.  
+
+####  Car Batteries (lead acid)
+
+In 2016 we have used 11kg vehicle batteries.  These have run the solo
+for 40 days on average. They require DC-DC converters, clamps to
+attach to the battery terminals, and they live outside the Solo's
+waterproof enclosure, so require independent waterproofing (a bin
+bag).  The difference between 5.5 days (with USB battery bank) and 40
+days has dramatically changed how we undertake the field studies.
+
+If you are't happy with 40 days, you could buy a bigger lead-acid
+battery.
+
+Note that it's probably bad to drain car batteries in the way that we
+did with these DC-DC converters, and we will have to see how well they
+recharge.  We probably ought to be buying "Deep Cycle" batteries.
+
+Here are some relevant photos
+
+- [car battery and cigar converter](https://solo-system.github.io/img/car-solo-cigar-8x6.jpg)
+- [DC-DC converter](https://solo-system.github.io/img/car-battery-dcdc-8x6.jpg)
+- [the converter we used in 2016](https://solo-system.github.io/img/dcdc-8x6.jpg)
+- [converter connected with WAGO connectors](https://solo-system.github.io/img/solo-car-dcdc-8x6.jpg)
+
+#### DC-DC converters
+
+The simplest way to convert the 12v of a lead-acid battery down to the
+5v needed for the Solo is to use an in-car cigarette lighter converter
+like [this], and a cheap connecter with 2 crocodile clips.  However
+during tests we found that the ones we tested were wasteful and
+inefficient.  Instead, we ended up using [these] converters, which are
+intended for behind-the-dashboard use in vehicles, and are therefore
+robust and strong.  They gave much better efficiency in performing the
+conversion from 12v->5v (but were far from perfect).  The hunt for the
+perfect DC-DC converter is on - suggestions welcome.
+
+I'll try to get some numbers published here about efficiencies of
+converters in practise.  
+
+### How long will it run on a certain battery?
+
+Please note that doing power calculations in order to work out how
+long a certain battery will last is frought with difficulties, as
+there are losses at every stage.  Please be careful.  Empirical
+evidence is the best thing (try it out).
+
+The _theory_ says: Work out the number of "Watt Hours" in your battery
+by multiplying the battery's voltage (in Volts) by the capacity of the
+battery (in amp-hours).  Now, the Solo consumes those watt-hours at a
+rate of 0.355 Watts.  So divide the Watt-hours (energy in battery) by
+the 0.355 watts (speed solo uses that energy) to get the number of
+hours it will run for.
+
+Example: The car battery we used
+[link](http://www.halfords.com/motoring/bulbs-blades-batteries/car-batteries/halfords-lead-acid-battery-hb063-3-yr-guarantee)
+output 12V and was rated at 41 amp-hours.  So the total energy in the
+battery is 12x41 = 492 Watt-hours.  So, it will last (492.0 / 0.355) =
+1385 hours, which is about 57 days.  But we got only 40, so the
+remainder was lost in things like voltge-conversion, resistance in
+cables, battery leaking charge over time etc...
+
 
 
 ### What affects the consumption of the Solo
