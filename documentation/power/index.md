@@ -81,17 +81,23 @@ Here are some relevant photos
 #### DC-DC converters
 
 The simplest way to convert the 12v of a lead-acid battery down to the
-5v needed for the Solo is to use an in-car cigarette lighter converter
-like [this], and a cheap connecter with 2 crocodile clips.  However
-during tests we found that the ones we tested were wasteful and
-inefficient.  Instead, we ended up using [these] converters, which are
-intended for behind-the-dashboard use in vehicles, and are therefore
-robust and strong.  They gave much better efficiency in performing the
-conversion from 12v->5v (but were far from perfect).  The hunt for the
-perfect DC-DC converter is on - suggestions welcome.
+5v needed for the Solo is to use an in-car cigarette lighter
+converter, and a cheap connecter with 2 crocodile clips (see first
+image above).  However during tests we found that the ones we tested
+were wasteful and inefficient.  Instead, we ended up using the
+converters shown in the other images, which are intended for
+behind-the-dashboard use in vehicles, and are therefore robust and
+strong.  They gave much better efficiency in performing the conversion
+from 12v->5v (but were far from perfect).  The hunt for the perfect
+DC-DC converter is on - suggestions welcome.
 
 I'll try to get some numbers published here about efficiencies of
 converters in practise.  
+
+NOTE: the converters didn't have reverse-polarity protection, so if
+you connected the croc clips to the battery the wrong way around,
+you'd blow the DC-DC converter permanently. (Or if you got the cables
+muddled). 
 
 ### How long will it run on a certain battery?
 
