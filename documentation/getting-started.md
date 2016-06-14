@@ -4,9 +4,9 @@ title: Getting Started with Solo Basic
 permalink: documentation/getting-started.html
 ---
 
-## Getting Started:  with the Solo:basic
+## Getting Started -  Solo:basic
 
-### Purchasing components:
+### Purchase components
 
 These are the components needed to build the Solo-basic:
 
@@ -28,21 +28,22 @@ These are the components needed to build the Solo-basic:
 
 * [Little Box](https://www.westonboxes.com/collections/business-card-boxes-1/products/deep-business-card-box) (89p)
 
-You'll also need a USB-ethernet adapter is needed to set the clock
-(this is rare, so borrow one if you can). Also a card-reader.  And access to a PC/Laptop.
+You'll also need a USB-ethernet adapter to set the clock (this is
+rare, so borrow one if you can). Also a card-reader.  And access to a
+PC/Laptop.
 
-### Assembly:
+### Assemble
 
 See the accompanying [video](https://youtu.be/2Fq05JlEKjw?t=122)
 
-* gather all the components needed
-* place the tiny battery into the clock module (positive side up)
-* mount the clock module on the Raspberry Pi [(product video)](https://www.youtube.com/watch?v=mBUGtiDrHKc)
-* mount the Cirrus Logic Audio Card on the Raspberry Pi and attach fixing screws
-* attach the microphone to the pink socket on the Cirrus Logic Audio Card
-* attach the power cord to the Raspberry Pi (do NOT attach a power supply yet)
-* protect in the small enclosure
-* lay the small enclosure into the DriBox waterproof enclosure
+1. gather all the components needed
+1. place the tiny battery into the clock module (positive side up)
+1. mount the clock module on the Raspberry Pi [(product video)](https://www.youtube.com/watch?v=mBUGtiDrHKc)
+1. mount the Cirrus Logic Audio Card on the Raspberry Pi and attach fixing screws
+1. attach the microphone to the pink socket on the Cirrus Logic Audio Card
+1. attach the power cord to the Raspberry Pi (do NOT attach a power supply yet)
+1. protect in the small enclosure
+1. lay the small enclosure into the DriBox waterproof enclosure
 
 
 ### Prepare (flash) a memory card
@@ -74,7 +75,7 @@ With the power disconnected, remove the memory card, and attach to your PC/lapto
 
 ### Listen and analyse.
 
-Play the audio files by double clicking on them.  Analyse them with your favourite sound editor - try [Audacity](http://www.audacityteam.org).
+Play the audio files by double clicking on them.  Analyse them with a sound editor - try [Audacity](http://www.audacityteam.org)
 
 ### Done
 
