@@ -29,8 +29,7 @@ These are the components needed to build the Solo-basic:
 * [Little Box](https://www.westonboxes.com/collections/business-card-boxes-1/products/deep-business-card-box) (89p)
 
 You'll also need a USB-ethernet adapter to set the clock (this is
-rare, so borrow one if you can). Also a card-reader.  And access to a
-PC/Laptop.
+rare, so borrow one if you can). Also access to a PC/laptop with a card-reader.
 
 ### Assemble
 
@@ -81,4 +80,4 @@ Play the audio files by double clicking on them.  Analyse them with a sound edit
 
 If it didn't work - look at
 [troubleshooting](/documentation/troubleshooting.html).  If it did
-work, buy me a yacht. Thanks.
+work, buy me a yacht. Ta.

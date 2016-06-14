@@ -7,16 +7,17 @@ title:  "Flashing"
   
 # Flashing
 
-Before being used in the Solo, a memory card **must** be *flashed* with the
-software that controls the hardware - the SOS (Solo operating system).
+Flashing is the process of preparing the memory card with the software
+needed to run the Solo.  Cards can then optionally be "configured"
+before being plugged into the Solo and turned on.
 
 To prepare a card for use we must:
 
-* Download the Solo operating system (SOS) onto a PC/Laptop
-* unzip it
-* physically attach the memory card to the PC/laptop through a memory card reader.
+* download the Solo operating system image (SOSI) onto a PC/Laptop
+* unzip it (right click on the downloaded file)
+* attach the memory card into your PC/laptop's memory card reader
 * *flash* the SOS onto the card.
-* [optionally] configure settings
+* [optionally] configure Solo ettings
 
 The card is now ready to be inserted into the slot on the Solo.
 
@@ -39,24 +40,24 @@ the downloaded .zip file on your desktop and right-click.  Select
 
 ### Attach Memory Card to PC
 
-Attach the memory card to your PC by inserting it into a Card Reader.
+Attach the memory card to your PC by inserting it into a card ceader.
 These can either be integrated into your computer, or are available as
 USB dongles.
 
-### Flash the memory card with the SOS
+### Flash the memory card with the SOSI
 
-We now run a program that "flashes" the solo-xxx.img onto the memory
-card.  Simply copying does **NOT** work.
+We now run a program transfers the SOSI onto the memory card. Warning:
+Simply copying (or drag-and-drop) does **NOT** work.
 
-BE VERY CAREFUL.  BE VERY VERY CAREFUL.  IF YOU GET THIS WRONG YOU MAY
+NOTE: BE VERY CAREFUL.  BE VERY VERY CAREFUL.  IF YOU GET THIS WRONG YOU MAY
 LOSE ALL DATA ON YOUR PC/LAPTOP. 
 
 #### Windows:
 
-You will require [Win32DiskImager](http://sourceforge.net/projects/win32diskimager/)
+You will need [the latest SOSI](/downloads.html) and [Win32DiskImager](http://sourceforge.net/projects/win32diskimager/).  
 
 1. Start the Win32DiskImager application.
-1. Select the *Solo Operating System* file: - `solo-2016-01-01.img` in the box labeled ‘Image File’ in the Win32DiskImager window
+1. Select the **Solo Operating System Image** file: - `sosi-2016-01-01.img` in the box labeled ‘Image File’ in the Win32DiskImager application.
 1. Ensure the correct drive letter is selected for the memory card. (GET THIS CORRECT, OR STOP).
 1. Click on ‘Write’ to start flashing the memory card - the process will take a few minutes.
 1. Once the flashing is complete, click on ‘OK’ to complete the process
@@ -68,7 +69,7 @@ except they aren't flashing the Solo operating system, obviously.
 
 #### Mac
 
-Don't know, but people _have_ succeeded.
+Don't know, but people _have_ succeeded (it's easier than Windows).
 
 
 ### Finished
