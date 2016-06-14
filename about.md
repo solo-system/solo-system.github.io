@@ -27,16 +27,17 @@ Additionally, it was important that the device was:
 Although the Solo has been in use for a few years, it remans under
 active development to keep up with new hardware and software.
 
-### Feedback, questions and contributing
+### Feedback, questions, help and contributing
 
-We have a facebook page, where you can commment or ask questions (and
-answer them).  Alternatively, email me directly at info@solo-system.org.
-
-If you have ideas or a request for new functionality, please leave a
+If you have ideas or a request for new functionality, leave a
 comment on our facebook page.    If you can code - look at the [github
-site](www.github.com/solo-system).  ## Who done it?
+site](www.github.com/solo-system).
 
 If you have a success story, let us know, to make us feel good.
 
 Solo was developed by James Christie (info@solo-system.org) and
 adopted early for field use by Robin Whytock.
+
+There is a facebook page, where you can commment or ask questions (and
+answer them).  Alternatively, email me directly at info@solo-system.org
+
