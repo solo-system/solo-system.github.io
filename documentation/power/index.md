@@ -57,7 +57,7 @@ runs for 5.5 days on this battery bank.
 
 ####  Car Batteries (lead acid)
 
-In 2016 we have used 11kg vehicle batteries.  These have run the solo
+In 2016 we have used 12kg vehicle batteries.  These have run the solo
 for 40 days on average. They require DC-DC converters, clamps to
 attach to the battery terminals, and they live outside the Solo's
 waterproof enclosure, so require independent waterproofing (a bin

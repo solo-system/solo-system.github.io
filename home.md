@@ -8,11 +8,11 @@ isfront: true
 
 # Home
 
-The Solo is an autonomous outdoor recorder for unattended
-environmental monitoring. Enclosed in a weatherproof enclosure, the
-Solo comprises a microphone, mini-computer and battery.  It is
-tailored for long-term, continuous recording, with data being stored
-on a removable memory card.
+The Solo is an autonomous, high definition audio recorder for
+unattended environmental monitoring. Protected in A weatherproof
+enclosure, the Solo comprises a microphone, mini-computer and battery.
+It is tailored for long-term, continuous recording, with data being
+stored on a removable memory card.
 
 [![what is this](/img/20160529_135006.jpg "boxed solo" ){:.some-css-class style="height: 250px; width:50% float: left;"}](/img/20160529_135006.jpg)
 [![what is this](/img/20160529_135939.jpg "inside a solo" ){:.some-css-class style="height:250px; width:50%; float: right"}](/img/20160529_135939.jpg)

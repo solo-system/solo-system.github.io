@@ -14,8 +14,8 @@ This document covers microphones for the Solo.
 
 The Solo accepts most standard microphones:
 
-* It expects a 3.5mm stereo/mono microphone connector.
-* a vew volts of **plug-in-power** is supplied for microphones that want
+* standard 3.5mm stereo/mono microphone connector.
+* a few volts of **plug-in-power** is supplied for microphones that want
   it.
 * both __mono__ and __stereo__ microphones are supported
 * No mic?  There are integrated stereo microphones on the circuit
@@ -53,7 +53,7 @@ in stereo or mono.  Stereo recordings occupy twice as much space on
 the memory card, so halve the available duration.
 
 The relevant Solo Confirugation option is "SOLO_CHANNELS" - see more
-[configuration page](configuration.md/#channels).
+[configuration page](configuration.html).
 
 ### configuring volume levels, and mono/stereo
 
@@ -69,8 +69,4 @@ in.
 There are 2 gains which you should tweak in the configuration file -
 SOLO_VOLUME and SOLO_DIGITAL_VOLUME - see more
 [configuration page](configuration.md/#volume).
-
-On the other hand - if you __do__ plann to record yourself shouting
-24/7 then you'd be fine doing that.  Or anything for that matter - go
-ahead.  Just don't contact me.
 
