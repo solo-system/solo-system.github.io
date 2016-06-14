@@ -1,0 +1,11 @@
+A note about Nyquist. - people who deal with recording and digitization will talk about "sample rate, sampling frequency".  Typical values are 16000, 8000, 44.1kHz (cd audio).   But when it comes to listening (or analysing) sound, you need to halve these numbers.  It's called Nyquist, and it's important if you want to talk this language.   A device that digitizes sound at 44100kHz (like CD audio) can validly represent frequencies in that sound up to 22050Hz faithfully.  Any frequency in the incoming audio above 22050 is deaf to it.
+
+Why?  Sound is an analog thing - always changing.  It's a continuous (often fast) change in pressure in the air.  When we digitally record sound, we have to measure that pressure.  So how many readings should we take? (how accurately is a separate question).  Just like a digital photo has a "resolution" so a digital sound recording has a "sample rate", and the sample rate is chosen so you can hear the most detailed sounds you want, (resolution of a photo chosen so you can see the level of detail you want).
+
+You wouldn't learn much about seasonal temperatures if you measured temperature once a year.  You wouldn't be able to day much about how the weather's temperature varied over the passage of a day, if you only took one reading of temperature per day.
+
+Wagon wheels, and dancing in discotheques under strobe lights.
+
+So when a digital recordist says they have a recording at 44100 Hz, realise that the pipistrelle bat, which makes sounds aruond 40kHz is NO WAY recorded in this stream.  You 'll only hear things up to 20 kHz.
+
+take readings of that pressure
