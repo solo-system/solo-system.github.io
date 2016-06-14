@@ -8,6 +8,7 @@ isfront: true
 
 # Documentation
 
+There is a 10 minute [video](https://youtu.be/2Fq05JlEKjw)<br>
 The first thing to read is [Getting Started](/documentation/getting-started.html).
 
 #### Documentation Tree

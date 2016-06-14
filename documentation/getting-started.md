@@ -4,7 +4,7 @@ title: Getting Started with Solo Basic
 permalink: documentation/getting-started.html
 ---
 
-## Solo-basic - getting started
+## Getting Started:  with the Solo:basic
 
 ### Purchasing components:
 
@@ -28,43 +28,56 @@ These are the components needed to build the Solo-basic:
 
 * [Little Box](https://www.westonboxes.com/collections/business-card-boxes-1/products/deep-business-card-box) (89p)
 
+You'll also need a USB-ethernet adapter is needed to set the clock
+(this is rare, so borrow one if you can). Also a card-reader.  And access to a PC/Laptop.
 
-### Apology:
+### Assembly:
 
-I haven’t written these instructions properly yet - sorry. There is a
-really heartless go at it below, but writing documentation is
-soul-destroying when you don’t know if anyone will read it. Then it’s
-a joy (and I get a proof-reader for free).So if you want it, do ask.
+See the accompanying [video](https://youtu.be/2Fq05JlEKjw?t=122)
 
-### Video
-
-There is a video of this: TODO YouTube link.
-
-### Assembly: Once you have all the parts, you can assemble the Solo:
-
-* Locate all the components needed.
-* Place the battery into the clock module (positive side up)
-* mount clock module on the raspberry pi
-* mount the Cirrus Logic Audio Card on the Raspberry Pi (+ attach screws).
-* Attach microphone to the pink socket on the Cirrus Logic Audio Card
-* attach the power cord to the Raspberry Pi (but not a power source yet)
-* That’s it. There is a video
-
-Note: If you have no money or lack commitment, the [Solo-cheapskate]
-version might be for you. (forget the microphone, forget the clock,
-forget the battery). Cheapskate. It’ll hook you - then you’ll be back.
+* gather all the components needed
+* place the tiny battery into the clock module (positive side up)
+* mount the clock module on the Raspberry Pi [(product video)](https://www.youtube.com/watch?v=mBUGtiDrHKc)
+* mount the Cirrus Logic Audio Card on the Raspberry Pi and attach fixing screws
+* attach the microphone to the pink socket on the Cirrus Logic Audio Card
+* attach the power cord to the Raspberry Pi (do NOT attach a power supply yet)
+* protect in the small enclosure
+* lay the small enclosure into the DriBox waterproof enclosure
 
 
-### preparing memory card
+### Prepare (flash) a memory card
 
-### deploy and turn on.
+Insert the memory card into the card reader of your PC, and follow the
+[instructions]() to flash the SOSI (Solo operating system image) onto
+the card.  Once flashed, insert the memory card into the Solo's
+raspberry pi SD card socket.
 
-### allow it to record audio.
+### Set the clock
 
-### turn off.
+Follow the [instructions]() to set the clock. This step can be
+skipped, but your audio files will be wrongly time-stamped.
 
-### recover data from memory card.
+### Turn it on
 
-### listen
+Attach the power cable to the (charged) USB battery bank, and watch the Solo boot.  Notice the green light stabilise (after about 50 seconds) to a "heart-beat" double-flash pattern.  
 
-### analyse
+### Allow it to record audio.
+Sing, shout, hammer.  Leave it for at least ten minutes to fill up one complete audio recording file.
+
+### Turn it off 
+
+Pull the power cord from the battery (at the battery end - don't disturb the more delicate connector on the Raspberry Pi). 
+
+### Recover data from memory card.
+
+With the power disconnected, remove the memory card, and attach to your PC/laptop.  Follow the [instructions]( for harvesting data onto your PC/laptop.
+
+### Listen and analyse.
+
+Play the audio files by double clicking on them.  Analyse them with your favourite sound editor - try [Audacity](http://www.audacityteam.org).
+
+### Done
+
+If it didn't work - look at
+[troubleshooting](/documentation/troubleshooting.html).  If it did
+work, buy me a yacht. Thanks.
