@@ -8,6 +8,8 @@ isfront: true
 
 # Home
 
+[video](https://youtu.be/2Fq05JlEKjw)
+
 The Solo is an autonomous outdoor recorder for unattended
 environmental monitoring. Enclosed in a weatherproof enclosure, the
 Solo comprises a microphone, mini-computer and battery.  It is
