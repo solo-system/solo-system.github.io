@@ -54,23 +54,33 @@ raspberry pi SD card socket.
 
 ### Set the clock
 
-Follow the [instructions]() to set the clock. This step can be
-skipped, but your audio files will be wrongly time-stamped.
+Follow the [instructions to set the clock](/documentation/clock.html)
+. It should be connected to a network and left to run for 15
+minutes. This step can be skipped for the moment if you like, but your
+audio files will be wrongly time-stamped until the clock is properly
+set.
 
 ### Turn it on
 
-Attach the power cable to the (charged) USB battery bank, and watch the Solo boot.  Notice the green light stabilise (after about 50 seconds) to a "heart-beat" double-flash pattern.  
+Attach the power cable to the (charged) USB battery bank, and watch
+the Solo boot.  Notice the green light stabilise (after about 50
+seconds) to a "heart-beat" double-flash pattern.
 
 ### Allow it to record audio.
-Sing, shout, hammer.  Leave it for at least ten minutes to fill up one complete audio recording file.
+
+Sing, shout, hammer.  Leave it for at least ten minutes to fill up one
+complete audio recording file.
 
 ### Turn it off 
 
-Pull the power cord from the battery (at the battery end - don't disturb the more delicate connector on the Raspberry Pi). 
+Pull the power cord from the battery (at the battery end - don't
+disturb the more delicate connector on the Raspberry Pi).
 
 ### Recover data from memory card.
 
-With the power disconnected, remove the memory card, and attach to your PC/laptop.  Follow the [instructions]( for harvesting data onto your PC/laptop.
+With the power disconnected, remove the memory card, and attach to
+your PC/laptop.  Follow the [instructions]( for harvesting data onto
+your PC/laptop.
 
 ### Listen and analyse.
 

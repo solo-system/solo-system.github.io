@@ -16,7 +16,43 @@ log into it, and run a command that grabs the time from the internet
 and saves it to the clock module.  The time is then remembered by the
 clock module for several years until it's battery runs out again.
 
-## How to set the time:
+## Set the clock (NEW WAY as of June 14th 2016)
+
+If we connect the Solo to the internet and then leave it running for
+15 minutes, it will synchronise the clock module and the clock will be
+set.  The Solo will then know the correct time and date for a couple
+of years.  This process needs to be repeaated only when the coin-cell
+battery on the clock module has run out.
+
+The steps are:
+
+* Locate a [USB to
+  ethernet](https://www.amazon.co.uk/s/ref=nb_sb_noss?field-keywords=USB+ethernet)
+  adapter and an [ethernet network
+  cable](https://www.amazon.co.uk/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=ethernet+patch+cable&rh=i%3Aaps%2Ck%3Aethernet+patch+cable)
+
+* plug the ethernet cable into a network socket (if you are in an
+  office), or directly into your broadband router (if you are at
+  home).  The network will need to have a DHCP server running - home
+  networks always have this, office ones may not
+
+* connect the ethernet cable to the adapter, and plug the adapter into
+  the Solo's USB slot.  Place a freshly flashed memory card into the
+  Solo, and turn it on.  The Solo will boot and join the network.
+
+* after 15 minutes the Solo will automatically consult the internet
+  for the time and date, and set the clock module.
+
+* after 15 minutes the clock wil be set, and the Solo can be powered
+  off.  The Solo now has the correct date and time and is ready for
+  it's first proper run as a recorder.
+
+* note: this process is independent of the timezone - so don't worry about
+  setting that in boo/solo/solo.conf
+
+
+
+## OLD WAY: How to set the time: (don't use this any more!!!).
 
 * Locate a [USB to ethernet](https://www.amazon.co.uk/s/ref=nb_sb_noss?field-keywords=USB+ethernet) adapter.  And an [ethernet network cable](https://www.amazon.co.uk/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=ethernet+patch+cable&rh=i%3Aaps%2Ck%3Aethernet+patch+cable).
 
