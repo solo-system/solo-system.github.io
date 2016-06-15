@@ -27,9 +27,11 @@ onto the memory card before being inserted in the Solo. See the
 All the code behind the Solo project is licensed and developed openly.
 If you would like to contribute, have a look at <a
 href="http://www.github.com/solo-system">the github site</a>, where
-you will find three repositories: `solo` sets up the Raspberry Pi to
+you will find three repositories:
+[`solo`](http://www.github.com/solo-system/solo-system.github.io)`
+solo` sets up the Raspberry Pi to
 host the audio recorder software which is held in the repository
-`amon`.  The documentation for this very website is in the third
+[`amon`](http://www.github.com/solo-system/solo-system.github.io).  The documentation for this very website is in the third
 repository called
 [`solo-system.github.io`](http://www.github.com/solo-system/solo-system.github.io)
 
