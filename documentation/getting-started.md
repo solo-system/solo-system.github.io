@@ -67,8 +67,8 @@ end - don't disturb the more delicate connector on the Raspberry Pi).
 
 ### Recover data from memory card
 
-With the power disconnected, remove the memory card, and attach to
-your PC/laptop.  Follow the [instructions]( for harvesting data onto
+With the power disconnected, remove the memory card, and insert into the memory card reader of your PC/laptop.
+Follow the [instructions](/documentation/harvesting.html) for harvesting data onto
 your PC/laptop.
 
 ### Listen and analyse.
