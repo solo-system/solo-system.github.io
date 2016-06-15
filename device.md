@@ -9,6 +9,7 @@ isfront: true
 ## Device
 
 [![what is this](/img/solo-boxed.jpg "inside a solo" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; float: right"}](/img/solo-boxed.jpg)
+[![what is this](/img/solo-naked-powerbank-8x6.jpg "inside a solo" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; float: right"}](/img/solo-naked-powerbank-8x6.jpg)
 
 Every Solo is built from roughly the same components: a mini computer and
 microphone, with data being stored on a memory card. It is protected
@@ -26,7 +27,6 @@ It will record continuously for 5.5 days using the USB powerbank which
 fits inside the enclosure, and produce mono, 16kHz, 16 bit audio files,
 each 10 minutes long, each labelled with the date and time it was recorded.
 
-[![what is this](/img/solo-naked-powerbank-8x6.jpg "inside a solo" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; float: right"}](/img/solo-naked-powerbank-8x6.jpg)
 
 The Solo:basic is easy to assemble - head to the
 [Getting&nbsp;Started](/documentation/getting-started.html) guide, or
