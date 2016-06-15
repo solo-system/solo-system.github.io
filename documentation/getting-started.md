@@ -18,7 +18,7 @@ These are the components needed to build the Solo-basic:
 * [Primo microphone](http://www.primomic.com/products/pdf/EM172.pdf) buy: [Micbooster](http://micbooster.com/primo-microphone-capsules/65-clippy-em172-microphone.html#/matched_capsules-mono) (&#8776;£24.00)
 * [USB battery bank](https://www.amazon.co.uk/s/?keywords=ec+technology+powerbank) (&#8776;£19.00)
 * [Waterproof enclosure](http://dri-box.com) I suggest version [200](http://dri-box.com/size-option/size-200) (&#8776;£8.99)
-* [Little Box](https://www.westonboxes.com/collections/business-card-boxes-1/products/deep-business-card-box) (&#8776;£0.89p)
+* [Little box](https://www.westonboxes.com/collections/business-card-boxes-1/products/deep-business-card-box) (&#8776;£0.89p)
 
 You'll also need a USB-ethernet adapter to set the clock (this is
 rare, so borrow one if you can). Also access to a PC/laptop with a card-reader.
