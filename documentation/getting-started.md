@@ -35,7 +35,7 @@ See the accompanying [video](https://youtu.be/2Fq05JlEKjw?t=122).
 1. attach the microphone to the pink socket on the Cirrus Logic Audio Card
 1. attach the power cord to the Raspberry Pi (do NOT attach a power supply yet)
 1. protect in the little box
-1. lay the small enclosure into the DriBox waterproof enclosure
+1. lay the little box into the DriBox waterproof enclosure
 
 
 ### Prepare (flash) a memory card
