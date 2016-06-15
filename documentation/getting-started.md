@@ -74,7 +74,7 @@ onto your PC/laptop.
 
 ### Listen and analyse
 
-Play the audio files by double clicking on them.  Analyse them with a sound editor - try [Audacity](http://www.audacityteam.org)
+Play the audio files by double clicking on them.  Analyse them with a sound editor - try [Audacity](http://www.audacityteam.org).
 
 ### Done
 
