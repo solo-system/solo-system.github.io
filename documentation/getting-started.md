@@ -72,7 +72,7 @@ the memory card reader of your PC/laptop.  Follow the
 [instructions](/documentation/harvesting.html) for copying data
 onto your PC/laptop.
 
-### Listen and analyse.
+### Listen and analyse
 
 Play the audio files by double clicking on them.  Analyse them with a sound editor - try [Audacity](http://www.audacityteam.org)
 
