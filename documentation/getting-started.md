@@ -69,7 +69,7 @@ end - don't disturb the more delicate connector on the Raspberry Pi).
 
 With the power disconnected, remove the memory card, and insert into
 the memory card reader of your PC/laptop.  Follow the
-[instructions](/documentation/harvesting.html) for harvesting data
+[instructions](/documentation/harvesting.html) for copying data
 onto your PC/laptop.
 
 ### Listen and analyse.
