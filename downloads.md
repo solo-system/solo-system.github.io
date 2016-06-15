@@ -8,7 +8,7 @@ isfront: true
 
 ## Downloads
 
-The SOSI (Solo operating system image) is needed to run every Solo.
+The SOSI (Solo Operating System Image) is needed to run every Solo.
 It must be [transferred (flashed)](/documentation/flashing.html)
 onto the memory card before being inserted in the Solo. See the
 [Getting&nbsp;Started](/documentation/getting-started.html) guide.
