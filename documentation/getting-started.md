@@ -53,7 +53,7 @@ and left to run for 15 minutes. This step can be skipped, but your
 audio files will be wrongly time-stamped until the clock is properly
 set.
 
-### Turn it on
+### Do a test run
 
 Attach the power cable to the (charged) USB battery bank, and watch
 the Solo boot.  Notice the green light stabilise (after about 50
