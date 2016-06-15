@@ -24,7 +24,7 @@ Additionally, it was important that the device was:
 * modular: broken units can be repaired and maintained
 * modifiable, tailorable, extensible - you can make changes to hardware and software to suit your needs
 
-Although the Solo has been in use for a few years, it remans under
+Although the Solo has been in use for a few years, it remains under
 active development to keep up with new hardware and software.
 
 ### Feedback, questions, help and contributing
