@@ -8,6 +8,8 @@ isfront: true
 
 ## Device
 
+[![what is this](/img/solo-boxed.jpg "inside a solo" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; float: right"}](/img/solo-boxed.jpg)
+
 Every Solo is built from roughly the same components: a mini computer and
 microphone, with data being stored on a memory card. It is protected
 by a weatherproof enclosure, and powered by a battery.
@@ -15,7 +17,6 @@ by a weatherproof enclosure, and powered by a battery.
 However, there is a lot of flexibility with the individual components
 of the Solo, so it can be tailored to your particular needs.
 
-[![what is this](/img/solo-boxed.jpg "inside a solo" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; float: right"}](/img/solo-boxed.jpg)
 
 ### Solo:basic
 
