@@ -19,11 +19,10 @@ stored on a removable memory card.
 [![what is this](/img/20160529_135006.jpg "boxed solo" ){:.some-css-class style="height: 250px; width:50% float: left;"}](/img/20160529_135006.jpg)
 [![what is this](/img/20160529_135939.jpg "inside a solo" ){:.some-css-class style="height:250px; width:50%; float: right"}](/img/20160529_135939.jpg)
 
-The Solo is straightforward to assemble, and inexpensive
-compared to comparable commercial systems. A basic Solo costs around
-£120, including a battery, memory card and a really good
-microphone.  But there's a lot of flexibility with components if you
-are picky.
+The Solo is straightforward to assemble, and inexpensive compared to
+comparable commercial systems. A Solo:basic costs around £120,
+including a battery, memory card and a really good microphone.  But
+there's a lot of flexibility with components if you are picky.
 
 A typical deployment would be powered by a USB battery bank which
 would run the system for five days of permanent recording, 24 hours
