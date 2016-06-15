@@ -25,8 +25,8 @@ It will record continuously for 5.5 days using the USB powerbank which
 fits inside the enclosure, and produce mono, 16kHz, 16 bit audio files,
 each 10 minutes long, each labelled with the date and time it was recorded.
 
-A detailed parts list is in the [Getting&nbsp;Started](/documentation/getting-started.html)
-guide but here's a quick summary:
+A detailed parts list is in the
+[Getting&nbsp;Started](/documentation/getting-started.html).
 
 [![what is this](/img/solo-naked-powerbank-8x6.jpg "inside a solo" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; float: right"}](/img/solo-naked-powerbank-8x6.jpg)
 
