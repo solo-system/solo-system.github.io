@@ -20,8 +20,9 @@ These are the components needed to build the Solo-basic:
 * [Waterproof enclosure](http://dri-box.com) I suggest version [200](http://dri-box.com/size-option/size-200) (&#8776;£8.99)
 * [Little box](https://www.westonboxes.com/collections/business-card-boxes-1/products/deep-business-card-box) (&#8776;£0.89)
 
-You'll also need a USB-ethernet adapter to set the clock (this is
-rare, so borrow one if you can). Also access to a PC/laptop with a card-reader.
+You'll also need a USB-ethernet adapter to set the clock (only needed
+rarely, so borrow one if you can). Also access to a PC/laptop with a
+card-reader.
 
 ### Assemble
 
