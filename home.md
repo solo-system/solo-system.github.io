@@ -24,9 +24,10 @@ comparable commercial systems. A basic Solo costs around £120,
 including a battery, memory card and a really good microphone.  But
 there's a lot of flexibility with components if you are picky.
 
-A typical deployment (the Solo:basic) would be powered by a USB battery bank which
-would run the system for five days of permanent recording, 24 hours
-per day.  A 12kg car battery recently powered a Solo for over 40 days.
+A typical deployment (the Solo:basic) would be powered by a USB
+battery bank which would run the system for five days of permanent
+recording, 24 hours per day.  A 12kg car battery recently powered a
+Solo for over 40 days.
 
 Recordings are split into manageable 10-minute long files which are
 stored on the memory card, grouped into an intuitive folder-per-day
