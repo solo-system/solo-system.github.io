@@ -47,11 +47,11 @@ Raspberry Pi socket.
 
 ### Set the clock
 
-Follow the [instructions to set the clock](/documentation/clock.html)
-. It should be connected to a network and left to run for 15
-minutes. This step can be skipped for the moment if you like, but your
-audio files will be wrongly time-stamped until the clock is properly
-set.
+Follow the [instructions to set the
+clock](/documentation/clock.html). It should be connected to a network
+and left to run for 15 minutes. This step can be skipped for the
+moment if you like, but your audio files will be wrongly time-stamped
+until the clock is properly set.
 
 ### Turn it on
 
