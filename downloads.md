@@ -20,8 +20,6 @@ onto the memory card before being inserted in the Solo. See the
 
 &nbsp;
 
-<hr>
-
 ## Code
 
 All the code behind the Solo project is licensed and developed openly.
