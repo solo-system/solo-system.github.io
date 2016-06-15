@@ -9,8 +9,7 @@ isfront: true
 # Documentation
 
 There is a 10 minute introductory
-[video](https://youtu.be/2Fq05JlEKjw) including an assembly
-guide, which accompanies the [Getting
+[video](https://youtu.be/2Fq05JlEKjw), which accompanies the [Getting
 Started](/documentation/getting-started.html) guide.
 
 #### Documentation tree
