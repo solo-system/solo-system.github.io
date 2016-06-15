@@ -15,7 +15,7 @@ onto the memory card before being inserted in the Solo. See the
 
 
 <form action="http://www.solo-system.org/sosi">
-    <input type="submit" value="Go to SOSI Download Site">
+    <input type="submit" value="Go to SOSI download site">
 </form>
 
 &nbsp;
