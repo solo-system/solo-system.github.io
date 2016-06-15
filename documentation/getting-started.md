@@ -57,7 +57,7 @@ set.
 
 Attach the power cable to the (charged) USB battery bank, and watch
 the Solo boot.  Notice the green light stabilise (after about 50
-seconds) to a "heart-beat" double-flash pattern.
+seconds) to a "heartbeat" double-flash pattern.
 
 ### Allow it to record audio.
 
