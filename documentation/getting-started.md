@@ -26,7 +26,7 @@ card reader.
 
 ### Assemble
 
-See the accompanying [video](https://youtu.be/2Fq05JlEKjw?t=122)
+See the accompanying [video](https://youtu.be/2Fq05JlEKjw?t=122).
 
 1. gather all the components needed
 1. place the tiny battery into the clock module (positive side up)
