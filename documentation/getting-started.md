@@ -13,7 +13,7 @@ These are the components needed to build the Solo-basic:
 * [Raspberry Pi model A+](https://www.raspberrypi.org/products/model-a-plus/) (&#8776;£15.00)
 * [Cirrus Logic Audio Card](https://uk.farnell.com/wolfson-microelectronics/cirrus-logic-audio-card/cirrus-logic-audio-card-for-raspberry/dp/2448312) (&#8776;£25.44)
 * [PiFace Clock](http://www.piface.org.uk/products/piface_clock/) buy: [Farnell](http://uk.farnell.com/piface/shim-rtc/real-time-clock-shim-for-raspberry/dp/2434226) (&#8776;£8.95)
-* [Watch Battery (CR1220)](https://www.google.co.uk/search?q=CR1220) Generic part, widely available. buy: [Farnell](http://uk.farnell.com/multicomp/cr1220/coin-cell-lithium-3v-38mah-cr1220/dp/2065165) (&#8776;£0.70)
+* [Watch battery (CR1220)](https://www.google.co.uk/search?q=CR1220) Generic part, widely available. buy: [Farnell](http://uk.farnell.com/multicomp/cr1220/coin-cell-lithium-3v-38mah-cr1220/dp/2065165) (&#8776;£0.70)
 * Memory Card - any microSD format card.  More [here](/documentation/memory_cards/) (&#8776;£20.00 for 64GB)
 * [Primo Microphone](http://www.primomic.com/products/pdf/EM172.pdf) buy: [Micbooster](http://micbooster.com/primo-microphone-capsules/65-clippy-em172-microphone.html#/matched_capsules-mono) (&#8776;£24.00)
 * [USB battery bank](https://www.amazon.co.uk/s/?keywords=ec+technology+powerbank) (&#8776;£19.00)
