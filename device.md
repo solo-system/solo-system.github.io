@@ -19,7 +19,7 @@ of the Solo, so it can be tailored to your particular needs.
 
 ## Solo:basic
 
-The `Solo:basic` is a standardised system that fulfills most needs.
+The Solo:basic is a standardised system that fulfills most needs.
 
 It will record continuously for 5.5 days using the USB powerbank which
 fits inside the enclosure, and produce mono, 16kHz, 16 bit audio files,
