@@ -55,14 +55,14 @@ set.
 
 ### Do a test recording
 
-To turn it on: Attach the power cable to the (charged) USB battery
+To turn it on: attach the power cable to the (charged) USB battery
 bank, and watch the Solo boot.  Notice the green light stabilise
 (after about 50 seconds) to a "heartbeat" double-flash pattern.
 
 Then allow it to record audio.  Sing, shout, hammer.  Leave it for at
 least ten minutes to fill up one complete audio recording file.
 
-Then Turn it off: Pull the power cord from the battery (at the battery
+Then turn it off: aull the power cord from the battery (at the battery
 end - don't disturb the more delicate connector on the Raspberry Pi).
 
 ### Recover data from memory card.
