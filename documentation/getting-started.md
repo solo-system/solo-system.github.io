@@ -40,7 +40,7 @@ See the accompanying [video](https://youtu.be/2Fq05JlEKjw?t=122)
 ### Prepare (flash) a memory card
 
 Insert the memory card into the card reader of your PC, and follow the
-[instructions]() to flash the SOSI (Solo operating system image) onto
+[instructions](/documentation/flashing.html) to flash the SOSI (Solo operating system image) onto
 the card.  Once flashed, insert the memory card into the Solo's
 raspberry pi SD card socket.
 
