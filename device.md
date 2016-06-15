@@ -32,4 +32,4 @@ A detailed parts list is in the
 
 The Solo:basic is easy to assemble - head to the
 [Getting&nbsp;Started](/documentation/getting-started.html) guide, or
-have a look at the [assembly video](https://youtu.be/2Fq05JlEKjw?t=122)
+have a look at the [assembly video](https://youtu.be/2Fq05JlEKjw?t=122).
