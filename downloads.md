@@ -28,10 +28,11 @@ All the code behind the Solo project is licensed and developed openly.
 If you would like to contribute, have a look at <a
 href="http://www.github.com/solo-system">the github site</a>, where
 you will find three repositories:
-[`solo`](http://www.github.com/solo-system/solo) sets up the Raspberry Pi to
-host the audio recorder software which is held in the repository
-[`amon`](http://www.github.com/solo-system/solo-system.github.io).  The documentation for this very website is in the third
-repository called
+[`solo`](http://www.github.com/solo-system/solo) sets up the Raspberry
+Pi to host the audio recorder software
+[`amon`](http://www.github.com/solo-system/solo-system.github.io).
+The documentation for this very website is in the third repository
+called
 [`solo-system.github.io`](http://www.github.com/solo-system/solo-system.github.io)
 
 
