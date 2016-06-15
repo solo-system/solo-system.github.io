@@ -8,7 +8,7 @@ permalink: documentation/getting-started.html
 
 ### Purchase components
 
-These are the components needed to build the Solo-basic:
+These are the components needed to build the Solo:basic:
 
 * [Raspberry Pi model A+](https://www.raspberrypi.org/products/model-a-plus/) (&#8776;£15.00)
 * [Cirrus Logic Audio Card](https://uk.farnell.com/wolfson-microelectronics/cirrus-logic-audio-card/cirrus-logic-audio-card-for-raspberry/dp/2448312) (&#8776;£25.44)
