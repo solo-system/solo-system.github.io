@@ -6,7 +6,7 @@ weight: 4
 isfront: true
 ---
 
-## Software
+## Downloads
 
 The SOSI (Solo operating system image) is needed to run every Solo.
 It must be [transferred (flashed)](/documentation/flashing.html)
