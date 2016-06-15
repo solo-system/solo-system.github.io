@@ -8,7 +8,7 @@ isfront: true
 
 # Home
 
-There is an introductory [video](https://youtu.be/2Fq05JlEKjw)
+There is an introductory [video](https://youtu.be/2Fq05JlEKjw).
 
 The Solo is an autonomous, high definition audio recorder for
 unattended environmental monitoring. Protected in a weatherproof
