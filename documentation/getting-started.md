@@ -43,7 +43,7 @@ See the accompanying [video](https://youtu.be/2Fq05JlEKjw?t=122).
 Insert the memory card into the card reader of your PC, and follow the
 [instructions](/documentation/flashing.html) to flash the SOSI (Solo Operating System Image) onto
 the card.  Once flashed, insert the memory card into the Solo's
-Raspberry Pi SD card socket.
+Raspberry Pi socket.
 
 ### Set the clock
 
