@@ -13,7 +13,7 @@ There is a 10 minute introductory
 guide, which accompanies the [Getting
 Started](/documentation/getting-started.html) guide.
 
-#### Documentation Tree
+#### Documentation tree
 
 * [power](power/) - information about batteries and power consumption
 * [microphones](microphones.html) - plug sizes, stereo/mono, gain/volume
