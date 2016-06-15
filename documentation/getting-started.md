@@ -31,7 +31,7 @@ See the accompanying [video](https://youtu.be/2Fq05JlEKjw?t=122).
 1. gather all the components
 1. place the tiny battery into the clock module (positive side up)
 1. mount the clock module on the Raspberry Pi [(product video)](https://www.youtube.com/watch?v=mBUGtiDrHKc)
-1. mount the Cirrus Logic Audio Card on the Raspberry Pi and attach fixing screws
+1. mount the Cirrus Logic Audio Card on the Raspberry Pi and attach the fixing screws
 1. attach the microphone to the pink socket on the Cirrus Logic Audio Card
 1. attach the power cord to the Raspberry Pi (do NOT attach a power supply yet)
 1. protect in the small enclosure
