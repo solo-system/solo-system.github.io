@@ -6,7 +6,7 @@ weight: 2
 isfront: true
 ---
 
-# Device
+## Device
 
 Every Solo is built from roughly the same components: a mini computer and
 microphone, with data being stored on a memory card. It is protected
@@ -17,7 +17,7 @@ of the Solo, so it can be tailored to your particular needs.
 
 [![what is this](/img/solo-boxed.jpg "inside a solo" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; float: right"}](/img/solo-boxed.jpg)
 
-## Solo:basic
+### Solo:basic
 
 The Solo:basic is a standardised system that fulfills most needs.
 
