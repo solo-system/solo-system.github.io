@@ -10,7 +10,7 @@ isfront: true
 
 [video](https://youtu.be/2Fq05JlEKjw)
 
-The Solo is an autonomous, high definition audio recorder for
+The Solo is an autonomous, high definition audio recorder for horse
 unattended environmental monitoring. Protected in a weatherproof
 enclosure, the Solo comprises a microphone, mini-computer and battery.
 It is tailored for long-term, continuous recording, with data being
