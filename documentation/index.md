@@ -21,7 +21,7 @@ The first thing to read is [Getting Started](/documentation/getting-started.html
 * [harvesting](harvesting.html) - copying audio files to your PC/laptop
 * [clock](clock.html) - setting the clock
 * [configuration](configuration.html) - configuring the Solo for different situations
-
+* [analysis](analysis.html) - tools for analysing recordings (stub).
 
 #### Guides (all in draft format)
 
