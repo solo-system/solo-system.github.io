@@ -15,14 +15,14 @@ servicing is difficult and costly.
 
 Additionally, it was important that the device was:
 
-* inexpensive - so we don't care if it's dropped, stolen or trampled.
-* servicable in-situ - assume no access to customer service / returns.
-* availabe - components are available as widely as possible.
-* no configuration at point of installation (settings can be changed in the lab/office, and don't need to be set in the field).
+* inexpensive - so we don't care if it's dropped, stolen or trampled
+* servicable in-situ - assume no access to customer service / returns
+* availabe - components are available as widely as possible
+* no configuration at point of installation (settings can be changed in the lab/office, and don't need to be set in the field)
 * versatile (any microphone, any battery etc...)
 * affordable to projects, people and organisations of all sizes in all countries
-* modular: broken units can be repaired and maintained.
-* modifiable, tailorable, extensible - you can make changes to hardware and software to suit your needs.
+* modular: broken units can be repaired and maintained
+* modifiable, tailorable, extensible - you can make changes to hardware and software to suit your needs
 
 Although the Solo has been in use for a few years, it remans under
 active development to keep up with new hardware and software.
