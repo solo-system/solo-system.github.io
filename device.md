@@ -17,9 +17,9 @@ of the Solo, so it can be tailored to your particular needs.
 
 [![what is this](/img/solo-boxed.jpg "inside a solo" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; float: right"}](/img/solo-boxed.jpg)
 
-## Solo:Basic
+## Solo:basic
 
-The `Solo:Basic` is a standardised system that fulfills most needs.
+The `Solo:basic` is a standardised system that fulfills most needs.
 
 It will record continuously for 5.5 days using the USB powerbank which
 fits inside the enclosure, and produce mono, 16kHz, 16 bit audio files,
@@ -38,6 +38,6 @@ guide but here's a quick summary:
 * Microphone (Primo EM172)
 * Waterproof enclosure
 
-The Solo basic is easy to assemble - head to the
+The Solo:basic is easy to assemble - head to the
 [Getting&nbsp;Started](/documentation/getting-started.html) guide, or
 have a look at the [assembly video](https://youtu.be/2Fq05JlEKjw?t=122)
