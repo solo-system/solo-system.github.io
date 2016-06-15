@@ -30,7 +30,7 @@ would run the system for five days of permanent recording, 24 hours
 per day.  A 12kg car battery recently powered a Solo for over 40 days.
 
 Recordings are split into manageable 10-minute long files which are
-stored on the memory card - grouped into an intuitive folder-per-day
+stored on the memory card, grouped into an intuitive folder-per-day
 layout.  The recordings are in the .wav format which is compatible
 with almost all audio software.
 
