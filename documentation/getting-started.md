@@ -10,7 +10,7 @@ permalink: documentation/getting-started.html
 
 These are the components needed to build the Solo-basic:
 
-* [Raspberry Pi model A+](https://www.raspberrypi.org/products/model-a-plus/) (&#8776; £15.00)
+* [Raspberry Pi model A+](https://www.raspberrypi.org/products/model-a-plus/) (&#8776; £15.00 sothere)
 * [Cirrus Logic Audio Card](https://uk.farnell.com/wolfson-microelectronics/cirrus-logic-audio-card/cirrus-logic-audio-card-for-raspberry/dp/2448312) (£25.44)
 * [PiFace Clock](http://www.piface.org.uk/products/piface_clock/) buy: [farnell/UK](http://uk.farnell.com/piface/shim-rtc/real-time-clock-shim-for-raspberry/dp/2434226) (£8.95p)
 * [Watch Battery (CR1220)](https://www.google.co.uk/search?q=CR1220) Generic part, widely available. buy: [farnell/UK](http://uk.farnell.com/multicomp/cr1220/coin-cell-lithium-3v-38mah-cr1220/dp/2065165) (£0.70p)
