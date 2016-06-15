@@ -39,6 +39,5 @@ run the Solo, and just as easy to harvest the audio data onto your
 desktop/laptop using a card reader.  All software is free to download
 and licensed openly.
 
-
 Have a quick look through the tabs on this website, then jump to
 the [Getting Started](documentation/getting-started.html) guide.
