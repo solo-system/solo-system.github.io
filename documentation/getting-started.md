@@ -22,7 +22,7 @@ These are the components needed to build the Solo-basic:
 
 You'll also need a USB-ethernet adapter to set the clock (only needed
 rarely, so borrow one if you can) and access to a PC/laptop with a
-card-reader.
+card reader.
 
 ### Assemble
 
