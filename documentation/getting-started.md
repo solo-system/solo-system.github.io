@@ -65,7 +65,7 @@ least ten minutes to fill up one complete audio recording file.
 Then turn it off: aull the power cord from the battery (at the battery
 end - don't disturb the more delicate connector on the Raspberry Pi).
 
-### Recover data from memory card.
+### Recover data from memory card
 
 With the power disconnected, remove the memory card, and attach to
 your PC/laptop.  Follow the [instructions]( for harvesting data onto
