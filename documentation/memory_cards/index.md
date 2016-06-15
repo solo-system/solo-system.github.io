@@ -25,8 +25,8 @@ are indicated by the symbols shown.
 
 micro-SD cards come in sizes up to (currently 256Gb). This table shows
 their capacity in terms of how many hours (or days) they can store,
-for lots of different recording parameters.  The default setup is
-16000 Hz sample rate, mono.
+for lots of different recording parameters.  (Remember the default setup is
+16000 Hz sample rate, mono).
 
 <style type="text/css">
 	.tg  {border-collapse:collapse;border-spacing:0;border-color:#bbb;}
@@ -130,7 +130,7 @@ for lots of different recording parameters.  The default setup is
 	</tr>
 </table>
 
-## 
+
 
 ## Arithmetic details:
 
