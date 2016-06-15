@@ -8,8 +8,7 @@ isfront: true
 
 # Documentation
 
-There is a 10 minute introductory [video](https://youtu.be/2Fq05JlEKjw) which includes an assembly guide.<br>
-The first thing to read is [Getting Started](/documentation/getting-started.html).
+There is a 10 minute introductory [video](https://youtu.be/2Fq05JlEKjw) which includes an assembly guide, which accompanies the [Getting Started](/documentation/getting-started.html).
 
 #### Documentation Tree
 
