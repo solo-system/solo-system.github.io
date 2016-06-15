@@ -62,7 +62,7 @@ bank, and watch the Solo boot.  Notice the green light stabilise
 Then allow it to record audio.  Sing, shout, hammer.  Leave it for at
 least ten minutes to fill up one complete audio recording file.
 
-Then turn it off: aull the power cord from the battery (at the battery
+Then turn it off: pull the power cord from the battery (at the battery
 end - don't disturb the more delicate connector on the Raspberry Pi).
 
 ### Recover data from memory card
