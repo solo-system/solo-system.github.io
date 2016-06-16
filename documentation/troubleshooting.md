@@ -5,12 +5,6 @@ title:  "Trouble-shooting"
   
 # Best practices and troubleshooting
 
-You won't have any trouble.
-
-
-Troubleshooting
-===============
-
 General points / best practices
 -------------------------------
 
