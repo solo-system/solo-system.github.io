@@ -21,7 +21,7 @@ Once a memory card is flashed with the SOSI (solo operating system
 image), it can be re-inserted into your PC/laptop, and your computer
 will mount a /boot partition onto your desktop.  Look in this folder
 and you'll find a directory called "solo", and in there, two files -
-`solo.conf` and `amon.conf`.  Their full path is `boot/solo/amon.conf`
+`solo.conf` and `amon.conf`.  Their full path is `boot/solo/solo.conf`
 and `boot/solo/amon.conf`.  These are the configuration files for
 solo, and you will edit them by hand on your PC, save them, close your
 editor, and then carefully eject the "boot" partition.
