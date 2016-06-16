@@ -14,16 +14,6 @@ Sample-rate, bit-depth and number-of-channels are stored in the header
 of the .wav file, as usual.
 
 
-
-Can it record in stereo / mono.
--------------------------------
-
-Currently does mono because all the microphones I've used are
-mono. Stereo will be possible under some circumstances (stereo
-microphone, but not multiple microphone).  Ask me if you want to know
-more.
-
-
 What size memory card should I use?
 -----------------------------------
 
