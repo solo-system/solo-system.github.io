@@ -53,7 +53,7 @@ If you don't know what you are doing - use a USB battery bank.  They
 are easy to connect, easy to charge, light to carry, safe and cheap.
 We have used the EC technology 22400mAh powerbank very widely (in
 2015) with great success.  It's on the components list of the [getting
-started](/documentation/getting-started.html) guide.  The Solo:Basic
+started](/documentation/getting-started.html) guide.  The Solo:basic
 runs for 5.5 days on this battery bank.
 
 ####  Car Batteries (lead acid)
