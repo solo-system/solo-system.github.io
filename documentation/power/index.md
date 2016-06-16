@@ -33,7 +33,7 @@ large battery terminals reliably.
 
 The Solo:basic consumes 0.35W (71mA @ 5V) in normal operation.
 This is the number to assume when you try to calculate how long your
-battery will last.  However, at some points in it's operation
+battery will last.  However, at some points in its operation
 (notably, at startup), it needs much more, so when choosing a power
 supply, you should ensure it can supply about 700mA (about 3.5 Watts).
 
