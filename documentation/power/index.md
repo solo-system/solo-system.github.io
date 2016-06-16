@@ -160,7 +160,7 @@ power consumption of the Solo.  So ... nothing.  It's 0.35 Watts,
 regardless.
 
 
-### What about a calendar mode if I don't want 24/7 recording to save power
+### What about a calendar mode if I don't want 24/7 recording (to save power)?
 
 Good question.  There is currently no calendar mode, because the
 underlying Raspberry Pi miniPC doesn't use any less power if it stops
