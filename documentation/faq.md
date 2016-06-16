@@ -9,47 +9,6 @@ Introduction
 This is the FAQ for the Solo.  Questions, answers and some ranting.
 
 
-What types of battery can it take?
-==================================
-
-The raspberry pi computer, at the heart of the Solo, runs from "USB
-power", which is 5 Volts supplied over a micro-USB cable.  Current
-systems use USB power banks, but any system that can provide 5V over
-USB is probably fine as long as it can meet the power requirement...
-
-
-How much power does it use?
----------------------------
-
-Between 0.5-0.75 Watts.  100-150mA @ 5 volts.
-
-
-How long will it record for?
-----------------------------
-About 5 days permanently recording.
-
-Recording time is limited more by battery capacity than memory card
-capacity.  The capacity of the USB powerbank used in this measurement
-is 22.4Ah @ 3.7 volts ~= 82Wh.  Powering from other batteries will
-obviously affect recording time.  
-
-Note that there is no "low power mode", to save battery during times
-of day when recordings are not wanted.  
-
-
-What sizes of memory cards are supported 
-----------------------------------------
-
-Short answer: As long as it's a SD card, it should be fine.
-
-Slightly longer answer: Whatever is supported by the Raspberry-Pi.
-
-Even longer answer: SDHC/SDXC are both supported, with SDXC which
-supports up to 2TB (2048GB).  Currently (Mar 2015) cards of this size
-are not on the market - the biggest I can find is 256Gb, but the cheap
-sizes are around 64Gb.
-
-
 What format are the recorded audio files?
 -----------------------------------------
 Audio files are stored uncompressed in .wav format, which is very
