@@ -110,7 +110,7 @@ evidence is the best thing (try it out).
 
 The _theory_ says: work out the number of "watt-hours" in your battery
 by multiplying the battery's voltage (in Volts) by the capacity of the
-battery (in amp-hours).  Now, the Solo consumes those watt-hours at a
+battery (in amp-hours).  The Solo consumes those watt-hours at a
 rate of 0.355 Watts.  So divide the Watt-hours (energy in battery) by
 the 0.355 watts (speed solo uses that energy) to get the number of
 hours it will run for.
