@@ -93,7 +93,7 @@ from 12V->5V (but were far from perfect).  The hunt for the perfect
 DC-DC converter is on - suggestions welcome.
 
 I'll try to get some numbers published here about efficiencies of
-converters in practise.  
+converters in practice.  
 
 NOTE: the converters didn't have reverse-polarity protection, so if
 you connected the croc clips to the battery the wrong way around,
