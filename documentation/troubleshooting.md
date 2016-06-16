@@ -22,10 +22,6 @@ General points / best practices
   correct
 
 * Do not insert or remove the memory card while power is attached.
-  SD-card.
-
-* write protect slider on sd-cards should be covered in tape to hold
-  in place.
 
 * The flashing software and the harvesting software should be
   installed directly on your Windows PC - installations on network
