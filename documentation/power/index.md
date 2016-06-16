@@ -31,7 +31,7 @@ large battery terminals reliably.
 
 ### Solo power consumption
 
-The Solo:Basic consumes 0.35 Watts (71mA @ 5v) in normal operation.
+The Solo:basic consumes 0.35W (71mA @ 5V) in normal operation.
 This is the number to assume when you try to calculate how long your
 battery will last.  However, at some points in it's operation
 (notably, at startup), it needs much more, so when choosing a power
