@@ -6,13 +6,13 @@ title: FAQ
 Introduction
 ------------
 
-This is the FAQ for the Solo.  Questions, answers and some ranting.
+This is the FAQ for the Solo.  Please ask a question (at
+info@solo-system.org) and I'll answer it.
 
 -------
 
 Sample-rate, bit-depth and number-of-channels are stored in the header
 of the .wav file, as usual.
-
 
 
 What software does it run?
