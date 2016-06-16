@@ -178,7 +178,7 @@ is telling.
 ###  What about things like the Witty-Pi?
 
 I tried that - it causes interference with the ADC resulting in a buzz
-on the recordings.  This is probably due to it's proximity to the
+on the recordings.  This is probably due to its proximity to the
 Cirrus Logic Audio Card, but I haven't investigated further.
 
 
