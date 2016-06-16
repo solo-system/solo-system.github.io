@@ -121,7 +121,7 @@ battery is 12x41 = 492 Watt-hours.  So, it will last (492.0 / 0.355) =
 remainder was lost in things like voltge-conversion, resistance in
 cables, battery leaking charge over time etc...
 
-### Options for Solar charging.
+### Options for Solar charging
 
 Although I've never done it, you could increase the run-time of your
 system by trickle charging your lead-acid battery in-situ using a
@@ -182,7 +182,7 @@ on the recordings.  This is probably due to it's proximity to the
 Cirrus Logic Audio Card, but I haven't investigated further.
 
 
-### Power calculations:
+### Power calculations
 
 We will work in Watts and Watt-hours throughout.  The EC technology battery
 contains: 22,300mAh @ 3.7v = (through `power = voltage * current`) =
