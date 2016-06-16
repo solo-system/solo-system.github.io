@@ -21,7 +21,7 @@ General points / best practices
   connection. Ensure that the orientation of the connections is
   correct
 
-* Once the battery is connected to the minicomputer do not unplug it -
+* Once the battery is connected to the Raspberry Pi do not unplug it -
   wait until the system has fully booted before you turn it off
 
 * ensure the microphone is mounted horizontally to prevent water
