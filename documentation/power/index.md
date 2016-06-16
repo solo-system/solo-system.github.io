@@ -89,7 +89,7 @@ were wasteful and inefficient.  Instead, we ended up using the
 converters shown in the other images, which are intended for
 behind-the-dashboard use in vehicles, and are therefore robust and
 strong.  They gave much better efficiency in performing the conversion
-from 12v->5v (but were far from perfect).  The hunt for the perfect
+from 12V->5V (but were far from perfect).  The hunt for the perfect
 DC-DC converter is on - suggestions welcome.
 
 I'll try to get some numbers published here about efficiencies of
