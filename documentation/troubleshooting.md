@@ -5,9 +5,6 @@ title:  "Trouble-shooting"
   
 # Best practices and troubleshooting
 
-General points / best practices
--------------------------------
-
 * You will find it increasingly important to keep a careful note of
   the field position, date and times of establishing recording,
   particularly if you are using multiple Solos.
