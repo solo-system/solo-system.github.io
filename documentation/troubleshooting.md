@@ -13,8 +13,7 @@ General points / best practices
   particularly if you are using multiple Solos
 
 * Remember that the Solo software should be flashed onto each memory card
-  before each time that it is inserted into the Solo (not true, but
-  safest).
+  before each time that it is inserted into the Solo.
 
 * Try not to unplug the power cable to the minicomputer unless
   necessary since it is a fragile connection. Instead, unplug the
