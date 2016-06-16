@@ -70,7 +70,7 @@ battery.
 
 Note that it's probably bad to drain car batteries in the way that we
 did with these DC-DC converters, and we will have to see how well they
-recharge.  We probably ought to be buying deep cycle batteries.
+recharge.  We probably ought to be buying deep-cycle batteries.
 
 Here are some relevant photos
 
