@@ -16,9 +16,10 @@ software image), and your personalised configuration options (if you
 have any).  This process configures everything about the Solo's
 operation, so there is no configuration in the field whilst deploying.
 
-The Solo Software Image is based on a stock Raspbian Gnu/Linux
-operating system, modified in several ways to make it do what is
-needed of a Solo (detect the hardware clock and other boring things).
+The Solo Operating System Image (SOSI) is based on a stock Raspbian
+Gnu/Linux operating system, modified in several ways to make it do
+what is needed of a Solo (detect the hardware clock and other boring
+things).
 
 The audio recording is handled by custom software "amon", which runs
 every minute (as a cron job) to ensure recording is proceeding as
