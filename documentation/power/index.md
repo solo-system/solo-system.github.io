@@ -97,7 +97,7 @@ converters in practice.
 
 NOTE: the converters didn't have reverse-polarity protection, so if
 you connected the croc clips to the battery the wrong way around,
-you'd blow the DC-DC converter permanently. (Or if you got the cables
+you'd blow the DC-DC converter permanently (or if you got the cables
 muddled). 
 
 ### How long will it run on a certain battery?
