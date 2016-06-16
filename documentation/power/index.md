@@ -147,7 +147,7 @@ Here are some thoughts:
   expert (not me).
 
 - [Here's](https://www.youtube.com/watch?v=47CcB3EKpjw) a video about
-  how (not) to do it.  
+  how (not) to do it. 
 
 A good place to look for such things might be boat/yacht/RV/caravan
 shops.
