@@ -123,7 +123,7 @@ battery was 12x41 = 492 watt-hours.  So, it lasted (492.0 / 0.355) =
 remainder was lost in things like voltage conversion, resistance in
 cables, battery leaking charge over time etc...
 
-### Options for Solar charging
+### Options for solar charging
 
 Although I've never done it, you could increase the run-time of your
 system by trickle charging your lead-acid battery in-situ using a
