@@ -51,9 +51,6 @@ build your own.  I have build a few for colleagues and friends at no
 charge - but they were _very_ kind and asked politely.  I'd do it for
 a yacht, I suppose - but only a really nice yacht.
 
-If you are really interested I'll be as helpful as I can to get you
-going.
-
 
 How much does it cost?
 ----------------------
