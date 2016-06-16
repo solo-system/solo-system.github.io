@@ -16,7 +16,7 @@ volts at around 2 watts.  It connects via the well-known micro-USB
 connector - the same that is used to charge mobile phones and tablets.
 
 
-### Type of supply.
+### Type of supply
 
 The power can come from the mains, USB battery bank, solar, excercise
 bike, nuclear power station.  The solo doesn't care.  The supply
@@ -29,7 +29,7 @@ quite easy - the only tricky bit is getting cables to attach to the
 large battery terminals reliably.
 
 
-### Solo power consumption.
+### Solo power consumption
 
 The Solo:Basic consumes 0.35 Watts (71mA @ 5v) in normal operation.
 This is the number to assume when you try to calculate how long your
