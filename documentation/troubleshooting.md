@@ -10,10 +10,10 @@ General points / best practices
 
 * You will find it increasingly important to keep a careful note of
   the field position, date and times of establishing recording,
-  particularly if you are using multiple SOLOs
+  particularly if you are using multiple Solos
 
-* Remember that the SOLO software has to be flashed onto each SD card
-  before each time that it is inserted into the SOLO (not true, but
+* Remember that the Solo software has to be flashed onto each SD card
+  before each time that it is inserted into the Solo (not true, but
   safest).
 
 * Try not to unplug the power cable to the minicomputer unless
