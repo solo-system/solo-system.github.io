@@ -23,8 +23,3 @@ General points / best practices
 
 * Do not insert or remove the memory card while power is attached.
 
-* The flashing software and the harvesting software should be
-  installed directly on your Windows PC - installations on network
-  drives don’t appear to work.  [ I can’t confirm this, and don’t
-  understand why].
-
