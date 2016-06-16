@@ -21,9 +21,6 @@ General points / best practices
   connection. Ensure that the orientation of the connections is
   correct
 
-* ensure the microphone is mounted horizontally to prevent water
-  ingress.
-
 * best policy to detach the battery when inserting/removing the
   SD-card.
 
