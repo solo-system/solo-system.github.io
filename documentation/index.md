@@ -26,5 +26,5 @@ Started](/documentation/getting-started.html) guide.
 
 #### Guides
 
-* [FAQ](faq.html) - frequently asked questions (but it's a total mess)
+* [FAQ](faq.html) - frequently asked questions
 * [best practices and troubleshooting](troubleshooting.html) - lessons learned, experience, annoyances and problem solving
