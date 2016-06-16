@@ -15,7 +15,7 @@ General points / best practices
 * Remember that the Solo software should be flashed onto each memory card
   before each time that it is inserted into the Solo.
 
-* Try not to unplug the power cable to the minicomputer unless
+* Try not to unplug the power cable to the Raspberry Pi unless
   necessary since it is a fragile connection. Instead, unplug the
   power cable at the battery end, which is a larger and stronger
   connection. Ensure that the orientation of the connections is
