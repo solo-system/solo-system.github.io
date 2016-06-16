@@ -26,7 +26,8 @@ Started](/documentation/getting-started.html) guide.
 
 #### Guides (all in draft format)
 
+* [FAQ](faq.html) - frequently asked questions (but it's a total mess)
 * [best practices and troubleshooting](troubleshooting.html) - lessons learned, experience, annoyances and problem solving.
 * [field guide](field-guide.html) - guide to deploying outdoors
 * [desk guide](desk-guide.html)  - protocol for flashing and harvesting data
-* [FAQ](faq.html) - frequently asked questions (but it's a total mess)
+
