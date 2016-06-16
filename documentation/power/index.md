@@ -12,7 +12,7 @@ title:  "power matters"
 ### What flavour of electric does it need?
 
 Powering the Solo requires a standard USB powering cable supplying 5
-volts at around 2 Watts.  It connects via the well-known micro-USB
+Volts at around 2 Watts.  It connects via the well-known micro-USB
 connector - the same that is used to charge mobile phones and tablets.
 
 
