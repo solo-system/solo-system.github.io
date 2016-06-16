@@ -175,7 +175,7 @@ are quite cheap.  Nobody has deleted their "unwanted" data yet, which
 is telling.
 
 
-###  What about things like the Witty-Pi
+###  What about things like the Witty-Pi?
 
 I tried that - it causes interference with the ADC resulting in a buzz
 on the recordings.  This is probably due to it's proximity to the
