@@ -82,7 +82,7 @@ Here are some relevant photos
 #### DC-DC converters
 
 The simplest way to convert the 12V of a lead-acid battery down to the
-5v needed for the Solo is to use an in-car cigarette lighter
+5V needed for the Solo is to use an in-car cigarette lighter
 converter, and a cheap connecter with 2 crocodile clips (see first
 image above).  However during tests we found that the ones we tested
 were wasteful and inefficient.  Instead, we ended up using the
