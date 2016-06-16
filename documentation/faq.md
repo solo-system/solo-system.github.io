@@ -51,30 +51,6 @@ build your own.  The assembly video shows you how, as does the getting
 started guide.  
 
 
-How much does it cost?
-----------------------
-
-You can't do it for less than about 150 UK pounds (230 US dollars)
-including waterproof enclosure, 5.5 day battery and 64Gb memory card.
-The parts list is elsewhere in this FAQ.
-
-
-What components do I need?
---------------------------
-raspberry pi model A or A+
-real time clock.
-Microphone (any USB - good quality is "Blue Snowflake")
-reboot switch
-enclosure for Raspberry Pi.
-memory card
-Battery
-
-
-How does it know the time
--------------------------
-It's got a small clock (RTC) attached which keeps time even when Solo is disconnected from power.
-
-
 Which version of the Raspberry Pi should I use.
 -----------------------------------------------
 
