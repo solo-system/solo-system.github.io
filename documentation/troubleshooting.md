@@ -12,7 +12,7 @@ General points / best practices
   the field position, date and times of establishing recording,
   particularly if you are using multiple Solos
 
-* Remember that the Solo software has to be flashed onto each memory card
+* Remember that the Solo software should be flashed onto each memory card
   before each time that it is inserted into the Solo (not true, but
   safest).
 
