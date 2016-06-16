@@ -3,7 +3,7 @@ layout: page
 title: FAQ
 ---
 
-## FAQ
+## Frequently Asked Questions
 
 This is the FAQ for the Solo.  Please ask a question (at
 info@solo-system.org) and I'll answer it.
