@@ -77,11 +77,11 @@ Here are some relevant photos
 - [car battery and cigarette-lighter converter](https://solo-system.github.io/img/car-solo-cigar-8x6.jpg)
 - [DC-DC converter](https://solo-system.github.io/img/car-battery-dcdc-8x6.jpg)
 - [the converter we used in 2016](https://solo-system.github.io/img/dcdc-8x6.jpg)
-- [converter connected with WAGO connectors](https://solo-system.github.io/img/solo-car-dcdc-8x6.jpg)
+- [converter connected with Wago connectors](https://solo-system.github.io/img/solo-car-dcdc-8x6.jpg)
 
 #### DC-DC converters
 
-The simplest way to convert the 12v of a lead-acid battery down to the
+The simplest way to convert the 12V of a lead-acid battery down to the
 5v needed for the Solo is to use an in-car cigarette lighter
 converter, and a cheap connecter with 2 crocodile clips (see first
 image above).  However during tests we found that the ones we tested
