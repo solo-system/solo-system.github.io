@@ -3,7 +3,7 @@ layout: page
 title:  "Trouble-shooting"
 ---
   
-# DRAFT: Troubleshooting
+# Best practices and troubleshooting
 
 You won't have any trouble.
 
