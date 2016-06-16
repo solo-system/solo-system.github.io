@@ -74,7 +74,7 @@ recharge.  We probably ought to be buying deep-cycle batteries.
 
 Here are some relevant photos
 
-- [car battery and cigarette converter](https://solo-system.github.io/img/car-solo-cigar-8x6.jpg)
+- [car battery and cigarette-lighter converter](https://solo-system.github.io/img/car-solo-cigar-8x6.jpg)
 - [DC-DC converter](https://solo-system.github.io/img/car-battery-dcdc-8x6.jpg)
 - [the converter we used in 2016](https://solo-system.github.io/img/dcdc-8x6.jpg)
 - [converter connected with WAGO connectors](https://solo-system.github.io/img/solo-car-dcdc-8x6.jpg)
