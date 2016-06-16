@@ -27,6 +27,6 @@ video](https://youtu.be/2Fq05JlEKjw), which accompanies the
 
 #### Guides
 
-* [Getting Started](/documentation/getting-started.html) guide.
+* [getting Started](/documentation/getting-started.html) guide
 * [FAQ](faq.html) - frequently asked questions
 * [best practices and troubleshooting](troubleshooting.html) - lessons learned, experience, annoyances and problem solving
