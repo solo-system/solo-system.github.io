@@ -10,7 +10,6 @@ isfront: true
 
 There is a [ten minute introductory
 video](https://youtu.be/2Fq05JlEKjw), which accompanies the
-
 [Getting Started](/documentation/getting-started.html) guide.
 
 #### Documentation tree
