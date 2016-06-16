@@ -118,7 +118,7 @@ number of hours it will run for.
 Example: The car battery
 [we used](http://www.halfords.com/motoring/bulbs-blades-batteries/car-batteries/halfords-lead-acid-battery-hb063-3-yr-guarantee)
 output 12V and was rated at 41 amp-hours.  So the total energy in the
-battery is 12x41 = 492 watt-hours.  So, it will last (492.0 / 0.355) =
+battery was 12x41 = 492 watt-hours.  So, it lasted (492.0 / 0.355) =
 1385 hours, which is about 57 days.  But we got only 40, so the
 remainder was lost in things like voltge-conversion, resistance in
 cables, battery leaking charge over time etc...
