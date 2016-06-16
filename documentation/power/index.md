@@ -185,7 +185,7 @@ Cirrus Logic Audio Card, but I haven't investigated further.
 ### Power calculations
 
 We will work in Watts and watt-hours throughout.  The EC technology battery
-contains: 22,300mAh @ 3.7v = (through `power = voltage * current`) =
+contains: 22,300mAh @ 3.7V = (through `power = voltage * current`) =
 82.5 Wh (Watt-hours) of energy.
 
 {{ TODO - get photo of ectechnology battery and zoom in on it's info-panel }}
