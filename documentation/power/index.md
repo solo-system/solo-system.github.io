@@ -126,7 +126,7 @@ cables, battery leaking charge over time etc...
 ### Options for solar charging
 
 Although I've never done it, you could increase the run-time of your
-system by trickle charging your lead-acid battery in-situ using a
+system by trickle charging your lead-acid battery in situ using a
 solar panel.  Many auto/car shops sell "battery maintainers", which
 seem to produce a few watts, which might make a small difference.  Here are some thoughts:
 
