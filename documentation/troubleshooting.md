@@ -21,7 +21,7 @@ General points / best practices
   connection. Ensure that the orientation of the connections is
   correct
 
-* best policy to detach the battery when inserting/removing the
+* Do not insert or remove the memory card while power is attached.
   SD-card.
 
 * write protect slider on sd-cards should be covered in tape to hold
