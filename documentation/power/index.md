@@ -168,7 +168,7 @@ recording audio.  Disappointingly, it lacks a good low-power state to
 hibernate into.
 
 A calendar mode would save space on the memory card, however, allowing
-you to get away with smaller memory cards.  In deployments thus far,
+you to get away with a smaller memory card.  In deployments thus far,
 people have been more interested in collecting 24/7 data
 opportunistically and deleting what they didn't want.  Memory cards
 are quite cheap.  Nobody has deleted their "unwanted" data yet, which
