@@ -14,13 +14,6 @@ Sample-rate, bit-depth and number-of-channels are stored in the header
 of the .wav file, as usual.
 
 
-What sample rate is used for recordings.
-----------------------------------------
-
-This is configurable using the "amon.conf" file.  The Solo will record
-at any sample rate - limited by what the microphone/sound-card
-supports.
-
 Can it record to a schedule?
 ----------------------------
 
