@@ -24,7 +24,7 @@ Started](/documentation/getting-started.html) guide.
 * [configuration](configuration.html) - configuring the Solo for different situations
 * [analysis](analysis.html) - tools for analysing recordings (stub)
 
-#### Guides (all in draft format)
+#### Guides
 
 * [FAQ](faq.html) - frequently asked questions (but it's a total mess)
 * [best practices and troubleshooting](troubleshooting.html) - lessons learned, experience, annoyances and problem solving
