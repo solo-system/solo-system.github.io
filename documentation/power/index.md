@@ -139,7 +139,7 @@ Here are some thoughts:
   Be sure to not over charge the battery (use a charge controller) for
   larger solar panels.
 
-- ensure the 12-5v DC-DC converter can handle the over-voltage that
+- ensure the 12V-5V DC-DC converter can handle the over-voltage that
   the solar charger applies to the battery (all in-car/auto converters
   should handle this).
 
