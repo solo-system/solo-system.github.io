@@ -41,7 +41,7 @@ supply, you should ensure it can supply about 700mA (about 3.5W).
 ### Batteries
 
 The USB battery bank recommended for the Solo:basic costs £20 and
-lasts 5 days. However we've also this year (2016) used bog-standard
+lasts 5.5 days. However we've also this year (2016) used bog-standard
 car batteries which last about 40 days.  As long as you ensure the
 voltage is correct (5V) and take care with connectors, then there is a
 wide choice of how to power the Solo.
