@@ -8,21 +8,7 @@ Introduction
 
 This is the FAQ for the Solo.  Questions, answers and some ranting.
 
-
-What format are the recorded audio files?
------------------------------------------
-Audio files are stored uncompressed in .wav format, which is very
-widely understood by other software.  Files are segmented every 10
-minutes, and stored with a filename that indicates the time of the
-start of the recording.  Every day gets a different directory/folder.
-
-<pre>
-> ...
-> wav/2015-04-15/audio-solo-2015-04-15_20-50-04.wav
-> wav/2015-04-15/audio-solo-2015-04-15_21-00-04.wav
-> wav/2015-04-15/audio-solo-2015-04-15_21-10-04.wav
-> ...
-</pre>
+-------
 
 Sample-rate, bit-depth and number-of-channels are stored in the header
 of the .wav file, as usual.
