@@ -19,7 +19,7 @@ connector - the same that is used to charge mobile phones and tablets.
 ### Type of supply
 
 The power can come from the mains, USB battery bank, solar, excercise
-bike, nuclear power station.  The solo doesn't care.  The supply
+bike, nuclear power station.  The Solo doesn't care.  The supply
 should be _capable_ of providing a peak of 2A (@5V) but the Solo
 consumes much less than that when in normal operation.
 
