@@ -38,6 +38,6 @@ send improvements or submit patches.
 ### Can I buy one?
 
 Not from me, sorry.  All the software and design are open, so you can
-build your own.  The assembly video shows you how, as does the getting
-started guide.  
+build your own.  The assembly video shows you how, as does the [getting
+started](/documentation/getting-started.html) guide.  
 
