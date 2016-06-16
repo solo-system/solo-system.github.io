@@ -155,8 +155,9 @@ shops.
 
 ### What affects the power consumption of the Solo?
 
-The sample rate, mono/stereo and memory card size do NOT affect the power
-consumption of the Solo.  So ... nothing.  It's 0.35 Watts, regardless.
+The sample rate, mono/stereo and memory card size do NOT affect the
+power consumption of the Solo.  So ... nothing.  It's 0.35 Watts,
+regardless.
 
 
 ### What about a calendar mode if I don't want 24/7 recording to save power
