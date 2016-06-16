@@ -65,7 +65,7 @@ waterproof enclosure, so require independent waterproofing (such as a bin
 bag).  The difference between 5.5 days (with USB battery bank) and 40
 days has dramatically changed how we undertake the field studies.
 
-If you are't happy with 40 days, you could buy a bigger lead-acid
+If you aren't happy with 40 days, you could buy a bigger lead-acid
 battery.
 
 Note that it's probably bad to drain car batteries in the way that we
