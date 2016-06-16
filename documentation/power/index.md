@@ -174,10 +174,6 @@ opportunistically and deleting what they didn't want.  Memory cards
 are quite cheap.  Nobody has deleted their "unwanted" data yet, which
 is telling.
 
-That said, a calendar mode would not be hard to add to the software,
-and it's probably near the top of the list for new functionality.  Ask
-if you want it.  And tell me what your schedule would be, so I can get
-an idea of what people want.
 
 ###  What about things like the Witty-Pi
 
