@@ -14,38 +14,6 @@ Sample-rate, bit-depth and number-of-channels are stored in the header
 of the .wav file, as usual.
 
 
-What size memory card should I use?
------------------------------------
-
-Depends on your sample rate, and how long you want to record for.
-
-Here's a table of OPTIMISTIC values, ignoring the 2 notes below.
-Number of days recording you'll get at the given sample rate for
-various memory card sizes.
-
-|  SDcard  | 16kHz  |   44.1kHz |
-|-------| -----  |   ------- |
-|32Gb	|  14d   |   4.4d    |
-|64Gb	|  28d   |   8.4d    | 
-|128Gb	|  55d   |   17d     |
-|256Gb	|  110d	 |   34d     |
-
-NOTE-1: memory cards need to be flashed with the SSI (solo software
-image).  This uses between 1-2 GB of space on a memory card, reducing
-the amount left for audio recordings.  
-
-NOTE-2: manufacturers often quote in powers of 1000 rather than powers
-of 1024 (Giga-bytes versus Gibi-bytes).  This leads to a discrepancy
-too, and is why cards often seem to have less capacity than
-advertised.  Caveat emptor.
-
-Another way of looking at it is "how much data is collected per hour?"
-
-|sample-rate | calculation | daily disk requirement |
-|------------|-------------|------------------------|
-|  16kHz     |(x2x60x60x24)|     2.8Gb per day.     |
-| 44.1kHz    |(x2x60x60x24)|     7.6GB per day.     |
-
 
 What software does it run?
 --------------------------
