@@ -9,8 +9,9 @@ isfront: true
 # Documentation
 
 There is a [ten minute introductory
-video](https://youtu.be/2Fq05JlEKjw), which accompanies the [Getting
-Started](/documentation/getting-started.html) guide.
+video](https://youtu.be/2Fq05JlEKjw), which accompanies the
+
+[Getting Started](/documentation/getting-started.html) guide.
 
 #### Documentation tree
 
@@ -26,5 +27,6 @@ Started](/documentation/getting-started.html) guide.
 
 #### Guides
 
+* [Getting Started](/documentation/getting-started.html) guide.
 * [FAQ](faq.html) - frequently asked questions
 * [best practices and troubleshooting](troubleshooting.html) - lessons learned, experience, annoyances and problem solving
