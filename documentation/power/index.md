@@ -155,7 +155,7 @@ shops.
 
 ### What affects the power consumption of the Solo?
 
-Sample rate, mono/stereo, card-size do NOT affect the power
+The sample rate, mono/stereo, card-size do NOT affect the power
 consumption of the Solo.  So ... nothing.  It's 0.35 Watts, regardless.
 
 
