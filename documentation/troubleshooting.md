@@ -12,8 +12,9 @@ General points / best practices
   the field position, date and times of establishing recording,
   particularly if you are using multiple Solos.
 
-* Remember that the Solo software should be flashed onto each memory card
-  before each time that it is inserted into the Solo.
+* Remember that the Solo Operating System Image (SOSI) should be
+  flashed onto each memory card before each time that it is inserted
+  into the Solo.
 
 * Try not to unplug the power cable to the Raspberry Pi unless
   necessary since it is a fragile connection. Instead, unplug the
