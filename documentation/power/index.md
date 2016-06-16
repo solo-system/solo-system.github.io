@@ -153,7 +153,7 @@ A good place to look for such things might be boat/yacht/RV/caravan
 shops.
 
 
-### What affects the consumption of the Solo?
+### What affects the power consumption of the Solo?
 
 Sample rate, mono/stereo, card-size do NOT affect the power
 consumption of the Solo.  So ... nothing.  It's 0.35 Watts, regardless.
