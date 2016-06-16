@@ -163,7 +163,7 @@ regardless.
 ### What about a calendar mode if I don't want 24/7 recording (to save power)?
 
 Good question.  There is currently no calendar mode, because the
-underlying Raspberry Pi miniPC doesn't use any less power if it stops
+underlying Raspberry Pi doesn't use any less power if it stops
 recording audio.  Disappointingly, it lacks good low-power state to
 hibernate into.
 
