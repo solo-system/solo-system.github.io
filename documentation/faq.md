@@ -47,9 +47,9 @@ Can I buy one?
 --------------
 
 Not from me, sorry.  All the software and design are open, so you can
-build your own.  I have build a few for colleagues and friends at no
-charge - but they were _very_ kind and asked politely.  I'd do it for
-a yacht, I suppose - but only a really nice yacht.
+build your own.
+
+I'd do it for a spaceship - just a little one will do.
 
 
 How much does it cost?
