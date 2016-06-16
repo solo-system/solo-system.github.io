@@ -51,20 +51,4 @@ build your own.  The assembly video shows you how, as does the getting
 started guide.  
 
 
-Which version of the Raspberry Pi should I use.
------------------------------------------------
-
-The low-power ones - so model A (now quite old), model A+ (newer
-version with different form factor). Both of these devices has only
-one USB socket and _no_ ethernet connector - this gives a big drop in
-power consumption.
-
-You can use the "B" or "B+" too if you like, but they consume much
-more power so are not suited to battery operation.
-
-
-Glossary
---------
-Glossary - where things should be defined.
-
 <hr>
