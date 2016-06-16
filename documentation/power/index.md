@@ -164,7 +164,7 @@ regardless.
 
 Good question.  There is currently no calendar mode, because the
 underlying Raspberry Pi doesn't use any less power if it stops
-recording audio.  Disappointingly, it lacks good low-power state to
+recording audio.  Disappointingly, it lacks a good low-power state to
 hibernate into.
 
 A calendar mode would save space on the memory card, however, allowing
