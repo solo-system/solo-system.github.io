@@ -56,7 +56,7 @@ We have used the EC technology 22400mAh powerbank very widely (in
 started](/documentation/getting-started.html) guide.  The Solo:basic
 runs for 5.5 days on this battery bank.
 
-####  Car batteries (lead acid)
+#### Car batteries (lead-acid)
 
 In 2016 we have used 12kg vehicle batteries.  These have run the solo
 for 40 days on average. They require DC-DC converters, clamps to
