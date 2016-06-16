@@ -47,9 +47,8 @@ Can I buy one?
 --------------
 
 Not from me, sorry.  All the software and design are open, so you can
-build your own.
-
-I'd do it for a spaceship - just a little one will do.
+build your own.  The assembly video shows you how, as does the getting
+started guide.  
 
 
 How much does it cost?
