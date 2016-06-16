@@ -38,7 +38,8 @@ send improvements or submit patches.
 ### Can I buy one?
 
 Not from me, sorry.  All the software and design are open, so you can
-build your own.  The [introductory
-video](https://youtu.be/2Fq05JlEKjw) shows you how, as does the
+build your own.  The
+[introductory video](https://youtu.be/2Fq05JlEKjw)
+shows you how, as does the
 [getting started](/documentation/getting-started.html) guide.
 
