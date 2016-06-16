@@ -40,7 +40,7 @@ If you are familiar with Linux you are welcome to log in and fiddle
 the microphone).  It'll pick up an IP address from your DHCP server
 and appear on the network as hostname: solo.  I type "ssh solo -l
 amon".  Once you are in, head for the "amon" directory and look
-around.  All the code is open source, so if you have ideas, you can
+around.  All the code is on github, so if you have ideas, you can
 send improvements or submit patches.  
 
 Can I buy one?
