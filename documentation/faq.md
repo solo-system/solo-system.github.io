@@ -14,26 +14,6 @@ Sample-rate, bit-depth and number-of-channels are stored in the header
 of the .wav file, as usual.
 
 
-Can it record to a schedule?
-----------------------------
-
-[Meaning: on for certain parts of the day and off at others] Not at
-the moment - there is no point.  The Raspberry Pi does not have a good
-"sleep" mode, so consumes power even if we turned off recording.  If
-running out of space on the SD-card was an issue, this functionality
-would be useful.  It would not be hard to add.  
-
-HOLE: there are 2 reasons to do this - to save space, or to save
-battery.  Conserving battery needs a separate microcontroller to
-on/off the raspi.  Saving space needs the recording software (amon) to
-start/stop to a schedule.  Most likely we should do both.  Scenarios
-with plenty of electricity, shouldn't have any need to save space
-(just use external HDD).
-
-[ An external micro-controller could handle poweroff and poweron
-according to a schedule, and products are becoming more common that
-handle this sort of functionality, but I haven't looked into them.]
-
 
 Can it record in stereo / mono.
 -------------------------------
