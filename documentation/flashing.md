@@ -21,21 +21,21 @@ To prepare a card for use we must:
 
 The card is now ready to be inserted into the slot on the Solo.
 
-
 ### Download
 
 The latest version of the SOS (Solo operating system) is available
-free HERE (HOLE).  The download is around 500MB.
+free from [downloads](/downloads.html).  The download is
+around 500MB.
 
 Using your PC/laptop, save the file (named something like
-solo-2016-01-01.zip) onto your desktop.
+sosi-2016-01-01.zip) onto your desktop.
 
 ### Unzip
 
 The downloaded file now needs to be unzipped (uncompressed).  Locate
 the downloaded .zip file on your desktop and right-click.  Select
 "extract" or "unzip".  A file of around 1.2GB called
-"solo-2016-01-01.img" should now appear.
+"sosi-2016-01-01.img" should now appear.
 
 
 ### Attach Memory Card to PC
@@ -62,15 +62,16 @@ You will need [the latest SOSI](/downloads.html) and [Win32DiskImager](http://so
 1. Click on ‘Write’ to start flashing the memory card - the process will take a few minutes.
 1. Once the flashing is complete, click on ‘OK’ to complete the process
 1. Eject the card from the system in the usual way
-1. The card is now ready for use in the SOLO
+1. The card is now ready for use in the Solo.
 
-Instructions are almost identical to [those provided by the Raspberry Pi Foundation](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md),
+Instructions are almost identical to [those provided by the Raspberry
+Pi
+Foundation](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md),
 except they aren't flashing the Solo operating system, obviously.
 
 #### Mac
 
 Don't know, but people _have_ succeeded (it's easier than Windows).
-
 
 ### Finished
 
@@ -81,6 +82,3 @@ The memory card can now be used in the solo.
 
 If you want to change the default configuration options you can do so
 at this stage - see [configuration](configuration.html).
-
-
-
