@@ -26,7 +26,7 @@ you care about time-of-day being really accurate, you should sync more
 frequently.  The clock module does drift, probably by around 10
 seconds per month.
 
-This change, is bundled into the new [SOSI release](/downloads.html).
-This software image is also much smaller, after [improving](https://github.com/solo-system/solo/commit/5fd90347b1ee5b056a6a4cffeb09396b1b57af7a) the [thing](https://www.github.com/solo-system/solo/blob/masterimgTools/img-shrink.sh)
+This change is bundled into the new [SOSI release](/downloads.html).
+This software image is also much smaller, after [improving](https://github.com/solo-system/solo/commit/5fd90347b1ee5b056a6a4cffeb09396b1b57af7a) the [thing](https://www.github.com/solo-system/solo/blob/master/imgTools/img-shrink.sh)
 that shrinks SOSIs.  This is now the default stable release for
 everyone.
