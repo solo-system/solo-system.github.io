@@ -82,8 +82,7 @@ and manages the audio recordings.
 ### Setting the Timezone (SOLO_TZ)
 
 The timezone of the Solo is set through the /boot/solo/solo.conf file.
-
-The entry is SOLO_TZ. It defaults to Europe/London.
+The entry is `SOLO_TZ`. It defaults to `Europe/London`.
 
 `SOLO_TZ=America/Panama` would be a valid example.  As would `UTC` for
 Universal coordinated time (Zulu). Acceptable timezones are listed
