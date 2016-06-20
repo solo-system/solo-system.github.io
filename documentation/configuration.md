@@ -5,11 +5,10 @@ layout: page
 title:  "Configuration"
 ---
   
-
-# Configuration
-
 * TOC
 {:toc}
+
+## Configuration
 
 This document covers Configuring the Solo to your particular needs
 
@@ -33,14 +32,14 @@ Note: On windows you will see ONLY the `boot` partition, on mac and
 (certainly) on linux you will see an additinal parition - which should
 be ignored.
 
-### solo.conf and amon.conf
+## solo.conf and amon.conf
 
 There are 2 configuration files, because one deals with "device"
 settings (solo.conf) and the other with "audio" settings (amon.conf).
 amon is the "audio monitor", it's the software that runs on the Solo
 and manages the audio recordings.
 
-### Config options in amon.conf
+## Config options in amon.conf
 
 * <b>CLAC_CHANNELS</b> controls stereo or mono.  Set it to 1 or 2
 
@@ -78,9 +77,9 @@ and manages the audio recordings.
   AMONDATA, MINMEMFREE, AUDIODEVICE, AUDIOFORMAT,
   ABUFFER. NIGHTLYREBOOT, CLAC_PIP
 
-### Config options in solo.conf
+## Config options in solo.conf
 
-#### Setting the Timezone (SOLO_TZ)
+### Setting the Timezone (SOLO_TZ)
 
 The timezone of the Solo is set through the /boot/solo/solo.conf file.
 
@@ -95,4 +94,3 @@ that there will be one hour of the year (in spring), when a hours'
 worth of recordings are overwritten, and in Autumn, there will be an
 hour's gap in recordings.  To avoid this, use a timezone that DOESNT
 use daylight savings - like GMT rather than BST.
-
