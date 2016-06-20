@@ -8,6 +8,9 @@ title:  "Configuration"
 
 # Configuration
 
+* TOC
+{:toc}
+
 This document covers Configuring the Solo to your particular needs
 
 NOTE: The default settings of the Solo work well in most situations.
