@@ -89,7 +89,7 @@ Universal coordinated time (Zulu). Acceptable timezones are listed
 [here](/documentation/timezone-list.txt).
 
 If you choose a timezone which uses daylight saving, then be aware
-that there will be one hour of the year (in spring), when a hours'
+that there will be one hour of the year (in spring), when an hour's
 worth of recordings are overwritten, and in Autumn, there will be an
 hour's gap in recordings.  To avoid this, use a timezone that DOESNT
 use daylight savings - like GMT rather than BST.
