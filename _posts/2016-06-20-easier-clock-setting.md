@@ -25,3 +25,7 @@ seconds per month.
 
 See [here](/documentation/clock.html) for full instructions.
 
+This change, is bundled into the new [SOSI release](/downloads.html).
+This software image is also much smaller, after removing some bugs in
+solo/imgTools/img-shrink.sh (fsck not running).  This is now the
+default stable release for everyone.
