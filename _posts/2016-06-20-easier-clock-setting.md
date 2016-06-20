@@ -17,15 +17,16 @@ syncronises time from the internet and updates the internal clock, so
 that the time and date are remembered for years - until the little
 battery on the clock module runs out.
 
-Remember: syncing the clock can be done any time.  But _must_ be done
-after initial assembly, after clock-battery replacement.  If you care
-about time-of-day being really accurate, you should sync more
+See [here](/documentation/clock.html) for full instructions on setting
+the clock this new way.
+
+Remember: syncing the clock can be done any time.  But __must__ be
+done after initial assembly and after clock-battery replacement.  If
+you care about time-of-day being really accurate, you should sync more
 frequently.  The clock module does drift, probably by around 10
 seconds per month.
 
-See [here](/documentation/clock.html) for full instructions.
-
 This change, is bundled into the new [SOSI release](/downloads.html).
-This software image is also much smaller, after removing some bugs in
-solo/imgTools/img-shrink.sh (fsck not running).  This is now the
-default stable release for everyone.
+This software image is also much smaller, after improving the [thing](www.github.com/solo-system/solo/imgTools/img-shrink.sh)
+that builds SOSIs.  This is now the default stable release for
+everyone.
