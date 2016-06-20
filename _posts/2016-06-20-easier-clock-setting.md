@@ -27,6 +27,6 @@ frequently.  The clock module does drift, probably by around 10
 seconds per month.
 
 This change, is bundled into the new [SOSI release](/downloads.html).
-This software image is also much smaller, after improving the [thing](www.github.com/solo-system/solo/imgTools/img-shrink.sh)
+This software image is also much smaller, after improving the [thing](https://www.github.com/solo-system/solo/imgTools/img-shrink.sh)
 that builds SOSIs.  This is now the default stable release for
 everyone.
