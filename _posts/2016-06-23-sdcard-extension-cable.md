@@ -12,7 +12,7 @@ SD card.  This means all the fiddling with the memory card is now much
 further away from the delicate electronics.  It costs a few pounds
 from online sellers in China.
 
-[![measuring A+ power](/img/sdcard-extension-cable.jpg "extension cable" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; margin-left: 10px; float: right"}](/img/sdcard-extension-cable.jpg)
+[![measuring A+ power](/img/sdcard-extension-cable.jpg "extension cable" ){:.some-css-class style="width: 60%; border: 1px solid #e0e0e0; margin-left: 10px; float: right"}](/img/sdcard-extension-cable.jpg)
 
 This would allow you to seal up the little box to keep the electronics
 much safer.
