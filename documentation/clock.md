@@ -5,17 +5,26 @@ layout: page
 title:  "Clock"
 ---
 
+* TOC
+{:toc}
+
 # Setting the clock
 
 The date and time need to be set whenever the clock module's tiny
-battery is replaced.  This is done by attaching the Solo to a computer
-network, and leaving it to syncronise the clock module to "internet
-time", which it will do automatically after 15 minutes.  The time is
-then remembered by the clock module for several years until it's
-battery runs out again.
+battery is replaced.  There are 2 ways to do this
+
+The best way is done by attaching the Solo to a computer network, and
+leaving it to syncronise the clock module to "internet time", which it
+will do automatically after 15 minutes.
+
+The other way is manual, and for this you need a keyboard and monitor.
+This is for people who struggle to get the networking method to work.
+
+Once set, the time is remembered by the clock module for several
+years until it's battery runs out.
 
 
-## Set the clock (NEW WAY as of June 14th 2016)
+## Set the clock using a network connection
 
 The steps are:
 
@@ -48,6 +57,28 @@ The steps are:
   correctly set.  Just wait, and then do a test run without
   networking, to see if the correct timestamps are seen on audio
   files.
+
+## Setting the clock manually (keyboard and monitor).
+
+* flash a fresh SOSI image as usual
+
+* edit the /boot/solo/solo.conf file: Change the timezone to your
+  local timezone.  Also change the SOLO_POWERMODE to normal. See
+  [here](/documentation/configuration/index.html)
+
+* connect a keyboard and monitor (via HDMI) to the raspberry pi, and
+  boot.
+
+* log in with username=amon, passord=amon.
+
+* set the system date with `sudo date -s 2015-12-31 23:59:59`.  If you
+  have correctly set the SOLO_TZ timezone, the date/time should be
+  declared in your LOCAL time/date.
+
+* save the system time to the clock module with `sudo hwclock -w`
+
+* check everything is correct using `timedatectl`
+
 
 ## Clock drift and exact time
 

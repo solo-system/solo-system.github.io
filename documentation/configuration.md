@@ -93,3 +93,15 @@ that there will be one hour of the year (in spring), when an hour's
 worth of recordings are overwritten, and in Autumn, there will be an
 hour's gap in recordings.  To avoid this, use a timezone that DOESNT
 use daylight savings - like GMT rather than BST.
+
+### Setting the Power mode (SOLO_POWERMODE)
+
+The powermode controls how much power saving is done by the software
+on the Solo.  The only two settings currently are
+
+* `lowest`: This is the default - it uses the least power (including
+  turning off the HDMI connector, so a monitor connected to that
+  socket will NOT work.
+
+* `normal`: This performs no special measures to minimize power
+  (including leaving the HDMI/monitor socket operational).
