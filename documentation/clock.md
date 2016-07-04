@@ -69,9 +69,9 @@ The steps are:
 * connect a keyboard and monitor (via HDMI) to the raspberry pi, and
   boot.
 
-* log in with username=amon, passord=amon.
+* log in with username=amon, password=amon.
 
-* set the system date with `sudo date -s 2015-12-31 23:59:59`.  If you
+* set the system date with `sudo date -s "2015-12-31 23:59:59"`.  If you
   have correctly set the SOLO_TZ timezone, the date/time should be
   declared in your LOCAL time/date.
 
