@@ -51,7 +51,7 @@ The steps are:
   it's first proper run as a recorder.
 
 * note: this process is independent of the timezone - so don't worry
-  about setting that in boo/solo/solo.conf
+  about setting that in /boot/solo/solo.conf
 
 * Note that there is currently _no_ indication that the time has been
   correctly set.  Just wait, and then do a test run without
@@ -104,5 +104,6 @@ Note also also: if your Solo is based on one of the Raspberry Pi
 models that has an ethernet adapter (B+, Pi2 Pi3 for example, meaning
 you don't care about power consumption), then you don't need an
 ethernet-USB adapter.  The Wifi capabilities of the Pi3 are _not_
-supported for this, sorry.
+supported for this, sorry (it's perfectly possible, I just haven't
+ever done it).
 
