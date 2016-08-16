@@ -35,9 +35,7 @@ video](https://youtu.be/2Fq05JlEKjw), which accompanies the
 
 * [Wildlife Acoustics](http://www.wildlifeacoustics.com/)
   Commercial "Bioacoustic Monitoring Systems"
-
 * [Wildlife Sound Recording Society](http://www.wildlife-sound.org)
   Oodles of great articles and hardware reviews.
-
 * [Soundtrap.io](http://www.soundtrap.io/) "A low-cost open-source
   acoustic logger for biodiversity and environmental monitoring".
