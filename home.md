@@ -23,7 +23,7 @@ The Solo is straightforward to assemble, and inexpensive at around
 £120 (including a 5-day battery, memory card and a really good
 microphone). The cost without battery and memory card is £87 (for
 comparison with commercial systems).  But there's a lot of flexibility
-with components if you are picky for example, with a car battery the
+with components if you are picky. For example - with a car battery the
 system will record for around 40 days (costing £163 pounds).
 
 A typical deployment (the Solo:basic - pictured above) would be

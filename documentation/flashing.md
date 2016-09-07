@@ -17,7 +17,7 @@ To prepare a card for use we must:
 * unzip it (right click on the downloaded file)
 * attach the memory card into your PC/laptop's memory card reader
 * *flash* the SOS onto the card.
-* [optionally] configure Solo ettings
+* [optionally] configure Solo settings
 
 The card is now ready to be inserted into the slot on the Solo.
 
@@ -40,7 +40,7 @@ the downloaded .zip file on your desktop and right-click.  Select
 
 ### Attach Memory Card to PC
 
-Attach the memory card to your PC by inserting it into a card ceader.
+Attach the memory card to your PC by inserting it into a card reader.
 These can either be integrated into your computer, or are available as
 USB dongles.
 
@@ -81,4 +81,7 @@ The memory card can now be used in the solo.
 ### Configure (optionally)
 
 If you want to change the default configuration options you can do so
-at this stage - see [configuration](configuration.html).
+at this stage - see [configuration](configuration.html).  The most
+likely configuration option to set is the timezone.  Quick hint: plug
+the memory card back into your PC and edit the boot/solo/solo.conf
+file.  But you should really read the instructions referenced above.
