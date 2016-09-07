@@ -16,7 +16,7 @@ These are the components needed to build the Solo:basic:
 * [Watch battery (CR1220)](https://www.google.co.uk/search?q=CR1220) Generic part, widely available. buy: [Farnell](http://uk.farnell.com/multicomp/cr1220/coin-cell-lithium-3v-38mah-cr1220/dp/2065165) (&#8776;£0.70)
 * [Memory card](https://www.google.co.uk/search?q=SD+micro) - any microSD format card.  [More guidance](/documentation/memory_cards/) (&#8776;£20.00 for 64GB)
 * [Primo microphone](http://www.primomic.com/products/pdf/EM172.pdf) buy: [Micbooster](http://micbooster.com/primo-microphone-capsules/65-clippy-em172-microphone.html#/matched_capsules-mono) (&#8776;£24.00)
-* [USB battery bank](https://www.amazon.co.uk/s/?keywords=ec+technology+powerbank) (&#8776;£19.00)
+* [USB battery bank](https://www.amazon.co.uk/s/?keywords=ec+technology+powerbank) (&#8776;£19.00) (runs for 5 days)
 * [Waterproof enclosure](http://dri-box.com) I suggest version [200](http://dri-box.com/size-option/size-200) (&#8776;£8.99)
 * [Little box](https://www.westonboxes.com/collections/business-card-boxes-1/products/deep-business-card-box) (&#8776;£0.89)
 
