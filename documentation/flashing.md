@@ -61,7 +61,7 @@ You will need [the latest SOSI](/downloads.html). You'll also need to
 download and install the Windows application:
 [Win32DiskImager](http://sourceforge.net/projects/win32diskimager/).
 
-1. Start the Win32DiskImager application:
+1. Start the Win32DiskImager application: (you may need to *Run as administrator*).
 [![what is this](../img/flashing-1.png "flashing" ){:.some-css-class style=""}](../img/flashing-1.png)
 
 1. Select the **Solo Operating System Image** file: - `sosi-2016-01-01.img` in the box labeled ‘Image File’ in the Win32DiskImager application.
@@ -112,7 +112,7 @@ are the Raspberry Pi foundation's official flashing instructions for Linux.
 The memory card can now be used in the solo.  If you have any
 problems, more help is available because the process is almost
 identical to [those provided by the Raspberry Pi
-Foundation](https://www.raspberrypi.org/documentation/installation/installing-images/windows.md),
+Foundation](https://www.raspberrypi.org/documentation/installation/installing-images/),
 except they aren't flashing the Solo operating system, obviously.
 
 
