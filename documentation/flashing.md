@@ -4,7 +4,10 @@ permalink: "/documentation/flashing.html"
 layout: page
 title:  "Flashing"
 ---
-  
+
+* TOC
+{:toc}
+
 # Flashing
 
 Flashing is the process of preparing the memory card with the software
