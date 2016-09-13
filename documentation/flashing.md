@@ -99,7 +99,7 @@ line is:
 
 `sudo dd bs=40M if=sosi-2016-06-14.img of=/dev/sdX ; sync ; sync`
 
-Which reads "as super user, read from (if=sosi.img) output to (of=/dev/sdX) with block size (bs=40M)".
+Which reads "as super user, dump the contents of the infile (if=sosi.img) into the output file (of=/dev/sdX) with block size (bs=40M).  Then sync the disks to ensure it's all flush out".
 
 But if you don't know what's going on here, please take
 care. [Here](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
