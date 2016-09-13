@@ -60,11 +60,16 @@ LOSE ALL DATA ON YOUR PC/LAPTOP.
 
 You will need [the latest SOSI](/downloads.html) and [Win32DiskImager](http://sourceforge.net/projects/win32diskimager/).  
 
-1. Start the Win32DiskImager application.
+1. Start the Win32DiskImager application:
 
 [![what is this](/img/flashing1.png "flashing" ){:.some-css-class style="height: 250px; width:20% float: left;"}](/img/flashing1.png)
 
 1. Select the **Solo Operating System Image** file: - `sosi-2016-01-01.img` in the box labeled ‘Image File’ in the Win32DiskImager application.
+
+[![what is this](/img/flashing2a.png "flashing" ){:.some-css-class style="height: 250px; width:20% float: left;"}](/img/flashing2a.png)
+[![what is this](/img/flashing2b.png "flashing" ){:.some-css-class style="height: 250px; width:20% float: left;"}](/img/flashing2b.png)
+[![what is this](/img/flashing2c.png "flashing" ){:.some-css-class style="height: 250px; width:20% float: left;"}](/img/flashing2c.png)
+
 1. Ensure the correct drive letter is selected for the memory card. (GET THIS CORRECT, OR STOP).
 1. Click on ‘Write’ to start flashing the memory card - the process will take a few minutes.
 1. Once the flashing is complete, click on ‘OK’ to complete the process
