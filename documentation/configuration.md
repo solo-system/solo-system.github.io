@@ -41,9 +41,9 @@ and manages the audio recordings.
 
 ## Config options in amon.conf
 
-* <b>CLAC_CHANNELS</b> controls stereo or mono.  Set it to 1 or 2
+* <b>CHANNELS</b> controls stereo or mono.  Set it to 1 or 2
 
-* <b>CLAC_SAMPLERATE</b> controls the sample rate of the audio in Hz.  Set it to 8000, 16000, 44100 or anything up to 192000
+* <b>SAMPLERATE</b> controls the sample rate of the audio in Hz.  Set it to 8000, 16000, 44100 or anything up to 192000
 
 * <b>CLAC_VOL</b> is a volume control. range is [0,31] representing
   [0dB->32db] in 1dB steps.  Max out this volume before raising the
