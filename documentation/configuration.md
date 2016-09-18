@@ -41,9 +41,9 @@ and manages the audio recordings.
 
 ## Config options in amon.conf
 
-* <b>CHANNELS</b> controls stereo or mono.  Set it to 1 or 2
+* <b>CHANNELS="-c1"</b> controls stereo or mono.  Set it to 1 or 2
 
-* <b>SAMPLERATE</b> controls the sample rate of the audio in Hz.  Set it to 8000, 16000, 44100 or anything up to 192000
+* <b>SAMPLERATE="-r16000"</b> controls the sample rate of the audio in Hz.  Set it to 8000, 16000, 44100 or anything up to 192000
 
 * <b>CLAC_VOL</b> is a volume control. range is [0,31] representing
   [0dB->32db] in 1dB steps.  Max out this volume before raising the
@@ -51,7 +51,7 @@ and manages the audio recordings.
 
 * <b>CLAC_DIGITAL_VOL</b> is a digital volume. Range is[0,191]
   representing [-64dB->+32dB] in 0.5dB steps (so 128 is 0dB) The
-  default is `CLAC_VOL=152` representing +24dB. TODO - make a table?
+  default is `CLAC_VOL=152` representing +24dB.
 
 * <b>CLAC_AUDIO_SOURCE</b> Selects the jack to record from.  "linein"
   selects the pink "line-in" socket which I recommend. This socket
@@ -63,7 +63,7 @@ and manages the audio recordings.
   Right headphone, Microphone and Ground).  I think.  The default is
   "linein"
 
-* <B>DURATION</b> controls the duration of the recorded audio files
+* <B>DURATION=10</b> controls the duration of the recorded audio files
   (how often they are split) in minutes.  Anything up to 60 mins is
   supported at the moment.  `DURATION=10` is the default 10 minutes.
   Actually the behaviour is : every minute we consider splitting the
@@ -71,6 +71,11 @@ and manages the audio recordings.
   zero remainder, then we DO split. It's written this way so that the
   Solo immediately synchronises the splits with wall-clock time.  But
   it isn't perfect.
+
+* **CALENDAR="/boot/solo/calendar/night.py"** New option (Sept
+    2016) - see the [dedicated page on using the
+    calendar](calendar.html). This string must be the full path to a
+    valid calendar file in the /boot partition.
   
 * <b>undocumented options</b> The following are undocumented, stale, unused,
   unreliable, so ignore them unless you know what you are doing:

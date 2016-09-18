@@ -8,9 +8,9 @@ isfront: true
 
 # Documentation
 
-There is a [ten minute introductory
-video](https://youtu.be/2Fq05JlEKjw), which accompanies the
-[Getting Started](/documentation/getting-started.html) guide.
+There is a ten minute [introductory
+video](https://youtu.be/2Fq05JlEKjw), which accompanies the [Getting
+Started](/documentation/getting-started.html) guide.
 
 #### Documentation tree
 
@@ -22,6 +22,7 @@ video](https://youtu.be/2Fq05JlEKjw), which accompanies the
 * [harvesting](harvesting.html) - copying audio files to your PC/laptop
 * [clock](clock.html) - setting the clock
 * [configuration](configuration.html) - configuring the Solo for different situations
+* [calendar](calendar.html) - calendars and how to use them and write them.
 * [analysis](analysis.html) - tools for analysing recordings (stub)
 
 #### Guides

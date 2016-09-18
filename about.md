@@ -28,12 +28,12 @@ active development to keep up with new hardware and software.
 
 ### Feedback, questions, help and contributing
 
-If you have ideas or a request for new functionality, leave a
-comment on our facebook page.    If you can code - look at the [github
+If you have ideas or a request for new functionality, email
+solorecorder@gmail.com If you can code - look at the [github
 site](www.github.com/solo-system).
 
 If you have a success story, let us know, to make us feel good.
 
-Solo was developed by James Christie (info@solo-system.org).
+Solo was developed by James Christie (solorecorder@gmail.com).
 Robbie Whytock contributed to design and conducted field testing 
 during development (http://robwhytock.com)
