@@ -23,16 +23,16 @@ Additionally, it was important that the device was:
 * modular: broken units can be repaired and maintained
 * modifiable, tailorable, extensible - you can make changes to hardware and software to suit your needs
 
-Although the Solo has been in use for a few years, it remains under
-active development to keep up with new hardware and software.
 
 ### Feedback, questions, help and contributing
 
-If you have ideas or a request for new functionality, email
-solorecorder@gmail.com If you can code - look at the [github
-site](www.github.com/solo-system).
+Although the Solo has been in use for a few years, it remains under
+active development to keep up with new hardware and software.
 
-If you have a success story, let us know, to make us feel good.
+If you have ideas or a request for new functionality, email
+solorecorder@gmail.com.  If you can code - look at the [github
+site](https://www.github.com/solo-system).  If you have a success
+story, let us know.
 
 Solo was developed by James Christie (solorecorder@gmail.com).
 Robbie Whytock contributed to design and conducted field testing 
