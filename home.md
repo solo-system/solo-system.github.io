@@ -6,6 +6,8 @@ weight: 1
 isfront: true
 ---
 
+[News: New software release out 19 September 2016](documentation/2016/09/19/new-software-release.html)
+
 # Home
 
 There is an [introductory video](https://youtu.be/2Fq05JlEKjw).
