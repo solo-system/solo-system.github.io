@@ -16,7 +16,7 @@ There are several important additions.
   those who only want to collect at certain times of day, or want to
   get away with smaller memory cards.  Particularly for Bat
   monitoring, where the data-rates are high, this will be useful.
-  See more at (documentation/calendar.html)
+  More info on [calendar mode](/documentation/calendar.html)
 
 * USB microphones supported.  The Solo can now operate without the
   CLAC (Cirrus Logic Audio Card) if, instead, you provide a USB
