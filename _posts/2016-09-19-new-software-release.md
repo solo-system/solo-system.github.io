@@ -22,7 +22,7 @@ There are several important additions.
   CLAC (Cirrus Logic Audio Card) if, instead, you provide a USB
   microphone.  Only 2 have been explicitly supported - the Dodotronic
   UltraMic 200kHz, and the Blue Snowflake.  It should be possible to
-  add others.  See [here](/documentation/devices.html) for more information
+  add others.  See [here](/devices.html) for more information
   on the Solo:usbmic device, and how it differs from the Solo:basic.
 
 * Configuration file cleanups: If you previously used CLAC_SAMPLERATE
