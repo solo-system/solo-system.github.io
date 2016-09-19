@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New software (SOSI) release - Calendar and USB mics"
-date:   2016-07-03
+date:   2016-09-19
 categories: documentation
 
 ---
