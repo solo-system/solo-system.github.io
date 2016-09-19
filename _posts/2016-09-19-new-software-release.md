@@ -7,7 +7,7 @@ categories: documentation
 ---
 
 A new version of the SOSI software that runs the Solo recorder is
-out. [Download](http://www.solo-system.org/downloads/) it for free.
+out. [Download](http://www.solo-system.org/sosi) it for free.
 
 There are several important additions.
 
