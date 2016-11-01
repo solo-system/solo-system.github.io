@@ -7,6 +7,7 @@ isfront: true
 ---
 
 [News: Article published about Solo](documentation/2016/10/13/Article-in-BES-MEE.html)
+
 [News: New software release out 19 September 2016](documentation/2016/09/19/new-software-release.html)
 
 # Home
