@@ -6,7 +6,7 @@ weight: 1
 isfront: true
 ---
 
-[News: Article published about Solo in Methods in Ecology and Evolution](documentation/2016/10/13/Article-in-BES-MEE.html)
+[News: Solo article published in Methods in Ecology and Evolution](documentation/2016/10/13/Article-in-BES-MEE.html)
 
 # Home
 
