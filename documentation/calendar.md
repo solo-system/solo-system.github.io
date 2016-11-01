@@ -80,7 +80,7 @@ and set amon.conf's CALENDAR accordingly.
 This mode is not guaranteed to increase battery life, so please don't
 expect the Solo to run for any longer.  This is a big weak spot of the
 Solo - it doesn't have a good "low power mode" in which it can be on
-standby.  Instead - it's always on and consuming batter power, whether
+standby.  Instead - it's always on and consuming battery power, whether
 recording or not.  You will probably see a small gain in battery
 run-time, but it's not the main reason for this functionality.
 
@@ -89,7 +89,7 @@ on SD-card space perhaps because they have high data rates - (either
 high-sample rates - like bats), or stereo (not mono).
 
 Note however that this does NOT give you a commensurate increase in
-Battery life.  The Solo consumes power at the same rate 0.35 Watts,
+battery life.  The Solo consumes power at the same rate 0.35 Watts,
 whether it is recording or not.  During off-times in the calendar, the
 system still runs, and very little battery saving can be done.  This
 is an intrinsic problem with the current Solo, and is one of it's big
@@ -105,24 +105,7 @@ weak-points - the lack of "low power mode".
     complicated as desired, draw on other information sources (include
     a dawn-dusk.txt file, if you like, and have your script consult
     it).  It could even consult the output of sensors you've
-    separately attached to your solo, or (in an advanced use-case)
-    consult the network.
-
-- **Low power mode** There are tricks to possibly be done regarding
-    putting the Solo into very low power mode for the "off" periods -
-    but this is difficult, since generating the signal to wake-up is
-    non trivial.  Calendars of the future might output an additional
-    field "back-on-at", which informs the Solo how long it can sleep
-    for.  This could be used to inform things like the WittyPi when
-    the wakeup signal shoud be sent.  This is all work to be done.
-
-- **Power savings conjecture** There will be a reduction in the power
-    consumption of the solo if it isn't recording, but this hasn't
-    been measured.  The CLAC is probably de-powered, the mic doesn't
-    draw any PIP, and SD-card access should drop to almost zero (apart
-    from the minutely watchdog cronjob, and whatever system things are
-    busy).  The cpu might be clocked-down, but normal cpu usage is
-    very low anyway (top reports < 10% while recording).
+    separately attached to your solo.
 
 - **Debuging** Struggling to get a calendar to do what you want? The
     amon.log file in the amondata/logs/ directory contains the
@@ -131,4 +114,14 @@ weak-points - the lack of "low power mode".
     write to stderr, not stdout.  Stdout must stay clean for the
     "yes"/"no" answer.  STERR output is appended to
     amondata/logs/calendar.log
+
+- **Power savings conjecture** There will be a small reduction in the
+    power consumption of the solo if it isn't recording, but this
+    hasn't been measured.  The CLAC is probably de-powered, the mic
+    doesn't draw any PIP, and SD-card access should drop to almost
+    zero (apart from the minutely watchdog cronjob, and whatever
+    system things are busy).  The cpu might be clocked-down, but
+    normal cpu usage is very low anyway (top reports < 10% while
+    recording).  
+
     
