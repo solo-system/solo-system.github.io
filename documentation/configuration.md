@@ -43,15 +43,17 @@ and manages the audio recordings.
 
 * <b>CHANNELS="-c1"</b> controls stereo or mono.  Set it to 1 or 2
 
-* <b>SAMPLERATE="-r16000"</b> controls the sample rate of the audio in Hz.  Set it to 8000, 16000, 44100 or anything up to 192000
+* <b>SAMPLERATE="-r16000"</b> controls the sample rate of the audio in
+  Hz.  Set it to 8000, 16000, 44100 or anything up to 192000
 
 * <b>CLAC_VOL</b> is a volume control. range is [0,31] representing
-  [0dB->32db] in 1dB steps.  Max out this volume before raising the
-  CLAC_DIGITAL_VOL. The default is the maximum of 31.
+  [0dB->31db] in 1dB steps.  Max out this volume before raising the
+  CLAC_DIGITAL_VOL. The default is the maximum of 31, representing a
+  gain of 31dB.
 
 * <b>CLAC_DIGITAL_VOL</b> is a digital volume. Range is[0,191]
   representing [-64dB->+32dB] in 0.5dB steps (so 128 is 0dB) The
-  default is `CLAC_VOL=152` representing +24dB.
+  default is `CLAC_VOL=152` representing +12dB.
 
 * <b>CLAC_AUDIO_SOURCE</b> Selects the jack to record from.  "linein"
   selects the pink "line-in" socket which I recommend. This socket
