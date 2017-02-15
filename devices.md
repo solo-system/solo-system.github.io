@@ -42,16 +42,16 @@ Solo supports (some) USB microphones.  Both the __Dodotronic
 UltraMic 200kHz__ ultrasonic microphone and the __Blue Snowflake__ are
 recognised without any configuration required.
 
+This hardware configuration does **not** need the Cirrus Logic Audio
+Card, so is easier to assemble.  The software (SOSI) is the same as
+for the Solo:basic.
+
+
 [![what is this](/img/dodo1s.jpg "Solo:usb-mic with dodotronic 200kHz microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/dodo1s.jpg)<br>
 
 [![what is this](/img/dodo2s.jpg "Solo:usb-mic with dodotronic 200kHz microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/dodo2s.jpg)<br>
 
 [![what is this](/img/snowflake1s.jpg "Solo:usb-mic with Blue Snowflake microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/snowflake1s.jpg)<br>
-
-
-This hardware configuration does **not** need the Cirrus Logic Audio
-Card, so is easier to assemble.  The software (SOSI) is the same as
-for the Solo:basic.  The RTC clock module is obviously supported too.
 
 
 * History
