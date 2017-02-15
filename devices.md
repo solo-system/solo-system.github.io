@@ -12,7 +12,7 @@ Every Solo is built from roughly the same components: a mini computer and
 microphone, with data being stored on a memory card. It is protected
 by a weatherproof enclosure, and powered by a battery.
 
-[![what is this](/img/solo-boxed.jpg "boxed Solo" ){:.some-css-class style="width: 40%; border-left: 10px solid #ffffff; float: right"}](/img/solo-boxed.jpg)<br>
+[![what is this](/img/solo-boxed.jpg "boxed Solo" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff; float: right"}](/img/solo-boxed.jpg)<br>
 
 However, there is a lot of flexibility with the individual components
 of the Solo, so it can be tailored to your particular needs.
@@ -23,7 +23,7 @@ of the Solo, so it can be tailored to your particular needs.
 
 **Warning: Low stock worldwide on the Cirrus Logic Audio Card **
 
-[![what is this](/img/solo-naked-powerbank-8x6.jpg "inside a Solo" ){:.some-css-class style="width: 40%; border-left: 10px solid #ffffff; float: right"}](/img/solo-naked-powerbank-8x6.jpg)
+[![what is this](/img/solo-naked-powerbank-8x6.jpg "inside a Solo" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff; float: right"}](/img/solo-naked-powerbank-8x6.jpg)
 
 The Solo:basic is a standardised system that fulfills most needs.
 
