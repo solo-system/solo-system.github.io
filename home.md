@@ -6,7 +6,7 @@ weight: 1
 isfront: true
 ---
 
-[News: Solo article published in Methods in Ecology and Evolution](documentation/2016/10/13/Article-in-BES-MEE.html)
+<b>Worldwige Parts Shortage and Solution:</b>  We have had reports that the Cirrus Logic Audio Card is out of stock globally. At the moment Farnell cannot confirm the timing of another production run. As an alternative, the Solo system can be constructed using a USB microphone, although the sampling rate will be limited to 44.1 kHz (audible sound). We have tested the inexpensive Blue Snowflake microphone [link] extensively (10,000 hours + of audio) and it is supported by the current Solo software image release. See here [link] for further instructions.
 
 # Home
 
