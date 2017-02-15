@@ -19,6 +19,7 @@ of the Solo, so it can be tailored to your particular needs.
 
 ### Solo:basic
 
+<div>
 **Warning: Low stock worldwide on the Cirrus Logic Audio Card **
 
 [![what is this](/img/solo-naked-powerbank-8x6.jpg "inside a Solo" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff; float: right"}](/img/solo-naked-powerbank-8x6.jpg)
@@ -28,7 +29,7 @@ The Solo:basic is a standardised system that fulfills most needs.
 It will record continuously for 5.5 days using the USB powerbank which
 fits inside the enclosure, and produce mono, 16kHz, 16 bit audio files,
 each 10 minutes long, each labelled with the date and time it was recorded.
-
+</div>
 
 The Solo:basic is easy to assemble - head to the
 [Getting&nbsp;Started](/documentation/getting-started.html) guide, or
