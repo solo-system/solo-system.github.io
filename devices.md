@@ -42,11 +42,11 @@ Solo supports (some) USB microphones.  Both the __Dodotronic
 UltraMic 200kHz__ ultrasonic microphone and the __Blue Snowflake__ are
 recognised without any configuration required.
 
-[![what is this](/img/dodo1.jpg "Solo:usb-mic with dodotronic 200kHz microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/dodo1.jpg)<br>
+[![what is this](/img/dodo1s.jpg "Solo:usb-mic with dodotronic 200kHz microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/dodo1s.jpg)<br>
 
-[![what is this](/img/dodo2.jpg "Solo:usb-mic with dodotronic 200kHz microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/dodo2.jpg)<br>
+[![what is this](/img/dodo2s.jpg "Solo:usb-mic with dodotronic 200kHz microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/dodo2s.jpg)<br>
 
-[![what is this](/img/snowflake1.jpg "Solo:usb-mic with Blue Snowflake microphone" ) {:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/snowflake1.jpg)<br>
+[![what is this](/img/snowflake1s.jpg "Solo:usb-mic with Blue Snowflake microphone" ) {:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/snowflake1s.jpg)<br>
 
 
 This hardware configuration does **not** need the Cirrus Logic Audio
