@@ -7,7 +7,8 @@
 
 # Site settings
 title: Solo
-email: solorecorder@gmail.com
+#email: solorecorder@gmail.com
+email: r.c.whytock@stir.ac.uk
 
 #description: Solo - a field recorder for bioacoustic research.  Outdoor, continuous, battery-powered, based on Raspberry-Pi, self-built, high-fidelity, configurable, user-servicable, cheap, modifiable, extensible, modular, open source.
 description: If a tree falls in a forest and no one is around?  Solved.
