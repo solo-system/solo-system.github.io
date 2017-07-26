@@ -15,6 +15,9 @@ So we've expanded support for USB audio-cards to include the "Sound
 Blaster 2 Play" dongle, which allows you to choose your own
 microphone.
 
+[![Solo with SoundBlaster2 dongle](/img/solo-SB.jpg "Solo with SoundBlaster2 dongle" ){:.some-css-class style="width: 100%; border: 1px solid #e0e0e0; margin-left: 10px; float: right"}](/img/solo-SB.jpg)
+[![Solo with SoundBlaster2 dongle zoom](/img/solo-SB-zoom.jpg "Solo with SoundBlaster2 dongle zoom" ){:.some-css-class style="width: 100%; border: 1px solid #e0e0e0; margin-left: 10px; float: right"}](/img/solo-SB-zoom.jpg)
+
 Note that this differs from the "blue:snowflake" and ultrasonic
 "dodotronic" microphones in that the microhpone is separated from the
 audio-card, so you _can_ choose your own microphone.
