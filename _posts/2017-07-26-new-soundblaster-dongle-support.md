@@ -8,8 +8,8 @@ categories: documentation
 
 The Solo now supports the [Creative Sound Blaster PLAY!
 2](https://uk.creative.com/p/sound-cards/sound-blaster-play-2).  This
-USB sound card offers a 3.5mm mic-in socket which will record up to
-48kHz mono audio at 16 bits.
+sound card presents a 3.5mm mic-in socket and records audio up to
+48kHz in mono.
 
 A new SOSI download is available with this enabled:
 <form action="http://www.solo-system.org/sosi">
@@ -19,7 +19,7 @@ A new SOSI download is available with this enabled:
 This sound card is automatically detected and used by Solo, with no
 configuration required.  We advise setting the gain using the
 SB_VOLUME paramter in amon.conf may be advisable.  Try it out with
-your chosen microphone.
+your chosen microphone to get the level right.
 
 Currently (July 2017) it costs £20 in the UK and $24 in the USA.
 
