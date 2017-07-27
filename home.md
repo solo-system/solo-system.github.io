@@ -6,15 +6,10 @@ weight: 1
 isfront: true
 ---
 
-<b> [2017-02-15] Worldwide Parts Shortage and Solution:</b> The Cirrus
-Logic Audio Card is out of stock globally, and no stockist I know of
-will commit to a date for restocking.  As an alternative, the Solo
-system can be constructed using a USB microphone, although the
-sampling rate will be limited to 44.1 kHz (audible sound). We have
-tested the inexpensive Blue Snowflake microphone extensively
-(10,000 hours + of audio) and it is supported by the current Solo
-software image release. See the bottom of the [Devices
-page](/devices.html) for instructions.
+<b> [2017-07-27] New hardware support for Sound Blaster Play 2 USB
+soundcard.  [see here](/news).  The (previously recommended) Cirrus
+Logic Audio Card has been discontinued, so we recommend this
+sound-card instead.
 
 # Home
 
