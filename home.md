@@ -6,10 +6,10 @@ weight: 1
 isfront: true
 ---
 
-<b> [2017-07-27] New hardware support for Sound Blaster Play 2 USB
-soundcard.  [see here](/news).  The (previously recommended) Cirrus
-Logic Audio Card has been discontinued, so we recommend this
-sound-card instead.
+<b> [2017-07-27] New hardware support </b> for <em>Sound Blaster Play
+2 USB soundcard</em> [see latest news](/documentation/2017/07/26/new-soundblaster-dongle-support.html).
+The (previously recommended) Cirrus Logic Audio Card has been
+discontinued, so we recommend this sound-card instead.
 
 # Home
 
