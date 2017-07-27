@@ -25,7 +25,7 @@ To prepare a card for use we must:
 
 The card is now ready to be inserted into the slot on the Solo.
 
-### Download latest SOSI and unzip.
+### Download latest SOSI and unzip
 
 The latest version of the SOS (Solo operating system) is available
 free from [downloads](/downloads.html).  The download is around 500MB.
@@ -83,39 +83,42 @@ download and install the Windows application:
 1. Eject the card from the system in the usual way
 1. The card is now ready for use in the Solo.
 
-
+<hr>
 #### Mac
 
-Don't know, but people _have_ succeeded (it's easier than Windows).
+I've never done it, but others _have_ succeeded (it's easier than
+Windows, apparently).
 [Here](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md)
 are the Raspberry Pi foundation's official flashing instructions for
 Mac.
 
+<hr>
 #### Linux
 
-I do this extremely regularly.  I ise "dd" in conjunction with "sudo".  But
-it's very dangerous if you don't know what you are doing.  My command
-line is:
+I use "dd" in conjunction with "sudo".  But it's very dangerous if you
+don't know what you are doing.  My command line is:
 
 `sudo dd bs=40M if=sosi-2016-06-14.img of=/dev/sdX ; sync ; sync`
 
-Which reads "as super user, dump the contents of the infile (if=sosi.img) into the output file (of=/dev/sdX) with block size (bs=40M).  Then sync the disks to ensure it's all flush out".
+Which reads "as super user, dump the contents of the infile
+(if=sosi.img) into the output file (of=/dev/sdX) with block size
+(bs=40M).  Then sync the disks to ensure it's all flush out."
 
 But if you don't know what's going on here, please take
 care. [Here](https://www.raspberrypi.org/documentation/installation/installing-images/linux.md)
-are the Raspberry Pi foundation's official flashing instructions for Linux.
+are the Raspberry Pi foundation's official flashing instructions for
+Linux.
 
-
-
+<hr>
 ### Finished
 
-The memory card can now be used in the solo.  If you have any
+The memory card can now be used in the Solo.  If you have any
 problems, more help is available because the process is almost
 identical to [those provided by the Raspberry Pi
 Foundation](https://www.raspberrypi.org/documentation/installation/installing-images/),
 except they aren't flashing the Solo operating system, obviously.
 
-
+<hr>
 ### Configure (optionally)
 
 If you want to change the default configuration options you can do so

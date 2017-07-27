@@ -155,25 +155,15 @@ shops.
 
 ### What affects the power consumption of the Solo?
 
-The sample rate, mono/stereo and memory card size do NOT affect the
-power consumption of the Solo.  So ... nothing.  It's 0.35 Watts,
-regardless.
+Nothing.  The sample rate, mono/stereo and memory card size do NOT
+affect the power consumption of the Solo.  So ... nothing.  It's 0.35
+Watts, regardless.
 
 
 ### What about a calendar mode if I don't want 24/7 recording (to save power)?
 
-Good question.  There is currently no calendar mode, because the
-underlying Raspberry Pi doesn't use any less power if it stops
-recording audio.  Disappointingly, it lacks a good low-power state to
-hibernate into.
-
-A calendar mode would save space on the memory card, however, allowing
-you to get away with a smaller memory card.  In deployments thus far,
-people have been more interested in collecting 24/7 data
-opportunistically and deleting what they didn't want.  Memory cards
-are quite cheap.  Nobody has deleted their "unwanted" data yet, which
-is telling.
-
+Calendar mode is now supported, but it doesn't save power.  See [the
+docs](/documentation/calendar.html)
 
 ###  What about things like the Witty-Pi?
 

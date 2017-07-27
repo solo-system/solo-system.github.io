@@ -77,7 +77,7 @@ and set amon.conf's CALENDAR accordingly.
 
 # Battery Life
 
-This mode is not guaranteed to increase battery life, so please don't
+This mode is not intended to increase battery life, so please don't
 expect the Solo to run for any longer.  This is a big weak spot of the
 Solo - it doesn't have a good "low power mode" in which it can be on
 standby.  Instead - it's always on and consuming battery power, whether

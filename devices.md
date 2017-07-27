@@ -8,22 +8,58 @@ isfront: true
 
 ## Devices
 
-Every Solo is built from roughly the same components: a mini computer and
-microphone, with data being stored on a memory card. It is protected
-by a weatherproof enclosure, and powered by a battery.
+Every Solo is built from roughly the same components: a mini computer
+and microphone, with data being stored on a memory card. It is
+protected by a weatherproof enclosure, and powered by a
+battery. However, there is a lot of flexibility with the individual
+components of the Solo, so it can be tailored to your particular
+needs.
 
-[![what is this](/img/solo-boxed.jpg "boxed Solo" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff; float: right"}](/img/solo-boxed.jpg)<br>
+[![what is this](/img/solo-boxed.jpg "boxed Solo" ){:.some-css-class style="width: 40%; border: 5px solid #ffffff;  display:block;"}](/img/solo-boxed.jpg)<br>
 
-However, there is a lot of flexibility with the individual components
-of the Solo, so it can be tailored to your particular needs.
+<hr>
 
+# Solo: USB-soundcard (add your own choice of analog microphone)
 
+The [Creative Sound Blaster PLAY!
+2](https://uk.creative.com/p/sound-cards/sound-blaster-play-2)
+presents a 3.5mm mic-in socket and records audio up to 48kHz in mono.
 
-### Solo:basic
+[![Solo with SoundBlaster2 dongle](/img/solo-SB-8x6.jpg "Solo with SoundBlaster2 dongle" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; display:block;"}](/img/solo-SB.jpg)
 
-**Warning: Low stock worldwide on the Cirrus Logic Audio Card **
+[![Solo with SoundBlaster2 dongle zoom](/img/solo-SB-zoom-8x6.jpg "Solo with SoundBlaster2 dongle zoom" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; display:block;"}](/img/solo-SB-zoom.jpg)
 
-[![what is this](/img/solo-naked-powerbank-8x6.jpg "inside a Solo" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff; float: right"}](/img/solo-naked-powerbank-8x6.jpg)
+This sound card is automatically detected and used by Solo, with no
+configuration required.  We advise setting the gain using the
+SB_VOLUME paramter in amon.conf may be advisable.  Try it out with
+your chosen microphone to get the level right.  Currently (July 2017)
+the USB soundcard costs costs £20 in the UK and $24 in the USA.
+
+This USB soundcard should be used in place of the (previously recommended)
+Cirrus Logic Audio Card which has been discontinued (but is still
+supported in Solo, for existing users).
+
+<hr>
+
+# Solo: USB-microphone (integrated microphone)
+
+Solo also supports (some) USB microphones (combined soundcard+microphone in one product). Currently the Dodotronic __UltraMic 200kHz__ ultrasonic microphone and the __Blue Snowflake__ are
+recognised without any configuration required.
+
+[![what is this](/img/snowflake1s.jpg "Solo with Blue Snowflake microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/snowflake1s.jpg)<br>
+
+[![what is this](/img/dodo1s.jpg "Solo with dodotronic 200kHz microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/dodo1s.jpg)<br>
+
+[![what is this](/img/dodo2s.jpg "Solo with dodotronic 200kHz microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/dodo2s.jpg)<br>
+
+The software (SOSI) is the same no matter which microphone/soundcard combination is used.
+
+<hr>
+### OLD: Solo:basic
+
+<b> **Warning: This product has been discontinued.  This section is maintained for existing owners. ** </b>
+
+[![what is this](/img/solo-naked-powerbank-8x6.jpg "inside a Solo"){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff; display:block"}](/img/solo-naked-powerbank-8x6.jpg)
 
 The Solo:basic is a standardised system that fulfills most needs.
 
@@ -38,31 +74,15 @@ have a look at the [assembly video](https://youtu.be/2Fq05JlEKjw?t=122).
 <div></div>
 <hr>
 
-# Solo:usb-mic
-
-Solo supports (some) USB microphones.  Both the __Dodotronic
-UltraMic 200kHz__ ultrasonic microphone and the __Blue Snowflake__ are
-recognised without any configuration required.
-
-This hardware configuration does **not** need the Cirrus Logic Audio
-Card, so is easier to assemble.  The software (SOSI) is the same as
-for the Solo:basic.
 
 
-[![what is this](/img/dodo1s.jpg "Solo:usb-mic with dodotronic 200kHz microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/dodo1s.jpg)<br>
-
-[![what is this](/img/dodo2s.jpg "Solo:usb-mic with dodotronic 200kHz microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/dodo2s.jpg)<br>
-
-[![what is this](/img/snowflake1s.jpg "Solo:usb-mic with Blue Snowflake microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/snowflake1s.jpg)<br>
-
-
-* History
+# History
 
 The oldest Solos - before the Cirrus Logic Audio Card (CLAC) existed,
 used USB microphones (back in 2014), so USB microphones are well tested.
 
-
-* Technical note on Dodotronic ultrasound microphones.
+<hr>
+# Technical note on Dodotronic ultrasound microphones.
 
 The raspberry pi version A+ board does NOT accept the Dodotronic
 Ultramic.  So if you want to use the Ultramic, you must use one of the

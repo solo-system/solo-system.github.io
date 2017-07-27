@@ -11,6 +11,12 @@ The Solo now supports the [Creative Sound Blaster PLAY!
 sound card presents a 3.5mm mic-in socket and records audio up to
 48kHz in mono.
 
+
+[![Solo with SoundBlaster2 dongle](/img/solo-SB-8x6.jpg "Solo with SoundBlaster2 dongle" ){:.some-css-class style="width: 50%; border: 1px solid #e0e0e0; margin-left: 10px; float: right"}](/img/solo-SB.jpg)
+
+[![Solo with SoundBlaster2 dongle zoom](/img/solo-SB-zoom-8x6.jpg "Solo with SoundBlaster2 dongle zoom" ){:.some-css-class style="width: 50%; border: 1px solid #e0e0e0; margin-left: 10px; float: right"}](/img/solo-SB-zoom.jpg)
+
+
 A new SOSI download is available with this enabled:
 <form action="http://www.solo-system.org/sosi">
     <input type="submit" value="Go to SOSI download site">
@@ -25,10 +31,7 @@ Currently (July 2017) it costs £20 in the UK and $24 in the USA.
 
 This dongle can be used in place of the (previously recommended)
 Cirrus Logic Audio Card which has been discontinued (but is still
-supported in Solo, for existing users).  microphone.
-
-[![Solo with SoundBlaster2 dongle](/img/solo-SB.jpg "Solo with SoundBlaster2 dongle" ){:.some-css-class style="width: 100%; border: 1px solid #e0e0e0; margin-left: 10px; float: right"}](/img/solo-SB.jpg)
-[![Solo with SoundBlaster2 dongle zoom](/img/solo-SB-zoom.jpg "Solo with SoundBlaster2 dongle zoom" ){:.some-css-class style="width: 100%; border: 1px solid #e0e0e0; margin-left: 10px; float: right"}](/img/solo-SB-zoom.jpg)
+supported in Solo, for existing users).
 
 Other USB microphones are also supported - including the Blue Snowflake and the ultrasonic "dodotronic" microphones, however they don't allow you to choose your own microphone.
 
