@@ -8,9 +8,10 @@ title:  "Microphones"
 * TOC
 {:toc}
 
-# Microphones
 
-This document covers microphones for the Solo.
+# Microphones and Soundcards
+
+This document covers microphones and soundcards for the Solo.
 
 The Solo accepts most standard microphones:
 
