@@ -34,14 +34,3 @@ Cirrus Logic Audio Card which has been discontinued (but is still
 supported in Solo, for existing users).
 
 Other USB microphones are also supported - including the Blue Snowflake and the ultrasonic "dodotronic" microphones, however they don't allow you to choose your own microphone.
-
-TODO:
-	add links to this page
-	Change the front page
-	Change the front page to include photos of the SB2.
-	reword the disclaimer on front page to point here.
-	Change Solo:basic to Solo:clac
-	Add section to documentation about SB2 config options.
-
-Later: sort out clocks.
-	
