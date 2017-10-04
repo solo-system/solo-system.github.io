@@ -6,73 +6,13 @@ weight: 2
 isfront: true
 ---
 
-## Options / Configurations / bespoke / tailor your solo.
+## Components compatible with Solo
+
+* TOC
+{:toc}
+
 
 Solo is versatile, and many components are swappable for alternatives.
-
-Soundcard
-	SoundBlaster 2 and 3
-	Blue Snowflake.
-	dodotronic
-	other USB microphones.
-	
-Microphone
-
-<style type="text/css">
-.tg  {border-collapse:collapse; border-spacing:0; border-color:#aabcfe; margin:0px auto; }
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aabcfe;color:#669;background-color:#e8edff;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#aabcfe;color:#039;background-color:#b9c9fe;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-mb3i{background-color:#D2E4FC;text-align:right;vertical-align:top}
-.tg .tg-6k2t{background-color:#D2E4FC;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
-</style>
-
-<table class="tg">
-    <tr>	
-      <th class="tg-baqh" colspan="6"> Clock Modules </th>
-    </tr>
-
-    <tr>
-      <td class="tg-6k2t">name</td>
-      <td class="tg-6k2t">NNNNNN</td>
-      <td class="tg-6k2t">Buy one</td>
-      <td class="tg-6k2t">Cost</td>
-      <td class="tg-6k2t">compatibiliey / clashes</td>
-      <td class="tg-6k2t">Notes</td>
-    </tr>
-
-    <tr>
-      <td class="tg-yw4l">Blue Snowflake￼</td>
-      <td class="tg-yw4l">generic part</td>
-      <td class="tg-yw4l"></td>
-      <td class="tg-yw4l"></td>
-      <td class="tg-yw4l">Includes integrated microphone, so no separate microphone needed</td>
-      <td class="tg-yw4l" rowspan="3">All these soundcards connect via a standard USB connector.</td>
-    </tr>
-
-    <tr>
-      <td class="tg-6k2t">SoundBlaster Play 2</td>
-      <td class="tg-6k2t" rowspan="2"></td>
-      <td class="tg-mb3i"></td>
-      <td class="tg-mb3i"></td>
-      <td class="tg-mb3i"></td>
-    </tr>
-
-    <tr>
-      <td class="tg-yw4l">SoundBlaster Play 3</td>
-      <td class="tg-yw4l"></td>
-      <td class="tg-yw4l"></td>
-      <td class="tg-yw4l"></td>
-    </tr>
-</table>
-
-<hr>
-
-
-
-
-## Devices
 
 Every Solo is built from roughly the same components: a mini computer
 and microphone, with data being stored on a memory card. It is
@@ -81,83 +21,157 @@ battery. However, there is a lot of flexibility with the individual
 components of the Solo, so it can be tailored to your particular
 needs.
 
-[![what is this](/img/solo-boxed.jpg "boxed Solo" ){:.some-css-class style="width: 40%; border: 5px solid #ffffff; display:block;"}](/img/solo-boxed.jpg)<br>
 
-<hr>
+## Soundcards
 
-# Solo: USB-soundcard (add your own choice of analog microphone)
+The soundcard digitises the analog microphone signal into digital
+data, which can then be (optionally modified in software and) stored
+on the memory card.
 
-The [Creative Sound Blaster PLAY!
-2](https://uk.creative.com/p/sound-cards/sound-blaster-play-2)
-presents a 3.5mm mic-in socket and records audio up to 48kHz in mono.
+<style type="text/css">
+.tg {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border-color:#aabcfe;
+	margin: 0px auto;
+}
+.tg td {
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	padding: 10px 5px;
+	border-style: solid;
+	border-width: 1px;
+	overflow: hidden;
+	word-break: normal;
+	border-color: #aabcfe;
+	color: #669;
+	background-color: #e8edff;
+}
 
-[![Solo with SoundBlaster2 dongle](/img/solo-SB-8x6.jpg "Solo with SoundBlaster2 dongle" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; display:block;"}](/img/solo-SB.jpg)
+.tg th {
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-weight:normal;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+	border-color:#aabcfe;
+	color:#039;
+	background-color:#b9c9fe;
+}
 
-[![Solo with SoundBlaster2 dongle zoom](/img/solo-SB-zoom-8x6.jpg "Solo with SoundBlaster2 dongle zoom" ){:.some-css-class style="width: 40%; border: 1px solid #e0e0e0; display:block;"}](/img/solo-SB-zoom.jpg)
+.tg .jc-title {
+	text-align:center;
+	vertical-align:middle;
+}
 
-This sound card is automatically detected and used by Solo, with no
-configuration required. We advise setting the gain using the
-SB_VOLUME paramter in amon.conf may be advisable. Try it out with
-your chosen microphone to get the level right. Currently (July 2017)
-the USB soundcard costs costs £20 in the UK and $24 in the USA.
+.tg .jc-headers {
+	background-color:#D2E4FC;
+	vertical-align:middle;
+	text-align:center;
+}
 
-This USB soundcard should be used in place of the (previously recommended)
-Cirrus Logic Audio Card which has been discontinued (but is still
-supported in Solo, for existing users).
+.tg .jc-normalcell{vertical-align:top;
+text-align:center; vertical-align: middle} </style>
 
-<hr>
+<table class="tg"> <tr> <th class="jc-title" colspan="6"> Sound Cards
+  </th> </tr>
+  
+  <tr> <td class="jc-headers">name</td> <td
+    class="jc-headers">connector</td> <td
+    class="jc-headers">sample-rate</td> <td
+    class="jc-headers">channels</td> <td class="jc-headers">cost</td>
+    <td class="jc-headers">notes</td> </tr>
+  
+  <tr> <td class="jc-normalcell">SoundBlaster Play 3</td> <td
+    class="jc-normalcell">USB</td> <td class="jc-normalcell">44,100 I
+    think</td> <td class="jc-normalcell">mono</td> <td
+    class="jc-normalcell">£19.99</td> <td class="jc-normalcell">This
+    is the basic sound card for the Solo.  I presents a single 3.5mm
+    microphone socket for a standard mirophone</td> </tr>
 
-# Solo: USB-microphone (integrated microphone)
+  <tr> <td class="jc-normalcell">SoundBlaster Play 2</td> <td
+    class="jc-normalcell">USB</td> <td
+    class="jc-normalcell">48,00</td> <td
+    class="jc-normalcell">mono</td> <td
+    class="jc-normalcell">£19.99</td> <td class="jc-normalcell">Very
+    similar to the newer version above.  It presents a single 3.5mm
+    microphone socket.</td> </tr>
 
-Solo also supports (some) USB microphones (combined soundcard+microphone in one product). Currently the Dodotronic __UltraMic 200kHz__ ultrasonic microphone and the __Blue Snowflake__ are
-recognised without any configuration required.
+  <tr> <td class="jc-normalcell">Blue Snowflake</td> <td
+    class="jc-normalcell">USB</td> <td class="jc-normalcell"> ????
+    </td> <td class="jc-normalcell">mono</td> <td
+    class="jc-normalcell">£ ????</td> <td class="jc-normalcell">Very
+    similar to the newer version above.  It presents a single 3.5mm
+    microphone socket.</td> </tr>
+  
+  <tr> <td class="jc-normalcell">Dodotronic Ultramic 200</td> <td
+    class="jc-normalcell">USB</td> <td class="jc-normalcell">192kHz
+    (ultrasonic) </td> <td class="jc-normalcell">mono</td> <td
+    class="jc-normalcell">180 Euros</td> <td
+    class="jc-normalcell">This is an ultrasonic microphone with
+    integrated soundcard that records at 192kHz, for recording (e.g.)
+    bats.</td> </tr>
 
-[![what is this](/img/snowflake1s.jpg "Solo with Blue Snowflake microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/snowflake1s.jpg)<br>
+  <tr> <td class="jc-normalcell">Cirrus Logic Audio Card (CLAC)</td>
+    <td class="jc-normalcell">40-way header</td> <td
+    class="jc-normalcell">192kHz</td> <td
+    class="jc-normalcell">stereo</td> <td
+    class="jc-normalcell">discontinued</td> <td
+    class="jc-normalcell">The CLAC was the reccomended soundcard in
+    2016, but is no longer manufacturered.</td> </tr>
 
-[![what is this](/img/dodo1s.jpg "Solo with dodotronic 200kHz microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/dodo1s.jpg)<br>
-
-[![what is this](/img/dodo2s.jpg "Solo with dodotronic 200kHz microphone" ){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff"}](/img/dodo2s.jpg)<br>
-
-The software (SOSI) is the same no matter which microphone/soundcard combination is used.
-
-<hr>
-### OLD: Solo:basic
-
-<b> **Warning: This product has been discontinued. This section is maintained for existing owners. ** </b>
-
-[![what is this](/img/solo-naked-powerbank-8x6.jpg "inside a Solo"){:.some-css-class style="width: 50%; border-left: 10px solid #ffffff; display:block"}](/img/solo-naked-powerbank-8x6.jpg)
-
-The Solo:basic is a standardised system that fulfills most needs.
-
-It will record continuously for 5.5 days using the USB powerbank which
-fits inside the enclosure, and produce mono, 16kHz, 16 bit audio files,
-each 10 minutes long, each labelled with the date and time it was recorded.
-
-The Solo:basic is easy to assemble - head to the
-[Getting&nbsp;Started](/documentation/getting-started.html) guide, or
-have a look at the [assembly video](https://youtu.be/2Fq05JlEKjw?t=122).
-
-<div></div>
-<hr>
+</table>
 
 
 
-# History
+## Microphones
 
-The oldest Solos - before the Cirrus Logic Audio Card (CLAC) existed,
-used USB microphones (back in 2014), so USB microphones are well tested.
+Some soundcards have integrated microphones (Blue Snowflake and
+Dodotronic) so don't require a separate microphone. The SoundBlaster 2
+and 3 soundcards, however, _do_ require a separate microphone.
 
-<hr>
-# Technical note on Dodotronic ultrasound microphones.
+The recommended microphone in the Solo:Basic is the Primo EM172
+[(datasheet)](/lib/EM172.pdf) [Primo
+website](http://www.primomic.com/).  Primo make a "capsule" which has
+no connectors and needs soldered, but people like
+[this](http://micbooster.com/) sell them (in the UK) with cables, and
+nicely packaged ('Clippy') with windshelds, and will sell you a
+matched pair if you want to do stereo recordings (be sure to choose a
+soundcard that can handle stereo input, in this case).
 
-The raspberry pi version A+ board does NOT accept the Dodotronic
-Ultramic. So if you want to use the Ultramic, you must use one of the
-other raspberry pi boards. (The problem stems from the system
-incorrectly assessing the USB bus to not be fast enough for the data
-rates of the USB mic. On all other raspberry pi boards, there is an
-onboard USB hub, which eliminates the error). The A+ board works fine
-with the Snowflake microphone since it has lower data rates.
+Any microphone that offers a 3.5mm jack should work - including ones
+like the [Sennheiser ME-66 microphone](http://en-uk.sennheiser.com/directional-microphone-shotgun-film-broadcast-me-66), which is directional, expensive and requires
+an internal battery (that might run out), or really cheap "lavalier"
+microphones if you don't care about sensitivity so much.
 
-Note also that the Solo:basic (with the CLAC) supports the same high
-sample rates that the Dodotronic does (up to 192kHz) - you just need
-to supply your own ultrasonic analog microphone.
+## Raspberry Pi
+
+There are [several versions](https://www.raspberrypi.org/products/) of
+the Raspberry Pi available, and they all work with Solo.  But there
+are some things to note:
+
+* The Raspberry Pi zero and zero-W require an USB adapter to be able
+  to connect to normal USB soundcards/microphones.  When I bought my
+  pi-zeros they came with such an adapter included, but you should
+  check.  These 2 versions of the raspberry pi also lack "header pins"
+  which are what the clock modules attach to. Again, my pi-zeros 
+  arrived with separate header pins that I soldered on to the board 
+  so I could then attach the clock module. But that's not for everyone.
+
+* The recommended version is the
+[Raspberry Pi 1 model A+](https://www.raspberrypi.org/products/raspberry-pi-1-model/) is the lowest power model, with the pi-zero a close second.  But these two are the only viable options for long term field use, as all other models use much much more power (because of the USB/Ethernet hub, mainly).
+
+
+## Clock Modules (RTC)
+
+The ["DS3231 for pi"](https://www.amazon.co.uk/s/ref=nb_sb_noss?field-keywords=DS3231+for+pi) is great - cheap and easy to install. The down-side is that you can't change the battery, so once it's dead (after a year or two), you have to bin the whole module. Confusingly, sellers often list these modules as "comes without battery", when in fact they arrive with a battery included. (Perhaps there is some restriction about selling/shipping batteries they are avoiding?)
+
+A second choice is the [PiFace shim](http://www.piface.org.uk/products/piface_clock/) buy: [Farnell](http://uk.farnell.com/piface/shim-rtc/real-time-clock-shim-for-raspberry/dp/2434226) (&#8776;£8.95) - but remember this requires you to buy a battery for it.  This module is slightly harder to install, but has a changeable battery - and the battery is bigger, so lasts longer than the DS3231 above.
+
+
+## Miscellaneous Accessories
+
+Card extender - a flexible cable to keep the SD card further away from the raspberry pi. (See News section)
