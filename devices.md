@@ -8,7 +8,7 @@ isfront: true
 
 ## Components compatible with Solo
 
-* TOC
+* Need a fake list item for TOC:
 {:toc}
 
 
@@ -73,11 +73,13 @@ on the memory card.
 	text-align:center;
 }
 
-.tg .jc-normalcell{vertical-align:top;
-text-align:center; vertical-align: middle} </style>
+.tg .jc-normalcell{vertical-align:top;text-align:center; vertical-align: middle}
+</style>
 
-<table class="tg"> <tr> <th class="jc-title" colspan="6"> Sound Cards
-  </th> </tr>
+<table class="tg">
+  <tr>
+    <th class="jc-title" colspan="6"> Sound Cards </th>
+  </tr>
   
   <tr> <td class="jc-headers">name</td> <td
     class="jc-headers">connector</td> <td
@@ -85,46 +87,53 @@ text-align:center; vertical-align: middle} </style>
     class="jc-headers">channels</td> <td class="jc-headers">cost</td>
     <td class="jc-headers">notes</td> </tr>
   
-  <tr> <td class="jc-normalcell">SoundBlaster Play 3</td> <td
-    class="jc-normalcell">USB</td> <td class="jc-normalcell">44,100 I
-    think</td> <td class="jc-normalcell">mono</td> <td
-    class="jc-normalcell">£19.99</td> <td class="jc-normalcell">This
-    is the basic sound card for the Solo.  I presents a single 3.5mm
-    microphone socket for a standard mirophone</td> </tr>
+  <tr>
+    <td class="jc-normalcell"><a href="https://us.creative.com/p/sound-cards/sound-blaster-play-3">SoundBlaster Play 3</a></td>
+    <td class="jc-normalcell">USB</td>
+    <td class="jc-normalcell">48,000Hz</td>
+    <td class="jc-normalcell">mono</td>
+    <td class="jc-normalcell">£19.99<br>$24.99</td>
+    <td class="jc-normalcell">This is the recommended soundcard for the Solo. Requires a standard analog microphone with 3.5mm jack</td>
+  </tr>
 
-  <tr> <td class="jc-normalcell">SoundBlaster Play 2</td> <td
-    class="jc-normalcell">USB</td> <td
-    class="jc-normalcell">48,00</td> <td
-    class="jc-normalcell">mono</td> <td
-    class="jc-normalcell">£19.99</td> <td class="jc-normalcell">Very
-    similar to the newer version above.  It presents a single 3.5mm
-    microphone socket.</td> </tr>
+  <tr>
+    <td class="jc-normalcell"><a href="https://us.creative.com/p/sound-cards/sound-blaster-play-2">SoundBlaster Play 2</a></td>
+    <td class="jc-normalcell">USB</td>
+    <td class="jc-normalcell">48,000Hz</td>
+    <td class="jc-normalcell">mono</td>
+    <td class="jc-normalcell">£19.99<br>$44.99</td> <td class="jc-normalcell">Older version of the SouldBlaster Play 3, Very similar to the newer version above.  Comes with a splitter cable which then offers a standard analog mic input socket (3.5mm).</td>
+  </tr>
 
-  <tr> <td class="jc-normalcell">Blue Snowflake</td> <td
-    class="jc-normalcell">USB</td> <td class="jc-normalcell"> ????
-    </td> <td class="jc-normalcell">mono</td> <td
-    class="jc-normalcell">£ ????</td> <td class="jc-normalcell">Very
-    similar to the newer version above.  It presents a single 3.5mm
-    microphone socket.</td> </tr>
+  <tr>
+    <td class="jc-normalcell"><a href="http://www.bluemic.com/products/snowflake/">Blue Snowflake</a></td>
+    <td class="jc-normalcell"> USB </td>
+    <td class="jc-normalcell"> 44,100Hz </td>
+    <td class="jc-normalcell"> mono </td>
+    <td class="jc-normalcell">£??<br>$59.00</td>
+    <td class="jc-normalcell">This is a soundcard with integrated microphone. It is possible to dismantle the stand to leave a spherical microphone, that sits well popping out of a UPVC plumbing waste pipe, which keeps the USB connector protected from the elements.  I also double protected them by disassembling and covering all the electronics in non-corrosive sillica, and they performed very well. Availability sporadic in UK.</td>
+  </tr>
   
-  <tr> <td class="jc-normalcell">Dodotronic Ultramic 200</td> <td
-    class="jc-normalcell">USB</td> <td class="jc-normalcell">192kHz
-    (ultrasonic) </td> <td class="jc-normalcell">mono</td> <td
-    class="jc-normalcell">180 Euros</td> <td
-    class="jc-normalcell">This is an ultrasonic microphone with
-    integrated soundcard that records at 192kHz, for recording (e.g.)
-    bats.</td> </tr>
+  <tr>
+    <td class="jc-normalcell"><a href="http://www.dodotronic.com/ultramics/?v=79cba1185463">Dodotronic Ultramic 200/192</a></td>
+    <td class="jc-normalcell">USB</td>
+    <td class="jc-normalcell">192kHz (ultrasonic) </td>
+    <td class="jc-normalcell">mono</td>
+    <td class="jc-normalcell">200 Euros (!)</td>
+    <td class="jc-normalcell">This is an ultrasonic microphone with
+      integrated soundcard that records at 192kHz, for recording (e.g.)
+      bats.</td>
+  </tr>
 
-  <tr> <td class="jc-normalcell">Cirrus Logic Audio Card (CLAC)</td>
-    <td class="jc-normalcell">40-way header</td> <td
-    class="jc-normalcell">192kHz</td> <td
-    class="jc-normalcell">stereo</td> <td
-    class="jc-normalcell">discontinued</td> <td
-    class="jc-normalcell">The CLAC was the reccomended soundcard in
-    2016, but is no longer manufacturered.</td> </tr>
+  <tr>
+    <td class="jc-normalcell">Cirrus Logic Audio Card (CLAC)</td>
+    <td class="jc-normalcell">40-way header</td>
+    <td class="jc-normalcell">192kHz</td>
+    <td class="jc-normalcell">stereo</td>
+    <td class="jc-normalcell">discontinued</td>
+    <td class="jc-normalcell">The CLAC was the reccomended soundcard in 2016, but is no longer manufacturered.  But is still supported by Solo for existing users.</td>
+  </tr>
 
 </table>
-
 
 
 ## Microphones
