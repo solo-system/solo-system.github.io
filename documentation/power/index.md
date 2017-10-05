@@ -178,8 +178,6 @@ We will work in Watts and watt-hours throughout.  The EC technology battery
 contains: 22,300mAh @ 3.7V = (through `power = voltage * current`) =
 82.5 Wh (watt-hours) of energy.
 
-{{ TODO - get photo of ectechnology battery and zoom in on it's info-panel }}
-
 The Solo consumes this a a rate of 0.35W.  So this battery should
 theoretically last (82.5 Wh / 0.35W) = 235 hours (9.8 days).  However
 in practice we get 5.5 days from these battery banks.  I expect this
