@@ -12,15 +12,9 @@ isfront: true
 {:toc}
 
 
-Solo is versatile, and many components are swappable for alternatives.
+Solo is versatile - many components are swappable for alternatives.
 
-Every Solo is built from roughly the same components: a mini computer
-and microphone, with data being stored on a memory card. It is
-protected by a weatherproof enclosure, and powered by a
-battery. However, there is a lot of flexibility with the individual
-components of the Solo, so it can be tailored to your particular
-needs.
-
+<hr>
 
 ## Soundcards
 
@@ -81,11 +75,14 @@ on the memory card.
     <th class="jc-title" colspan="6"> Sound Cards </th>
   </tr>
   
-  <tr> <td class="jc-headers">name</td> <td
-    class="jc-headers">connector</td> <td
-    class="jc-headers">sample-rate</td> <td
-    class="jc-headers">channels</td> <td class="jc-headers">cost</td>
-    <td class="jc-headers">notes</td> </tr>
+  <tr>
+    <td class="jc-headers">name</td>
+    <td class="jc-headers">connector</td>
+    <td class="jc-headers">sample-rate</td>
+    <td class="jc-headers">channels</td>
+    <td class="jc-headers">cost</td>
+    <td class="jc-headers">notes</td>
+  </tr>
   
   <tr>
     <td class="jc-normalcell"><a href="https://us.creative.com/p/sound-cards/sound-blaster-play-3">SoundBlaster Play 3</a></td>
@@ -134,7 +131,8 @@ on the memory card.
   </tr>
 
 </table>
-
+.
+<hr>
 
 ## Microphones
 
@@ -156,31 +154,71 @@ like the [Sennheiser ME-66 microphone](http://en-uk.sennheiser.com/directional-m
 an internal battery (that might run out), or really cheap "lavalier"
 microphones if you don't care about sensitivity so much.
 
+<hr>
+
 ## Raspberry Pi
 
-There are [several versions](https://www.raspberrypi.org/products/) of
-the Raspberry Pi available, and they all work with Solo.  But there
-are some things to note:
+The recommended version is the [Raspberry Pi 1 model A+](https://www.raspberrypi.org/products/raspberry-pi-1-model/) because it consumes the lowest power and is cheap.
 
-* The Raspberry Pi zero and zero-W require an USB adapter to be able
+However, there are [many versions](https://www.raspberrypi.org/products/) of
+the Raspberry Pi available, and they all work with Solo (except strange ones like the Compute Module).  If you are on utility/mains power (rather than batteries), then you can choose any version of the Raspberry Pi you like.  I have tested many configurations using Pi1-B+, Pi2 and Pi3, and they all work fine.
+
+Note that the Raspberry Pi zero and zero-W require a USB adapter to be able
   to connect to normal USB soundcards/microphones.  When I bought my
   pi-zeros they came with such an adapter included, but you should
-  check.  These 2 versions of the raspberry pi also lack "header pins"
+  check.  These 2 "zero" versions of the raspberry pi also lack "header pins"
   which are what the clock modules attach to. Again, my pi-zeros 
   arrived with separate header pins that I soldered on to the board 
-  so I could then attach the clock module. But that's not for everyone.
+  so I could then attach the clock module. But that's not for everyone. Other versions of the Pi don't have these quirks.
 
-* The recommended version is the
-[Raspberry Pi 1 model A+](https://www.raspberrypi.org/products/raspberry-pi-1-model/) is the lowest power model, with the pi-zero a close second.  But these two are the only viable options for long term field use, as all other models use much much more power (because of the USB/Ethernet hub, mainly).
+<hr>
+## Power Supplies
 
+Solo takes it's power over a standard USB-micro cable. The recommended power supply for field use is a USB battery bank, but longer deployments can be achieved using larger (car/deep cycle) batteries.
 
+The EC technology 24000mAh powerbank will power a Solo for around 5 days.
+
+[ TODO - how to do a car battery.  Option of mains power too. ]
+
+<hr>
 ## Clock Modules (RTC)
 
-The ["DS3231 for pi"](https://www.amazon.co.uk/s/ref=nb_sb_noss?field-keywords=DS3231+for+pi) is great - cheap and easy to install. The down-side is that you can't change the battery, so once it's dead (after a year or two), you have to bin the whole module. Confusingly, sellers often list these modules as "comes without battery", when in fact they arrive with a battery included. (Perhaps there is some restriction about selling/shipping batteries they are avoiding?)
+Both of the clocks below are compatible with the Solo, and both are set in the same way.  Note that a Solo will run perfectly happily without a clock, except the system won't know the date or time, so the names of your audio files' will be meaningless. Both are "set" in the same way. (Learn how to [set a new clock](/documentation/clock.html).)
 
-A second choice is the [PiFace shim](http://www.piface.org.uk/products/piface_clock/) buy: [Farnell](http://uk.farnell.com/piface/shim-rtc/real-time-clock-shim-for-raspberry/dp/2434226) (&#8776;£8.95) - but remember this requires you to buy a battery for it.  This module is slightly harder to install, but has a changeable battery - and the battery is bigger, so lasts longer than the DS3231 above.
+<table class="tg">
+  <tr>
+    <th class="jc-title" colspan="6"> Clock Modules </th>
+  </tr>
+  
+  <tr>
+    <td class="jc-headers">name</td>
+    <td class="jc-headers">cost</td>
+    <td class="jc-headers">notes</td>
+    <td class="jc-headers">image</td>
+  </tr>
+  
+  <tr>
+    <td class="jc-normalcell"><a href="https://www.amazon.co.uk/s/ref=nb_sb_noss?field-keywords=DS3231+for+pi">DS3231</a></td>
+    <td class="jc-normalcell"> cheap (<$10) </td>
+    <td class="jc-normalcell">This clock is great - cheap and easy to install, and are widely manufactured - search for "DS3231 for pi". The down-side is that you can't change the battery, so once it's dead (after a year or two), you have to bin the whole module. Confusingly, sellers often list these modules as having no battery, when the _do_ infact have a battery included. Installation involves just pushing it onto the right pins of the Raspberry Pi.</td>
+    <td class="jc-normalcell"><img src="img/DS3231-for-pi.jpg"></img></td>
+  </tr>
+
+  <tr>
+    <td class="jc-normalcell"><a href="http://www.piface.org.uk/products/piface_clock/">PiFace shim RTC</a></td>
+    <td class="jc-normalcell">£7.46</td>
+    <td class="jc-normalcell">This clock has a changeable battery (which you must usually buy separately), and that battery is bigger than on the DS3231, so will last longer.  Installation involves sliding the battery into it's holder, and then pushing the module down onto the pins of the Raspberry Pi</td>
+    <td class="jc-normalcell"><img src="img/piface-shim-rtc.png"></img></td>
+  </tr>
+
+</table>
+
+.
+
+<hr>
 
 
-## Miscellaneous Accessories
 
-Card extender - a flexible cable to keep the SD card further away from the raspberry pi. (See News section)
+## Miscellaneous Accessories (TODO)
+* Card extender - a flexible cable to keep the SD card further away from the raspberry pi.
+* waterproof enclosures ...
