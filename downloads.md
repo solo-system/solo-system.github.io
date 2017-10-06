@@ -8,14 +8,14 @@ isfront: true
 
 ## Downloads
 
-The SOSI (Solo Operating System Image) is needed to run every Solo.
-It must be [transferred (flashed)](/documentation/flashing.html)
-onto the memory card before being inserted in the Solo. See the
+The Solo needs software to run it, and that software is called: SOSI (Solo Operating System Image)
+
+Download the most recent SOSI from the page below, then [transfer (flash)](/documentation/flashing.html)
+it onto the memory card before being inserted in the Solo. See the
 [Getting&nbsp;Started](/documentation/getting-started.html) guide.
 
-
 <form action="http://www.solo-system.org/sosi">
-    <input type="submit" value="Go to SOSI download site">
+    <input class="download-button" type="submit" value="Go to SOSI download site">
 </form>
 
 &nbsp;

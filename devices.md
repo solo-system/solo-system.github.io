@@ -131,7 +131,7 @@ on the memory card.
   </tr>
 
 </table>
-.
+&nbsp;
 <hr>
 
 ## Microphones
@@ -213,8 +213,7 @@ Both of the clocks below are compatible with the Solo, and both are set in the s
 
 </table>
 
-.
-
+&nbsp;
 <hr>
 
 
