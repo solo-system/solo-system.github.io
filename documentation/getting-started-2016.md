@@ -6,7 +6,7 @@ permalink: documentation/getting-started-2016.html
 
 ## Getting Started - old version from 2016
 
-This version of the Getting Started guide is from 2016, and focusses on the Cirrus Logic Audio Card, which discontinued production in 2017.  A more up-to-date version is available [here](/documentation/getting-started.html)
+This version of the Getting Started guide is from 2016, and focusses on the Cirrus Logic Audio Card, which discontinued production in 2017.  A more up-to-date version is available [here](/basic_build.html)
 
 
 ### Purchase components

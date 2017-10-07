@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Getting Started
-permalink: documentation/getting-started.html
+title: "basic build"
+permalink: /basic_build.html
+isfront: true
+weight: 2
 ---
 
-## Getting Started
+## Getting Started - building a Solo.
 
 [updated in October 2017 with Soundblaster soundcards - older CLAC version is [here](/documentation/getting-started-2016.html)]
 

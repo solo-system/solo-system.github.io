@@ -1,6 +1,6 @@
 ---
 permalink: home.html
-title: home
+title: "home"
 layout: page
 weight: 1
 isfront: true

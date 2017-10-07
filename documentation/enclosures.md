@@ -15,9 +15,6 @@ This document covers Enclosures and waterproofind for the Solo.  The Solo:basic 
 * Main external enclosure [dribox 200](https://www.google.co.uk/search?q=dribox+200)
 * Smaller internal box to protect electronics.
 
-See the "getting Started" for a parts list describing these enclosures
-more fully.
-
 ### Main external enclosure.
 
 I am a fan of the dribox 200 as it has the best system for the passage

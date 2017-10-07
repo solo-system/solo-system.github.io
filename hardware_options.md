@@ -1,7 +1,7 @@
 ---
 layout: page
-title: devices
-permalink: /devices.html
+title: "hardware options"
+permalink: /hardware_options.html
 weight: 2
 isfront: true
 ---
@@ -12,7 +12,7 @@ isfront: true
 {:toc}
 
 
-Solo is versatile - many components are swappable for alternatives.
+Solo is versatile - many components are swappable for alternatives - options are listed below.
 
 <hr>
 
@@ -217,6 +217,31 @@ Both of the clocks below are compatible with the Solo, and both are set in the s
 <hr>
 
 
+## Enclosures
+
+[![what is this](/img/solo-boxed-L.jpg "boxed in lab"               ){:.some-css-class style="width:40%; margin: 10px; padding-bottom: 3px; float: right;"}](/img/solo-boxed.jpg)
+
+The [DriBox](http://dri-box.com/) line of waterproof outdoor
+enclosures are good - particularly version
+[200](http://dri-box.com/size-option/size-200) since they have a good
+system for the passage of cables from inside to outside.  It is
+marketed for use for mains (utility) power in domestic gardens - for
+things like christmas trees or water features. Thesy are [IP55
+certified](https://en.wikipedia.org/wiki/IP_Code) and cheap.
+
+The lid acts as an umbrella over the entire unit.  It has spongy seals
+at each end of the box, which squeeze around the cables
+making a good seal.
+
+I also advise the use of an enclosure for the raspberry pi, mostly to
+protect it from being bashed around in the main enclosure (in transit,
+for example). A reasonable choice is [this
+one](https://www.westonboxes.com/collections/business-card-boxes-1/products/deep-business-card-box)
+costing less than a pound.
+
+
+&nbsp;
+<hr>
 
 ## Miscellaneous Accessories (TODO)
 

@@ -42,5 +42,5 @@ Not from me, sorry.  All the software and design are open, so you can
 build your own.  The
 [introductory video](https://youtu.be/2Fq05JlEKjw)
 shows you how, as does the
-[getting started](/documentation/getting-started.html) guide.
+[basic build](/basic_build.html) guide.
 
