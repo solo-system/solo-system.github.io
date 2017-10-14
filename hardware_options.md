@@ -87,7 +87,7 @@ on the memory card.
   <tr>
     <td class="jc-normalcell"><a href="https://us.creative.com/p/sound-cards/sound-blaster-play-3">SoundBlaster Play 3</a></td>
     <td class="jc-normalcell">USB</td>
-    <td class="jc-normalcell">48,000Hz</td>
+    <td class="jc-normalcell">48,000Hz / 44100Hz natively</td>
     <td class="jc-normalcell">mono</td>
     <td class="jc-normalcell">£19.99<br>$24.99</td>
     <td class="jc-normalcell">This is the recommended soundcard for the Solo. Requires a standard analog microphone with 3.5mm jack</td>
@@ -96,7 +96,7 @@ on the memory card.
   <tr>
     <td class="jc-normalcell"><a href="https://us.creative.com/p/sound-cards/sound-blaster-play-2">SoundBlaster Play 2</a></td>
     <td class="jc-normalcell">USB</td>
-    <td class="jc-normalcell">48,000Hz</td>
+    <td class="jc-normalcell">native: 44,100Hz</td>
     <td class="jc-normalcell">mono</td>
     <td class="jc-normalcell">£19.99<br>$44.99</td> <td class="jc-normalcell">Older version of the SouldBlaster Play 3, Very similar to the newer version above.  Comes with a splitter cable which then offers a standard analog mic input socket (3.5mm).</td>
   </tr>
