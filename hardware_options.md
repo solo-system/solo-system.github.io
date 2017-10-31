@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "hardware options"
+title: "components"
 permalink: /hardware_options.html
 weight: 2
 isfront: true
@@ -243,7 +243,7 @@ costing less than a pound.
 &nbsp;
 <hr>
 
-## Miscellaneous Accessories (TODO)
+## Miscellaneous Accessories
 
 ### Card extender - a flexible cable to keep the SD card further away from the raspberry pi.
 

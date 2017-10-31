@@ -23,7 +23,7 @@ are indicated by the symbols shown.
 
 ## Capacities
 
-micro-SD cards come in sizes up to (currently 256Gb). This table shows
+micro-SD cards come in sizes up to (currently) 256Gb. This table shows
 their capacity in terms of how many hours (or days) they can store,
 for lots of different recording parameters.  (Remember the default setup is
 16000 Hz sample rate, mono).

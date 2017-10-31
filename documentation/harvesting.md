@@ -13,7 +13,7 @@ This document covers copying audio files from a Solo's memory card safely
 onto your PC/laptop.
 
 You should physically insert the card into a "card reader" which may
-be integrated into your PC or might be a seperate component that
+be integrated into your PC/Laptop or might be a seperate component that
 connects to your PC via USB.
 
 Once the card is connected, the PC will recognise the card, and the
@@ -24,11 +24,11 @@ sufficient storage on your PC to handle all the audio data files
 Once you have safely copied the data, you should consider the contents
 of the memory card to be useless, reflash the card. Note: Deleting the audio
 and re-using the card in a Solo without reflashing - might work, but is not
-recommended.  Always Use a freshly flashed memory card when you
+recommended.  Always use a freshly flashed memory card when you
 prepare a Solo.
 
 Depending on your computer's operating system (Windows, Mac, Linux),
-slightly different procedure is needed.
+slightly different procedure is needed:
 
 ### Windows
 
@@ -37,7 +37,7 @@ This software will be able to copy the audio files from the audio card.
 
 ### Mac
 
-Just plug it in, and a drive called "solo-audio" will appear.
+Just plug it in, and a drive called "solo-audio" will appear.  
 
 ### Linux
 

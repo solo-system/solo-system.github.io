@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "basic build"
+title: "build"
 permalink: /basic_build.html
 isfront: true
 weight: 2
