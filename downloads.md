@@ -22,7 +22,7 @@ it onto the memory card before being inserted in the Solo. See the
 
 ## Code
 
-All the code behind the Solo project is licensed and developed openly.
+All the code behind the Solo project is free and open.
 If you would like to contribute, have a look at <a
 href="http://www.github.com/solo-system">the github site</a>, where
 you will find three repositories:
