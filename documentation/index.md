@@ -20,7 +20,7 @@ video](https://youtu.be/2Fq05JlEKjw), which accompanies the [Basic Build](/basic
 * [harvesting](harvesting.html) - copying audio files to your PC/laptop
 * [clock](clock.html) - setting the clock
 * [configuration](configuration.html) - configuring the Solo for different situations
-* [calendar](calendar.html) - calendars and how to use them and write them.
+* [calendar](calendar.html) - calendars and how to use them and write them
 * [analysis](analysis.html) - tools for analysing recordings (stub)
 
 #### Guides
@@ -35,6 +35,6 @@ video](https://youtu.be/2Fq05JlEKjw), which accompanies the [Basic Build](/basic
 * [Wildlife Acoustics](http://www.wildlifeacoustics.com/)
   Commercial "Bioacoustic Monitoring Systems"
 * [Wildlife Sound Recording Society](http://www.wildlife-sound.org)
-  Oodles of great articles and hardware reviews.
+  Oodles of great articles and hardware reviews
 * [Soundtrap.io](http://www.soundtrap.io/) "A low-cost open-source
-  acoustic logger for biodiversity and environmental monitoring".
+  acoustic logger for biodiversity and environmental monitoring"

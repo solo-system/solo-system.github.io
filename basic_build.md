@@ -6,7 +6,7 @@ isfront: true
 weight: 2
 ---
 
-## Getting Started - building a Solo.
+## Getting Started - building a Solo
 
 [updated in October 2017 with Soundblaster soundcards - older CLAC version is [here](/documentation/getting-started-2016.html)]
 
@@ -31,7 +31,7 @@ You'll also need a USB-ethernet adapter to set the clock (only needed rarely, so
 1. attach the soundcard to the USB port of the raspberry-pi
 1. attach the microphone to the soundcard
 1. attach the power cord to the Raspberry Pi (do NOT attach a power supply yet)
-1. protect in the little box, and main enclosure.
+1. protect in the little box, and main enclosure
 
 ### Prepare (flash) a memory card
 

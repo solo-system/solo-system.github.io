@@ -166,7 +166,7 @@ the Raspberry Pi available, and they all work with Solo (except strange ones lik
 Note that the Raspberry Pi zero and zero-W require a USB adapter to be able
   to connect to normal USB soundcards/microphones.  When I bought my
   pi-zeros they came with such an adapter included, but you should
-  check.  These 2 "zero" versions of the raspberry pi also lack "header pins"
+  check.  These 2 "zero" versions of the Raspberry Pi also lack "header pins"
   which are what the clock modules attach to. Again, my pi-zeros 
   arrived with separate header pins that I soldered on to the board 
   so I could then attach the clock module. But that's not for everyone. Other versions of the Pi don't have these quirks.
@@ -233,7 +233,7 @@ The lid acts as an umbrella over the entire unit.  It has spongy seals
 at each end of the box, which squeeze around the cables
 making a good seal.
 
-I also advise the use of an enclosure for the raspberry pi, mostly to
+I also advise the use of an enclosure for the Raspberry Pi, mostly to
 protect it from being bashed around in the main enclosure (in transit,
 for example). A reasonable choice is [this
 one](https://www.westonboxes.com/collections/business-card-boxes-1/products/deep-business-card-box)
@@ -245,7 +245,7 @@ costing less than a pound.
 
 ## Miscellaneous Accessories
 
-### Card extender - a flexible cable to keep the SD card further away from the raspberry pi.
+### Card extender - a flexible cable to keep the SD card further away from the Raspberry Pi.
 
 The photo (click to enlarge) shows an "extension cable" for your micro
 SD card.  This means all the fiddling with the memory card is now much
@@ -289,7 +289,7 @@ search](https://www.google.co.uk/search?q=sd+micro+extension+cable&tbm=isch).
 Many of the listings (eBay for example) describe them as having a "TF"
 (TransFlash).  This appears to be the same as SD-micro
 [wikipedia](https://en.wikipedia.org/wiki/Secure_Digital#TransFlash),
-but I can't be sure - <em>Caveat emptor</em>.
+but I can't be sure - <em>caveat emptor</em>.
 
 If you try to buy one with micro SD on both ends, it looks like the
 remote end (the end NOT by the Solo) doesn't have a particularly good

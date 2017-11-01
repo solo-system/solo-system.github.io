@@ -8,7 +8,7 @@ isfront: true
 
 ## Downloads
 
-The Solo needs software to run it, and that software is called: SOSI (Solo Operating System Image)
+The Solo needs software to run it, and that software is called: SOSI (Solo Operating System Image).
 
 Download the most recent SOSI from the page below, then [transfer (flash)](/documentation/flashing.html)
 it onto the memory card before being inserted in the Solo. See the
