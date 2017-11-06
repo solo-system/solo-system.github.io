@@ -11,8 +11,7 @@ isfront: true
 The Solo needs software to run it, and that software is called: SOSI (Solo Operating System Image).
 
 Download the most recent SOSI from the page below, then [transfer (flash)](/documentation/flashing.html)
-it onto the memory card before being inserted in the Solo. See the
-[flashing](/documentation/flashing.html) guide.
+it onto the memory card before being inserted in the Solo.
 
 <form action="http://www.solo-system.org/sosi">
     <input class="download-button" type="submit" value="Go to SOSI download site">
