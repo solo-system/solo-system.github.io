@@ -47,4 +47,4 @@ from 2016, when a different soundcard was used, but it still has lots
 of useful information.
 
 Have a quick look through the tabs on this website, then jump to
-the [Getting Started](documentation/getting-started.html) guide.
+the [Getting Started](documentation/basic_build.html) guide.
