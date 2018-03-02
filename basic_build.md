@@ -24,7 +24,7 @@ You'll also need a USB-ethernet adapter to set the clock (only needed rarely, so
 
 ### Assemble
 
-[This video](https://youtu.be/2Fq05JlEKjw?t=122) is an old 10 minute guide to building a Solo from 2016. Although the soundcard is now different, most of the advice is useful
+The [video](https://www.youtube.com/watch?v=0XVUWGGwwcc) is very helpful in assembling a Solo. 
 
 1. gather all the components
 1. mount the clock module on the raspberry-pi

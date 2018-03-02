@@ -40,7 +40,7 @@ send improvements or submit patches.
 
 Not from me, sorry.  All the software and design are open, so you can
 build your own.  The
-[introductory video](https://youtu.be/2Fq05JlEKjw)
+[video](https://www.youtube.com/watch?v=0XVUWGGwwcc)
 shows you how, as does the
 [basic build](/basic_build.html) guide.
 

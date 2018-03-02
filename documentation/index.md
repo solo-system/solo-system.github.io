@@ -8,8 +8,7 @@ isfront: true
 
 # Documentation
 
-Start with the ten minute (slightly old) [introductory
-video](https://youtu.be/2Fq05JlEKjw), which accompanies the [Basic Build](/basic_build.html) guide.
+Start the [video](https://www.youtube.com/watch?v=0XVUWGGwwcc) and [Basic Build](/basic_build.html) guide.
 
 #### Documentation tree
 

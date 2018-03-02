@@ -6,6 +6,12 @@ weight: 1
 isfront: true
 ---
 
+### New video - March 2018
+
+A new video is available, explaining the Solo:
+[https://www.youtube.com/watch?v=0XVUWGGwwcc](https://www.youtube.com/watch?v=0XVUWGGwwcc),
+recorded on March2nd, 2018.
+
 ### Solo field recorder
 
 The Solo is an autonomous, high definition audio recorder for
@@ -42,9 +48,7 @@ run the Solo, and just as easy to harvest the audio data onto your
 desktop/laptop using a card reader.  All software is free to download
 and licensed openly.
 
-There is an old [introductory video](https://youtu.be/2Fq05JlEKjw)
-from 2016, when a different soundcard was used, but it still has lots
-of useful information.
+There is a [video](https://www.youtube.com/watch?v=0XVUWGGwwcc) describing the solo.
 
 Have a quick look through the tabs on this website, then jump to
 the [Getting Started](documentation/basic_build.html) guide.
