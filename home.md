@@ -10,7 +10,7 @@ isfront: true
 
 A new video is available, explaining the Solo:
 [https://www.youtube.com/watch?v=0XVUWGGwwcc](https://www.youtube.com/watch?v=0XVUWGGwwcc),
-recorded on March2nd, 2018.
+recorded on March 2nd, 2018.
 
 ### Solo field recorder
 
