@@ -138,7 +138,7 @@ on the memory card.
 
 Some soundcards have integrated microphones (Blue Snowflake and
 Dodotronic) so don't require a separate microphone. The SoundBlaster 2
-and 3 soundcards, however, _do_ require a separate microphone.
+and 3 soundcards, and the CLAC, _do_ require a separate microphone.
 
 The recommended microphone in the Solo:Basic is the Primo EM172
 [(datasheet)](/lib/EM172.pdf) [Primo
@@ -153,6 +153,8 @@ Any microphone that offers a 3.5mm jack should work - including ones
 like the [Sennheiser ME-66 microphone](http://en-uk.sennheiser.com/directional-microphone-shotgun-film-broadcast-me-66), which is directional, expensive and requires
 an internal battery (that might run out), or really cheap "lavalier"
 microphones if you don't care about sensitivity so much.
+
+Recently (Jun 2018) people have reported success using the Solo with [this hydrophone](http://www.hightechincusa.com/products/hydrophones/marinemammal.html) and the SB3.
 
 <hr>
 
