@@ -31,11 +31,10 @@ Ensure the metal contacts on the microphone plug are clean.
 ### Stereo or mono
 
 If your sound card supports it (for example using the CLAC), you might
-prefer to use a pair of stereo microphones.
-
-You will need to tell the Solo whether it should record
-in stereo or mono.  Stereo recordings occupy twice as much space on
-the memory card, so halve the available duration.
+prefer to use a pair of stereo microphones.  You will need to tell the
+Solo whether it should record in stereo or mono.  Stereo recordings
+occupy twice as much space on the memory card, so halve the available
+duration.
 
 The relevant Solo Confirugation option is "SOLO_CHANNELS" - see more
 [configuration page](configuration.html).
@@ -51,7 +50,7 @@ microphone at close-range is not a good way to establish gain settings
 - try it out in the conditions you will actually be recording in. See
 [configuration page](configuration.md/#volume) for more.
 
-## Hydrophone
+# Hydrophones
 
 People are successfully using the Solo with [this hydrophone](http://www.hightechincusa.com/products/hydrophones/marinemammal.html) and the SB3
 sound card.
