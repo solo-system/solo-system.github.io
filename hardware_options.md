@@ -88,7 +88,7 @@ on the memory card.
     <td class="jc-normalcell"><a href="https://us.creative.com/p/sound-cards/sound-blaster-play-3">SoundBlaster Play 3</a></td>
     <td class="jc-normalcell">USB</td>
     <td class="jc-normalcell">48,000Hz / 44100Hz natively</td>
-    <td class="jc-normalcell">stereo</td>
+    <td class="jc-normalcell">mono (it is NOT stereo)</td>
     <td class="jc-normalcell">£19.99<br>$24.99</td>
     <td class="jc-normalcell">This is the recommended soundcard for the Solo. Requires a standard analog microphone with 3.5mm jack</td>
   </tr>
@@ -147,7 +147,7 @@ no connectors and needs soldered, but people like
 [this](http://micbooster.com/) sell them (in the UK) with cables, and
 nicely packaged ('Clippy') with windshelds, and will sell you a
 matched pair if you want to do stereo recordings (be sure to choose a
-soundcard that can handle stereo input, in this case).
+soundcard that can handle stereo input, in this case). UPDATE 2018-08-03 no sound cards currently support stereo microphone input (the SoundBlaster Play 3 was thought to be stereo but is not).
 
 Any microphone that offers a 3.5mm jack should work - including ones
 like the [Sennheiser ME-66 microphone](http://en-uk.sennheiser.com/directional-microphone-shotgun-film-broadcast-me-66), which is directional, expensive and requires
