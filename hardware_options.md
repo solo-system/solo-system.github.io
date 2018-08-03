@@ -90,7 +90,7 @@ on the memory card.
     <td class="jc-normalcell">48,000Hz / 44,100Hz natively</td>
     <td class="jc-normalcell">mono</td>
     <td class="jc-normalcell">£19.99<br>$24.99</td>
-    <td class="jc-normalcell">This is the recommended soundcard for the Solo. Requires a standard analog microphone with 3.5mm jack (Correction: previously thought to be stereo, this soundcard is in fact mono.</td>
+    <td class="jc-normalcell">This is the recommended soundcard for the Solo. Requires a standard analog microphone with 3.5mm jack. (Note: previously thought to be stereo, this soundcard is in fact mono.)</td>
   </tr>
 
   <tr>
