@@ -8,51 +8,89 @@ title:  "Calendar facility with in Solo"
 * TOC
 {:toc}
 
-# Calendar 
+### This is a DRAFT (12 September 2018).
 
-Solo now supports a calendar (as of September 2016) - the ability to
-record at only certain times of day/date.  Previously the Solo was
-only able to record 24/7 hours per day, but now you can choose (or
-define) your own set of on/off times.
+### Calendar and Witty Pi
 
-Please note that you should **not** expect a corresponding increase in
-battery life.  Unfortunately it doesn't work that way.
-You can get away with smaller memory cards, but not increase overall
-deployment times (much - see below).
+The [Witty Pi 2](http://www.uugear.com/product/wittypi2) adds both a
+clock module and power management to any Raspberry Pi.  It is now
+supported in the Solo, so recording happens according to the predefined
+times prescribed in the user's selected calendar, and the device is
+turned off when not recording, thereby saving valuable battery power.
+
+### Instructions
+
+#### Initial setup:
+
+[![Solo with Witty-Pi-2](/img/solo-with-wittypi2-L.jpg "Solo with Witty-Pi-2 (click to enlarge)"){:.some-css-class style="width:40%; margin: 10px; padding-bottom: 3px; float: right;"}](/img/solo-with-wittypi2-rot180.jpg)
+
+- Set the colourful jumpers on the Witty-Pi-2 to the correct positions
+  (blue jumper set to the right, all others to the left).  See image
+  above.
+
+- Attach the Witty-Pi-2 to the Raspberry Pi and insert the coin cell
+  battery.
+
+- Follow the normal procedure to [set the
+  clock](/documentation/clock.html) on the Witty Pi 2.  Use an
+  **unmodified** SOSI for this procedure (don't enable WITTYPI=yes in
+  amon.conf).
+
+#### Normal use:
+
+- Flash a memory card with recent version of SOSI (Witty Pi Support starts September 2018), available in the [usual place](http://www.solo-system.org/sosi/)
+- Perform your normal customisations in amon.conf and solo.conf. Be sure to set the timezone SOLO_TZ correctly in solo.conf
+- Edit boot/amon.conf : to include WITTYPI=yes and enable your chosen calendar through CALENDAR=xxx (test with "5m-on-5m-off.sh").
+- Move the memory card to the Solo and turn it on.
+- Connect the battery to the Witty Pi 2, NOT the raspberry pi.  Incoming power to the raspberry pi now flows through the Witty Pi 2.
+- Press the button on the side of the Witty Pi 2 to turn the system on, if it doesn't start automatically.
+- Observe the raspberry-pi's lights to confirm that it is periodically turned off and then reboots at the times corresponding to those in your chosen calendar.
 
 
-# Quick start
+### Calendars
 
-The Solo come pre-packaged with several calendars.  Let's choose
-"night.py", which records only at night time.  Flash the SOSI to the
-SD card in the normal way, and then during the configuration stage -
-enable one of the CALENDAR lines within amon.conf (by removing the '#'
-at the beginning of the line) withthe appropriate calendar.  Save
-config file, eject SD-card safely, insert into a Solo, and the
-calendar will be used.
-
-
-# Currently supplied calendars
-
-The up-to-date list of current calendars are always [in
-git](https://github.com/solo-system/amon/tree/master/boot/calendar).
-Today (18 September 2016) there are three:
-
-- **1m-on-1m-off.sh** - on for 1 minute, off for 1 minute.  You end up
-    with (60*24/2) files per day, each one minute long.
+Calendars define the on/off schedule for the Solo.  They live in
+boot/calendar/ directory and are activated by setting "CALENDAR=xxxx"
+in amon.conf.  There are 3 pre-defined calendars (on 12 Sept 2018),
+but you can write your own (see below).
 
 - **5m-on-5m-off.sh** - on for 5 minutes of for 5 minutes.  It's the
     first five minutes if any 10 minute wall-clock slot.  You end up
-    with 60/5*24 filed per day, each 5 minutes long.
+    with 60/5*24 filed per day, each 5 minutes long.  This calendar is
+    primarily intended for testing the Witty Pi 2 is working properly.
 
-- **night.py** - records between 9pm and 6am.  This is pretty useless
-    unless you are on the equator as it takes no account of season
-    (since dawn and dusk change dramatically with season as you move
-    further from the equator).
+- **1h-on-1h-off.sh** - on for 1 hour, off for 1 hour.  
+
+- **dusk2dawn.py** - records between dusk and dawn, which are
+    calculated properly, accounting for your latitude and longitude,
+    which must be entered into the calendar beofore deploying.  Read
+    the calendar file itself for more instructions. 
     
+### Miscellaneous Notes.
 
-# Make your own Calendar.
+- Remember to connect the power lead connected to the witty pi board (NOT the raspberry pi board).
 
+- Don't try to install any of the witty pi's software, from the manufacturere's website - it's not needed.
+
+- reboot-time policy: The solo starts rebooting at the time you put in calendar.  It takes about 90 seconds to start recording.
+
+- reboot-time policy: The solo starts rebooting at the time you put in calendar.  It takes about 90 seconds to start recording.
+
+- some calendars require their own configuration dusk2dawn.py needs lat/long for example.
+
+- Choose timezone correctly - and don't use a daylight savings timezone (which are they?)
+
+- does it support witty pi version 1.  witty pi mini?
+
+- Must put tape over the raspberry pi 's power socket, otherwise you'll unthinkingly use the wrong power-in socket.
+
+- keep-alive Jumper on witty pi 2 - turn it on for battery banks.  Or off if you don't need it (that will save even more power).
+
+- calendars define reboot time, not restart-recording time.  The boot time of the system will delay recording by a minute or two. Beware actual record start time will be later than rbt offered by any calendar by about 1 minute.
+
+### Make your own Calendar.
+
+IGNORE THIS SECTION IT IS OUT OF DATE.
 A calendar is a script (computer code) that consults the system's
 time, and then decides whether recording should be "on" or "off" at
 that moment.  The Solo system consults this calendar every 1 minute,
@@ -74,29 +112,27 @@ Add your own calendar scripts to this directory during configuration,
 and set amon.conf's CALENDAR accordingly.
 
 
+ 
+# Jumpers
+
+All hardware jumpers should be in the left position, except the blue one,
+which should be moved to the right position, for most battery banks.
+This blue jumper ensures that "intelligent" USB battery banks remain
+ON while the Solo is off, when otherwise such USB banks would notice a
+very low demand, and switch off permanently.  You don't want your USB
+power bank to permanently turn off.
+
+Red "Default Off left-position <br>
+Yellow GPIO-17  "left position" <br>
+Green "halt by gpio4" left position. <br>
+Blue "dummy load" - right position  <br>
+
 
 # Battery Life
 
-This mode is not intended to increase battery life, so please don't
-expect the Solo to run for any longer.  This is a big weak spot of the
-Solo - it doesn't have a good "low power mode" in which it can be on
-standby.  Instead - it's always on and consuming battery power, whether
-recording or not.  You will probably see a small gain in battery
-run-time, but it's not the main reason for this functionality.
+Need data here - TODO.
 
-This should be of particular use to people who were previously short
-on SD-card space perhaps because they have high data rates - (either
-high-sample rates - like bats), or stereo (not mono).
-
-Note however that this does NOT give you a commensurate increase in
-battery life.  The Solo consumes power at the same rate 0.35 Watts,
-whether it is recording or not.  During off-times in the calendar, the
-system still runs, and very little battery saving can be done.  This
-is an intrinsic problem with the current Solo, and is one of it's big
-weak-points - the lack of "low power mode".
-
-
-# Design decisions and technical notes
+# Technical notes
 
 - **Scripting** The downside of using scripts for calendar definitions
     is that not everyone can write scripts. But most people can
@@ -115,13 +151,3 @@ weak-points - the lack of "low power mode".
     "yes"/"no" answer.  STERR output is appended to
     amondata/logs/calendar.log
 
-- **Power savings conjecture** There will be a small reduction in the
-    power consumption of the solo if it isn't recording, but this
-    hasn't been measured.  The CLAC is probably de-powered, the mic
-    doesn't draw any PIP, and SD-card access should drop to almost
-    zero (apart from the minutely watchdog cronjob, and whatever
-    system things are busy).  The cpu might be clocked-down, but
-    normal cpu usage is very low anyway (top reports < 10% while
-    recording).  
-
-    

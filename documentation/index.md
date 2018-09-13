@@ -8,9 +8,9 @@ isfront: true
 
 # Documentation
 
-Start the [video](https://www.youtube.com/watch?v=0XVUWGGwwcc) and [Basic Build](/basic_build.html) guide.
+Start with the [video](https://www.youtube.com/watch?v=0XVUWGGwwcc) and [Basic Build](/basic_build.html) guide.
 
-#### Documentation tree
+#### Documentation tree:
 
 * [power](power/) - information about batteries and power consumption
 * [microphones](microphones.html) - plug sizes, stereo/mono, gain/volume

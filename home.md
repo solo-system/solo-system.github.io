@@ -6,11 +6,9 @@ weight: 1
 isfront: true
 ---
 
-### New video - March 2018
+- News [Sep 12, 2018] Longer run-times via new [support for Witty Pi](wherever).
+- News [Mar 02, 2018] A new [video](https://www.youtube.com/watch?v=0XVUWGGwwcc) is available, explaining the Solo.
 
-A new video is available, explaining the Solo:
-[https://www.youtube.com/watch?v=0XVUWGGwwcc](https://www.youtube.com/watch?v=0XVUWGGwwcc),
-recorded on March 2nd, 2018.
 
 ### Solo field recorder
 
@@ -31,7 +29,7 @@ The Solo is straightforward to assemble, and inexpensive at around
 £120 (including a 5-day battery, memory card and a really good
 microphone). The cost without battery and memory card is £83 (for
 comparison with commercial systems).  But there's a lot of flexibility
-with components if you are picky.
+with components if you are picky (hydrophones work, for example).
 
 A typical deployment (pictured above) would be powered by a USB
 battery bank which would run the system for five days of permanent
