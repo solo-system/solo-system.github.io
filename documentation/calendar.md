@@ -68,25 +68,36 @@ but you can write your own (see below).
     
 ### Miscellaneous Notes.
 
-- Remember to connect the power lead connected to the witty pi board (NOT the raspberry pi board).
+- Remember to connect the power lead connected to the witty pi board
+  (NOT the raspberry pi board).
 
-- Don't try to install any of the witty pi's software, from the manufacturere's website - it's not needed.
+- Don't try to install any of the witty pi's software, from the
+  manufacturere's website - it's not needed.
 
-- reboot-time policy: The solo starts rebooting at the time you put in calendar.  It takes about 90 seconds to start recording.
+- reboot-time policy: The solo starts rebooting at the time you put in
+  calendar.  It takes about 90 seconds to start recording.
 
-- reboot-time policy: The solo starts rebooting at the time you put in calendar.  It takes about 90 seconds to start recording.
+- reboot-time policy: The solo starts rebooting at the time you put in
+  calendar.  It takes about 90 seconds to start recording.
 
-- some calendars require their own configuration dusk2dawn.py needs lat/long for example.
+- some calendars require their own configuration dusk2dawn.py needs
+  lat/long for example.
 
-- Choose timezone correctly - and don't use a daylight savings timezone (which are they?)
+- Choose timezone correctly - and don't use a daylight savings
+  timezone (which are they?)
 
 - does it support witty pi version 1.  witty pi mini?
 
-- Must put tape over the raspberry pi 's power socket, otherwise you'll unthinkingly use the wrong power-in socket.
+- Must put tape over the raspberry pi 's power socket, otherwise
+  you'll unthinkingly use the wrong power-in socket.
 
-- keep-alive Jumper on witty pi 2 - turn it on for battery banks.  Or off if you don't need it (that will save even more power).
+- keep-alive Jumper on witty pi 2 - turn it on for battery banks.  Or
+  off if you don't need it (that will save even more power).
 
-- calendars define reboot time, not restart-recording time.  The boot time of the system will delay recording by a minute or two. Beware actual record start time will be later than rbt offered by any calendar by about 1 minute.
+- calendars define reboot time, not restart-recording time.  The boot
+  time of the system will delay recording by a minute or two. Beware
+  actual record start time will be later than rbt offered by any
+  calendar by about 1 minute.
 
 ### Make your own Calendar.
 
@@ -133,6 +144,8 @@ Blue "dummy load" - right position  <br>
 Need data here - TODO.
 
 # Technical notes
+
+THIS SECTION IS OLD.
 
 - **Scripting** The downside of using scripts for calendar definitions
     is that not everyone can write scripts. But most people can
