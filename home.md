@@ -6,7 +6,7 @@ weight: 1
 isfront: true
 ---
 
-- News [Sep 12, 2018] Longer run-times via new [support for Witty Pi](wherever).
+- News [Sep 12, 2018] Longer run-times via new [support for Witty Pi](/documentation/calendar.html).
 - News [Mar 02, 2018] A new [video](https://www.youtube.com/watch?v=0XVUWGGwwcc) is available, explaining the Solo.
 
 

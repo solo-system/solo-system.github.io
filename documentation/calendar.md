@@ -2,7 +2,7 @@
 layout: documentation
 permalink: "/documentation/calendar.html"
 layout: page
-title:  "Calendar facility with in Solo"
+title:  "Calendar and Witty Pi 2"
 ---
 
 * TOC
@@ -27,10 +27,8 @@ turned off when not recording, thereby saving valuable battery power.
 - Set the colourful jumpers on the Witty-Pi-2 to the correct positions
   (blue jumper set to the right, all others to the left).  See image
   above.
-
 - Attach the Witty-Pi-2 to the Raspberry Pi and insert the coin cell
   battery.
-
 - Follow the normal procedure to [set the
   clock](/documentation/clock.html) on the Witty Pi 2.  Use an
   **unmodified** SOSI for this procedure (don't enable WITTYPI=yes in
