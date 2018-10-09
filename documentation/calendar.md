@@ -8,7 +8,7 @@ title:  "Calendar and Witty Pi 2"
 * TOC
 {:toc}
 
-### This is a DRAFT (12 September 2018).
+### This is an updated DRAFT (03 October 2018).
 
 ### Calendar and Witty Pi
 
@@ -16,7 +16,7 @@ The [Witty Pi 2](http://www.uugear.com/product/wittypi2) adds both a
 clock module and power management to any Raspberry Pi.  It is now
 supported in the Solo, so recording happens according to the predefined
 times prescribed in the user's selected calendar, and the device is
-turned off when not recording, thereby saving valuable battery power.
+turned off when not recording, thereby saving valuable battery life.
 
 ### Instructions
 
@@ -25,31 +25,34 @@ turned off when not recording, thereby saving valuable battery power.
 [![Solo with Witty-Pi-2](/img/solo-with-wittypi2-L.jpg "Solo with Witty-Pi-2 (click to enlarge)"){:.some-css-class style="width:40%; margin: 10px; padding-bottom: 3px; float: right;"}](/img/solo-with-wittypi2-rot180.jpg)
 
 - Set the colourful jumpers on the Witty-Pi-2 to the correct positions
-  (blue jumper set to the right, all others to the left).  See image
-  above.
+  (blue jumper set to the right, all others to the left).  See the accompanying image.
 - Attach the Witty-Pi-2 to the Raspberry Pi and insert the coin cell
   battery.
 - Follow the normal procedure to [set the
-  clock](/documentation/clock.html) on the Witty Pi 2.  Use an
-  **unmodified** SOSI for this procedure (don't enable WITTYPI=yes in
-  amon.conf).
+  clock](/documentation/clock.html) onboard the Witty Pi 2.
+  (Be sure _not_ to enable WITTYPI=yes in amon.conf - not yet).
 
 #### Normal use:
 
-- Flash a memory card with recent version of SOSI (Witty Pi Support starts September 2018), available in the [usual place](http://www.solo-system.org/sosi/)
-- Perform your normal customisations in amon.conf and solo.conf. Be sure to set the timezone SOLO_TZ correctly in solo.conf
-- Edit boot/amon.conf : to include WITTYPI=yes and enable your chosen calendar through CALENDAR=xxx (test with "5m-on-5m-off.sh").
-- Move the memory card to the Solo and turn it on.
+- Flash a memory card with the latest SOSI available in the [usual place](http://www.solo-system.org/sosi/)
+- Perform your normal customisations in `amon.conf` and `solo.conf`. Be sure to set the timezone `SOLO_TZ` correctly in `solo.conf`
+- Enable the Witty Pi 2 and choose a calendar: Edit `boot/amon.conf` to include `WITTYPI=yes` and enable your chosen calendar via CALENDAR=xxx (test with `CALENDAR="5m-on-5m-off.sh"`).
+- Eject the sd-card from your PC and move it to the Solo.
 - Connect the battery to the Witty Pi 2, NOT the raspberry pi.  Incoming power to the raspberry pi now flows through the Witty Pi 2.
 - Press the button on the side of the Witty Pi 2 to turn the system on, if it doesn't start automatically.
-- Observe the raspberry-pi's lights to confirm that it is periodically turned off and then reboots at the times corresponding to those in your chosen calendar.
+
+Observe the raspberry-pi's lights to confirm that it is periodically
+turned off and then reboots at the times corresponding to those in
+your chosen calendar.  It is advisable for new users to use the
+5m-on-5m-off.sh calendar to see the reboot sequence in action and
+confirm it is working.
 
 
-### Calendars
+### Choosing a calendar
 
 Calendars define the on/off schedule for the Solo.  They live in
-boot/calendar/ directory and are activated by setting "CALENDAR=xxxx"
-in amon.conf.  There are 3 pre-defined calendars (on 12 Sept 2018),
+`boot/calendar/` directory and are activated by setting `CALENDAR=xxxx`
+in `amon.conf`.  There are 3 pre-defined calendars (as of 12 Sept 2018),
 but you can write your own (see below).
 
 - **5m-on-5m-off.sh** - on for 5 minutes of for 5 minutes.  It's the
@@ -60,25 +63,35 @@ but you can write your own (see below).
 - **1h-on-1h-off.sh** - on for 1 hour, off for 1 hour.  
 
 - **dusk2dawn.py** - records between dusk and dawn, which are
-    calculated properly, accounting for your latitude and longitude,
+    calculated astronomically, accounting for your latitude and longitude,
     which must be entered into the calendar beofore deploying.  Read
-    the calendar file itself for more instructions. 
-    
+    the calendar file itself for more instructions.
+
+
+### Choosing a timezone
+
+However, now that Calendars are being used, I strongly advise that
+timezones WITHOUT daylight savings are chosen.
+[GMT](https://www.timeanddate.com/time/zones/gmt) rather than
+[BST](https://www.timeanddate.com/time/zones/bst) (in the
+UK). [EST](https://www.timeanddate.com/time/zones/est) is better than
+[EDT](https://www.timeanddate.com/time/zones/edt) in the USA.  In
+Europe, [CET](https://www.timeanddate.com/time/zones/cet) is better
+than [CEST](https://www.timeanddate.com/time/zones/cest).  The website [https://www.timeanddate.com/time/zones/](https://www.timeanddate.com/time/zones/) is very useful here.
+
+
 ### Miscellaneous Notes.
 
 - Remember to connect the power lead connected to the witty pi board
   (NOT the raspberry pi board).
 
-- Don't try to install any of the witty pi's software, from the
+- Don't try to install any of the witty pi's software from the
   manufacturere's website - it's not needed.
 
 - reboot-time policy: The solo starts rebooting at the time you put in
   calendar.  It takes about 90 seconds to start recording.
 
-- reboot-time policy: The solo starts rebooting at the time you put in
-  calendar.  It takes about 90 seconds to start recording.
-
-- some calendars require their own configuration dusk2dawn.py needs
+- some calendars require their own configuration `dusk2dawn.py` needs
   lat/long for example.
 
 - Choose timezone correctly - and don't use a daylight savings
