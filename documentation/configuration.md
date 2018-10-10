@@ -44,7 +44,8 @@ and manages the audio recordings.
 * <b>CHANNELS="-c1"</b> controls stereo or mono.  Set it to 1 or 2
 
 * <b>SAMPLERATE="-r16000"</b> controls the sample rate of the audio in
-  Hz.  Set it to 8000, 16000, 44100 or anything up to 192000
+  Hz.  Set it to 8000, 16000, 44100 or anything up to 192000,
+  depending on your audio-card's capability.
 
 * <b>CLAC_VOL</b> is a volume control. range is [0,31] representing
   [0dB->31db] in 1dB steps.  Max out this volume before raising the
@@ -74,10 +75,9 @@ and manages the audio recordings.
   Solo immediately synchronises the splits with wall-clock time.  But
   it isn't perfect.
 
-* **CALENDAR="/boot/solo/calendar/night.py"** New option (Sept
-    2016) - see the [dedicated page on using the
+* <b>CALENDAR=filename </b> see the [dedicated page on using the
     calendar](calendar.html). This string must be the full path to a
-    valid calendar file in the /boot partition.
+    valid calendar file.
   
 * <b>undocumented options</b> The following are undocumented, stale, unused,
   unreliable, so ignore them unless you know what you are doing:
