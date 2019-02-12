@@ -24,7 +24,7 @@ Start with the [video](https://www.youtube.com/watch?v=0XVUWGGwwcc) and [Basic B
 
 #### Guides
 
-* [getting started](/documentation/getting-started.html) - complete introduction for Solo:basic
+* [getting started](/basic_build.html) - get started building a solo.
 * [frequently asked questions](faq.html) - questions and answers
 * [best practices and troubleshooting](troubleshooting.html) - lessons learned, experience, annoyances and problem solving
 

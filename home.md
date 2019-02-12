@@ -49,4 +49,4 @@ and licensed openly.
 There is a [video](https://www.youtube.com/watch?v=0XVUWGGwwcc) describing the solo.
 
 Have a quick look through the tabs on this website, then jump to
-the [Getting Started](documentation/basic_build.html) guide.
+the [Getting Started](/basic_build.html) guide.
