@@ -44,7 +44,7 @@ turned off when not recording, thereby saving valuable battery life.
 
 - Perform your normal customisations in `amon.conf` and
   `solo.conf`. Be sure to [choose your
-  timezone](documentation/configuration.html#setting-the-timezone-solo_tz)
+  timezone](configuration.html#setting-the-timezone-solo_tz)
   `SOLO_TZ` correctly in `solo.conf`
 
 - Enable the Witty Pi 2 and choose a calendar: Edit `boot/amon.conf`
