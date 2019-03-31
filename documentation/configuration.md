@@ -102,6 +102,10 @@ hour's gap in recordings.  To avoid this, use a timezone that DOESNT
 use daylight savings.  These include timezones like `GMT`, `GMT-5`
 (for Boston, USA),  `GMT+3` for Athens.  
 
+If you are using the Witty Pi 2, take particular care to select a
+timezone that doesn't use Daylight Savings, as it will cause confusing
+problems with reboot times.
+
 ### Setting the Power mode (SOLO_POWERMODE)
 
 The powermode controls how much power saving is done by the software
@@ -109,7 +113,7 @@ on the Solo.  The only two settings currently are
 
 * `lowest`: This is the default - it uses the least power (including
   turning off the HDMI connector, so a monitor connected to that
-  socket will NOT work.
+  socket will NOT work.)
 
 * `normal`: This performs no special measures to minimize power
   (including leaving the HDMI/monitor socket operational).
