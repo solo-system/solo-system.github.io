@@ -89,18 +89,19 @@ and manages the audio recordings.
 ### Setting the Timezone (SOLO_TZ)
 
 The timezone of the Solo is set through the /boot/solo/solo.conf file.
-The entry is `SOLO_TZ`. It defaults to `Europe/London`.
+The entry is `SOLO_TZ`. It defaults to `Etc/GMT`.
 
-`SOLO_TZ=America/Panama` would be a valid example.  As would `UTC` for
-Universal coordinated time (Zulu). Acceptable timezones are listed
-[here](/documentation/timezone-list.txt).  
+`SOLO_TZ=Europe/London` and `SOLO_TZ=America/Panama` would be a valid
+example.  As would `UTC` for Universal coordinated time
+(Zulu). Acceptable timezones are listed
+[here](/documentation/timezone-list.txt).
 
 If you choose a timezone which uses daylight saving, then be aware
 that there will be one hour of the year (in spring), when an hour's
 worth of recordings are overwritten, and in Autumn, there will be an
 hour's gap in recordings.  To avoid this, use a timezone that DOESNT
-use daylight savings.  These include timezones like `GMT`, `GMT-5`
-(for Boston, USA),  `GMT+3` for Athens.  
+use daylight savings.  These include timezones like `Etc/GMT`, `Etc/GMT-5`
+(for Boston, USA),  `Etc/GMT+3` for Athens.  
 
 If you are using the Witty Pi 2, take particular care to select a
 timezone that doesn't use Daylight Savings, as it will cause confusing
