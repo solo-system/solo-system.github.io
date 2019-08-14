@@ -8,15 +8,36 @@ title:  "Calendar and Witty Pi 2"
 * TOC
 {:toc}
 
-### This page is evolving (Last changed: 10 October 2018)
+### Recently Updated (Last changed: 13 August 2019)
 
-### Calendars and Witty Pi 2
+The Witty Pi 2 has proven to be an unreliable accessory to the Solo.  
+
+Witty-Pi-2 support is frozen as it is now (August 2019) and will not be improved.
+
+It is now considered unreliable.  If you have been unsuccessful in
+using Witty Pi 2 hardware, it can still be used as a very good clock
+module (changeable battery) - simply leave the "WITTYPI=no" option in
+amon.conf.  The Solo will use the Witty-Pi-2 as a clock module. Just
+ensure the power cable runs to the Raspberry Pi, NOT the Witty Pi 2.
+
+And those for whom it's working well can continue using it as you
+currently are - support is not being removed.
+
+Note: even with "WITTYPI=no" in amon.conf, calendars can still be used
+to define periods of recording, but there will be no "power-off"
+between recording sessions, so no benefit to battery life, but more
+strategic use of memory-card space is possible.
+
+
+
+### Calendars and Witty Pi 2 (old announcement)
 
 The [Witty Pi 2](http://www.uugear.com/product/wittypi2) adds both a
 clock module and power management to any Raspberry Pi.  It is now
-supported in the Solo, so recording happens according to the predefined
-times prescribed in the user's selected calendar, and the device is
-turned off when not recording, thereby saving valuable battery life.
+(unreliably) supported in the Solo, so recording happens according to
+the predefined times prescribed in the user's selected calendar, and
+the device is turned off when not recording, thereby saving valuable
+battery life.
 
 ### Instructions
 
@@ -49,7 +70,7 @@ turned off when not recording, thereby saving valuable battery life.
 
 - Enable the Witty Pi 2 and choose a calendar: Edit `boot/amon.conf`
   to include `WITTYPI=yes` and enable your chosen calendar via
-  CALENDAR=xxx (test with `CALENDAR="5m-on-5m-off.sh"`).
+  CALENDAR=xxx (test with `CALENDAR="/boot/solo/calendar/5m-on-5m-off.sh"`).
 
 - Eject the sd-card from your PC and move it to the Solo.
 
@@ -105,6 +126,9 @@ the Witty Pi Mini.
 
 
 ### Miscellaneous Notes.
+
+- As of August 2019, Witty Pi 2 is no longer recommended, as it has
+  proven unreliable.
 
 - Remember to connect the power lead to the Witty Pi 2 board
   (NOT the raspberry pi board).

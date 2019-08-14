@@ -103,9 +103,9 @@ hour's gap in recordings.  To avoid this, use a timezone that DOESNT
 use daylight savings.  These include timezones like `Etc/GMT`, `Etc/GMT-5`
 (for Boston, USA),  `Etc/GMT+3` for Athens.  
 
-If you are using the Witty Pi 2, take particular care to select a
-timezone that doesn't use Daylight Savings, as it will cause confusing
-problems with reboot times.
+If you are using [Calendars](/documentation/calendar.html), take
+particular care to select a timezone that doesn't use Daylight
+Savings, as it will cause confusing problems with reboot times.
 
 ### Setting the Power mode (SOLO_POWERMODE)
 

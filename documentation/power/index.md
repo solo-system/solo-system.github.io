@@ -167,9 +167,13 @@ docs](/documentation/calendar.html)
 
 ###  What about things like the Witty-Pi?
 
-I tried that - it causes interference with the ADC resulting in a buzz
-on the recordings.  This is probably due to its proximity to the
-Cirrus Logic Audio Card, but I haven't investigated further.
+I tried the Witty Pi 2 in 2018/19, and couldn't make it behave
+predictably.  It's still supported, but use at your own risk.
+
+I tried the Witty Pi 1 in 2017 - it causes interference with the ADC
+resulting in a buzz on the recordings.  This is probably due to its
+proximity to the Cirrus Logic Audio Card, but I haven't investigated
+further.
 
 
 ### Power calculations
