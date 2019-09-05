@@ -160,7 +160,7 @@ Recently (Jun 2018) people have reported success using the Solo with [this hydro
 
 ## Raspberry Pi
 
-The recommended version is the [Raspberry Pi 1 model A+](https://www.raspberrypi.org/products/raspberry-pi-1-model/) because it consumes the lowest power and is cheap.
+The recommended version is the [Raspberry Pi 1 model A+](https://www.raspberrypi.org/products/raspberry-pi-1-model-a-plus/) because it consumes the lowest power and is cheap.
 
 However, there are [many versions](https://www.raspberrypi.org/products/) of
 the Raspberry Pi available, and they all work with Solo (except strange ones like the Compute Module).  If you are on utility/mains power (rather than batteries), then you can choose any version of the Raspberry Pi you like.  I have tested many configurations using Pi1-B+, Pi2 and Pi3, and they all work fine.
