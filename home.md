@@ -6,7 +6,7 @@ weight: 1
 isfront: true
 ---
 
-- News [Sep 19, 2019] Check out [Audio Moth](https://www.openacousticdevices.info/audiomoth) for most, it's more likely to meet your recording needs (and it's well supported).
+- News [Sep 19, 2019] Check out [Audio Moth](https://www.openacousticdevices.info/audiomoth). It is very likely to meet your recording needs (and it's well supported).
 - News [Aug 12, 2019] Witty Pi behaviour unreliable - not recommended (but still supported). See [support for Witty Pi](/documentation/calendar.html).
 - News [Mar 02, 2018] A new [video](https://www.youtube.com/watch?v=0XVUWGGwwcc) is available, explaining the Solo.
 
